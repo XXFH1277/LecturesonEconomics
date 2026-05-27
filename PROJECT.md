@@ -21,6 +21,7 @@ GitHub 仓库地址：https://github.com/XXFH1277/LecturesonEconomics
 5. 更新 `LEARNING_STATE.md`，记录本课交接和下节课安排。
 6. 如果出现新的稳定工作流，更新 `skills/`。
 7. 提交到 git，之后推送到 GitHub。
+8. 每次课程、交接、模板或 skill 有更新时，都必须同步推送到 GitHub，保证跨电脑继续学习时以远端为准。
 
 ## GitHub 发布状态
 
