@@ -10,6 +10,16 @@
 
 ## 来源优先级
 
+### 教材和课程框架
+
+- MIT OpenCourseWare Principles of Microeconomics: https://ocw.mit.edu/
+- MIT OpenCourseWare Principles of Macroeconomics: https://ocw.mit.edu/
+- OpenStax Principles of Economics: https://openstax.org/details/books/principles-economics-3e
+- CORE Econ The Economy: https://www.core-econ.org/the-economy/
+- 常见高校经济学、金融学、投资学导论教材可用于安排概念顺序，但不能替代实时数据和原始来源。
+
+教材和公开课主要用于“由简入繁的教学顺序”，例如稀缺性、机会成本、供给需求、市场均衡、货币、通胀、利率和金融市场。现实案例、公司情况、基金数据和市场价格仍必须回到原始或权威来源核验。
+
 ### 公司和股票
 
 - 公司 IR、年报、季报、10-K、10-Q、20-F、招股书。

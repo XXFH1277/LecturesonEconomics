@@ -9,18 +9,19 @@ Use this skill for Chinese lessons about economics, markets, companies, funds, m
 
 ## Workflow
 
-1. Start with a realtime radar when the topic touches current markets, companies, funds, policy, war, commodities, rates, currencies, or prices.
+1. Structure each formal lesson around two large blocks: textbook-style theory first, then realtime background and market transmission.
 2. Verify live facts online before teaching them. Prefer original filings, official statistics, exchanges, regulators, fund issuers, company IR, central banks, EIA, IEA, OPEC, WGC, LBMA, CME, ICE, IMF, World Bank, OECD, FRED, and national statistical agencies.
 3. Separate the output into facts, reasoning, uncertainty, and learning takeaways.
-4. Teach one durable concept, then connect it to a real company, fund, asset, policy event, or personal decision context.
-5. For beginner learners, explain every important technical term, English word, and acronym with Chinese translation, plain-language meaning, and why it matters.
-6. End with 2 to 5 exercises that test concept understanding, real-world judgment, and personal reflection.
-7. Save the final lesson with `lesson-archiver` when the user wants the project to remain shareable.
+4. For beginner learners, start from the simplest question, then add concepts step by step. Use textbook sequencing as scaffolding, but connect each idea to practical market meaning.
+5. Teach durable concepts, then connect them to real companies, funds, assets, policy events, commodities, or personal decision context.
+6. Explain every important technical term, English word, and acronym with Chinese translation, plain-language meaning, and why it matters.
+7. End with 2 to 5 exercises that test concept understanding, real-world judgment, and personal reflection.
+8. Save the final lesson with `lesson-archiver` when the user wants the project to remain shareable.
 
 ## Default Lesson Shape
 
-- Realtime background: what happened, data cutoff, and sources.
-- Core concept: concise explanation and common misconception.
+- Theory foundation: textbook-style progression, beginner question, core concepts, and common misconception.
+- Realtime background: what happened, data cutoff, sources, and how the facts connect to theory.
 - Key terms: Chinese translation, plain-language explanation, and market use.
 - Case study: company, fund, commodity, or macro event.
 - Transmission chain: inflation, rates, currency, equities, bonds, gold, oil, funds, and personal life when relevant.
