@@ -62,6 +62,7 @@
 - [课程归档索引](./lessons/INDEX.md)
 - [来源核验规范](./references/source-policy.md)
 - [视频字幕素材提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)
+- [《炒股挣钱》PPT 素材提炼](./references/source-materials/2026-05-27-stock-trading-ppt-notes.md)
 - [实时雷达模板](./templates/realtime-radar.md)
 - [重大事件分析模板](./templates/event-deep-dive.md)
 - [公司与基金案例模板](./templates/company-fund-case.md)
