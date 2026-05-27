@@ -32,6 +32,24 @@
 - ETF 发行方官网，例如 iShares、Vanguard、State Street、华夏、易方达、南方等。
 - 指数公司方法论，例如 MSCI、S&P Dow Jones Indices、FTSE Russell、中证指数。
 
+### 金融产品和衍生工具
+
+- SEC Investor.gov: https://www.investor.gov/
+- FINRA Investor Insights: https://www.finra.org/investors
+- CFTC Learn and Protect: https://www.cftc.gov/LearnAndProtect/index.htm
+- CME Education: https://www.cmegroup.com/education.html
+- BIS statistics and publications: https://www.bis.org/
+- 交易所、监管机构和产品发行方文件优先于二手解释。
+
+### 政治经济学和制度
+
+- LSE Department of Economics: https://www.lse.ac.uk/economics
+- LSE Department of Government: https://www.lse.ac.uk/government
+- World Bank Governance: https://www.worldbank.org/en/topic/governance
+- IMF publications and data: https://www.imf.org/
+- WTO: https://www.wto.org/
+- 政治经济学内容应优先引用官方政策文件、法律法规、央行、财政部门、监管机构、国际组织和高校课程资料。
+
 ### 黄金
 
 - World Gold Council: https://www.gold.org/

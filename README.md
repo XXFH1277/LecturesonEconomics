@@ -61,6 +61,7 @@
 - [项目维护说明](./PROJECT.md)
 - [课程归档索引](./lessons/INDEX.md)
 - [来源核验规范](./references/source-policy.md)
+- [视频字幕素材提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)
 - [实时雷达模板](./templates/realtime-radar.md)
 - [重大事件分析模板](./templates/event-deep-dive.md)
 - [公司与基金案例模板](./templates/company-fund-case.md)
@@ -73,6 +74,8 @@
 这个项目也会把稳定的教学流程沉淀成 Codex skills，方便后续复用和开源分享：
 
 - [realtime-econ-teacher](./skills/realtime-econ-teacher/SKILL.md)：用于实时经济、投资、市场和社会心理教学。
+- [political-economy-bridge](./skills/political-economy-bridge/SKILL.md)：用于把经济、金融、政策、制度和国际关系连接起来。
+- [financial-product-map](./skills/financial-product-map/SKILL.md)：用于把股票、债券、基金、外汇、商品和衍生品整理成零基础产品地图。
 - [gold-oil-risk-radar](./skills/gold-oil-risk-radar/SKILL.md)：用于黄金、原油、地缘冲突和通胀传导分析。
 - [lesson-archiver](./skills/lesson-archiver/SKILL.md)：用于把每次教学内容固定保存并更新索引。
 
