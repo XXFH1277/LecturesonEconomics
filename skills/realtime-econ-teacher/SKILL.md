@@ -25,6 +25,7 @@ Use this skill for Chinese lessons about economics, markets, companies, funds, m
 - Political/institutional layer when relevant: rules, policy, regulation, fiscal/monetary decisions, geopolitics, and resource allocation.
 - Key terms: Chinese translation, plain-language explanation, and market use.
 - Case study: company, fund, commodity, or macro event.
+- Company lifecycle when relevant: primary vs secondary market, IPO/listing, financing rounds, equity dilution, lockups, disclosure, governance, and investor protection.
 - Transmission chain: inflation, rates, currency, equities, bonds, gold, oil, funds, and personal life when relevant.
 - Boundaries: confirmed facts, inference, unknowns, and why this is not investment advice.
 - Exercises: 2 to 5 questions.
@@ -36,3 +37,4 @@ Use this skill for Chinese lessons about economics, markets, companies, funds, m
 - If a fact may have changed recently, browse and state the date.
 - If sources conflict, name the conflict and explain which source is used.
 - GitHub projects can support tooling or examples, but market facts must be traced to primary or authoritative sources.
+- User-provided subtitles or course notes can shape lesson structure, but IPO/listing rules, subscription rules, issuance ratios, valuation claims, and company examples must be verified from official or authoritative sources before teaching as facts.

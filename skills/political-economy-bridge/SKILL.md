@@ -22,6 +22,17 @@ When political or institutional topics appear, separate:
 3. Market transmission: effect on profits, costs, inflation, interest rates, currency, risk appetite, commodities, and funds.
 4. Uncertainty: what is not yet confirmed, what could change, and which indicators to watch.
 
+## Listing and IPO Pattern
+
+When IPOs, listings, refinancing, shareholder reductions, or private financing rounds appear, separate:
+
+1. Issuance fact: IPO, listing, private placement, rights issue, secondary offering, or ordinary secondary-market trading.
+2. Money flow: whether funds go to the company, existing shareholders, underwriters/sponsors, or other investors.
+3. Governance and disclosure: what the company must disclose, which regulator/exchange rules apply, and what investor protections exist.
+4. Incentives: company financing needs, old shareholder exit, employee incentives, institutional allocation, public investor access, and dilution.
+5. Market transmission: valuation, liquidity, float, lockups, index inclusion, sentiment, and sector narrative.
+6. Verification: prospectus, exchange announcement, regulator rules, issuer filing, and current market data.
+
 ## Safety Rules
 
 - Do not reduce political economy to a single motive or one-party explanation.
