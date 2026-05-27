@@ -1,6 +1,6 @@
 ---
 name: lesson-archiver
-description: Use after teaching content that should be preserved in this repository. Saves the lesson as a Markdown file, updates the lesson index, and keeps sources and exercises attached for future GitHub sharing.
+description: Use after teaching content that should be preserved in this repository. Saves the lesson as a Markdown file, updates the lesson index and LEARNING_STATE.md, and keeps sources, exercises, handoff notes, and next-lesson plans attached for future GitHub sharing.
 ---
 
 # Lesson Archiver
@@ -11,9 +11,12 @@ Use this skill whenever a teaching session should be permanently saved for this 
 
 1. Create one Markdown lesson under `lessons/` named `YYYY-MM-DD-topic-slug.md`.
 2. Use `templates/lesson-note.md` unless another lesson template fits better.
-3. Include date, data cutoff, topic, learning goal, verified sources, core concept, case study, conclusion boundaries, and exercises.
+3. Include date, data cutoff, topic, learning goal, verified sources, core concept, keyword dictionary, case study, conclusion boundaries, and exercises.
 4. Update `lessons/INDEX.md` with the new lesson date, topic, and relative link.
-5. If the lesson introduces a reusable workflow, update or add a skill under `skills/`.
+5. Add a `学习交接` section to the lesson: completed content, most important takeaway, terms to review, unstable concepts, and the file to open next time.
+6. Add a `下节课安排` section to the lesson: next topic, learning goal, suggested cases, required keywords, and data to verify before the next class.
+7. Update `LEARNING_STATE.md` so another computer or Codex can continue with minimal context loss.
+8. If the lesson introduces a reusable workflow, update or add a skill under `skills/`.
 
 ## Source Rules
 
@@ -21,6 +24,12 @@ Use this skill whenever a teaching session should be permanently saved for this 
 - Prefer source links near the facts they support.
 - Label uncertain items as `待确认` or `市场推测`.
 - Do not archive unsupported claims as facts.
+
+## Continuity Rules
+
+- `LEARNING_STATE.md` is the first file to read when resuming on another computer.
+- Keep the next lesson concrete enough that another agent can continue without asking what to teach.
+- Every next-lesson plan should name the topic, goal, suggested cases, keywords, and realtime data that must be verified.
 
 ## Style
 

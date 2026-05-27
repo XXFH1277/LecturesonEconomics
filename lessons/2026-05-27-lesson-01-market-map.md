@@ -239,6 +239,22 @@ AI 财报 -> 企业盈利预期 -> 股票
 4. 找一只你听过的基金或 ETF，判断它主要属于股票、债券、黄金、原油还是混合资产。
 5. 把今天看到的一条经济新闻翻译成变量：它影响的是利润、通胀、利率、汇率、流动性，还是风险偏好？
 
+## 学习交接
+
+- 本课已经完成：建立第一张市场地图，知道股票、债券、基金、黄金、原油、利率、汇率不是孤立的，而是会互相传导。
+- 本课最重要的一句话：市场不是只有股票涨跌，市场是一套互相连接的价格系统。
+- 需要复习的关键词：资产类别（Asset Class）、利率（Interest Rate）、通胀（Inflation）、实际收益率（Real Yield）、ETF、风险偏好（Risk Appetite）、估值（Valuation）。
+- 还不稳定、下次要回看的地方：股票为什么受利率影响，黄金为什么要看实际利率，原油为什么能影响通胀。
+- 适合下次打开仓库先读的文件：[学习状态交接](../LEARNING_STATE.md) 和 [课程归档索引](./INDEX.md)。
+
+## 下节课安排
+
+- 建议主题：第二课：基金和 ETF 入门，为什么新手常通过基金理解市场。
+- 学习目标：理解基金、ETF、指数基金、主动基金、费用、持仓和净值的基本含义。
+- 建议案例：选择一个宽基指数 ETF、一个黄金 ETF、一个能源或原油相关 ETF 做对比。
+- 必须解释的关键词：Fund（基金）、ETF（交易型开放式指数基金）、Index Fund（指数基金）、Active Fund（主动基金）、NAV（Net Asset Value，基金净值）、Expense Ratio（费率）、Holdings（持仓）、Tracking Error（跟踪误差）。
+- 下节课开始前需要联网核验的数据：所选 ETF 的发行方页面、基金费用、持仓、净值或市场价格、跟踪指数说明。
+
 ## 来源
 
 - NVIDIA Investor Relations，NVIDIA Announces Financial Results for First Quarter Fiscal 2027，2026-05-20，https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx
