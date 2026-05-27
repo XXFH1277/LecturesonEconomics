@@ -7,6 +7,10 @@
 - `references/` 保存来源核验规范和长期参考来源。
 - `skills/` 保存可复用的 Codex skills，让后续教学、核验和归档更稳定。
 
+GitHub 仓库地址：https://github.com/XXFH1277/LecturesonEconomics
+
+项目状态：持续更新中。后续每次正式教学都应尽量保存为课程笔记，并在需要时更新模板、来源规范和 skills。
+
 ## 每次更新流程
 
 1. 开课前联网核验最新事实。
@@ -18,10 +22,10 @@
 
 ## GitHub 发布状态
 
-当前本地仓库还没有远程地址。发布到 GitHub 需要：
+目标远程仓库：
 
-1. 重新登录 GitHub CLI，或提供一个已创建的 GitHub 仓库地址。
-2. 添加 `origin` remote。
-3. 推送 `main` 分支。
+```text
+https://github.com/XXFH1277/LecturesonEconomics.git
+```
 
-建议仓库名：`economic-classroom` 或 `realtime-econ-classroom`。
+如果推送失败，优先检查 GitHub CLI 或 Git 凭据是否有效。
