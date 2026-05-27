@@ -20,4 +20,5 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-05-27 | 第一课：先学市场地图，不急着预测涨跌 | [2026-05-27-lesson-01-market-map.md](./2026-05-27-lesson-01-market-map.md) |
 | 2026-05-27 | 实时市场与黄金原油雷达样例 | [2026-05-27-realtime-radar.md](./2026-05-27-realtime-radar.md) |
