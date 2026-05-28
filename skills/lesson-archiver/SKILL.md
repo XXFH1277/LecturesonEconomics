@@ -11,7 +11,7 @@ Use this skill whenever a teaching session should be permanently saved for this 
 
 1. Create one Markdown lesson under `lessons/` named `YYYY-MM-DD-topic-slug.md`.
 2. Use `templates/lesson-note.md` unless another lesson template fits better.
-3. Include date, data cutoff, topic, learning goal, verified sources, core concept, keyword dictionary, case study, conclusion boundaries, and exercises.
+3. Include date, data cutoff, topic, learning goal, verified sources, core concept, keyword dictionary, review prompts, case study, conclusion boundaries, and exercises.
 4. Update `lessons/INDEX.md` with the new lesson date, topic, and relative link.
 5. Add a `学习交接` section to the lesson: completed content, most important takeaway, terms to review, unstable concepts, and the file to open next time.
 6. Add a `下节课安排` section to the lesson: next topic, learning goal, suggested cases, required keywords, and data to verify before the next class.
@@ -30,6 +30,7 @@ Use this skill whenever a teaching session should be permanently saved for this 
 - `LEARNING_STATE.md` is the first file to read when resuming on another computer.
 - Keep the next lesson concrete enough that another agent can continue without asking what to teach.
 - Every next-lesson plan should name the topic, goal, suggested cases, keywords, and realtime data that must be verified.
+- Add `可回顾第 X 课` prompts when a concept depends on earlier lessons, so later professional content can be understood through accumulated foundations.
 
 ## Style
 
