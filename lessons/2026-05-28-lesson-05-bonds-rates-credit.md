@@ -187,6 +187,46 @@
 
 这就是为什么利率是“地基”：它不只影响债券，也影响多类资产。
 
+### 4. 往期事件案例：2022 年快速加息如何影响债券
+
+美联储（Federal Reserve, Fed）在 2022-03-16 的 FOMC 声明中，把联邦基金利率目标区间上调到 0.25%-0.50%。到 2022-12-14，FOMC 声明中的目标区间已经上调到 4.25%-4.50%。
+
+这段历史对零基础学习特别有用，因为它把“债券价格和收益率反向变化”变成了现实场景：
+
+```text
+央行快速加息
+  -> 市场新债收益率上升
+  -> 旧债券固定票息相对不再有吸引力
+  -> 旧债价格下跌，收益率被动抬高
+  -> 持有较长久期债券的基金净值承压
+```
+
+这不是说“债券不能买”，而是说：债券也有利率风险。尤其是长期债券，久期更长，对利率变化更敏感。
+
+可回顾第 4 课：债券 ETF 仍然是基金份额，底层债券价格波动会传导到基金净值。
+
+### 5. 现实观察：为什么同一天要看名义利率和实际利率
+
+本课使用的 2026-05-27 美国财政部数据里，10 年期名义收益率为 4.48%，10 年期实际收益率为 2.09%。两者的差异提醒我们：市场不只在定价“借钱的利率”，也在定价未来通胀预期。
+
+对不同资产的观察方式：
+
+```text
+债券
+  -> 重点看名义收益率、实际收益率、期限、久期、信用利差
+
+黄金
+  -> 重点看实际收益率、美元、避险需求、央行购金
+
+股票
+  -> 重点看折现率、企业利润、估值和风险偏好
+
+原油
+  -> 重点看需求、库存、供给冲击和地缘风险
+```
+
+学习意义：以后看到“利率上升/下降”的新闻，不要只判断单一资产涨跌。先问它影响的是名义利率、实际利率，还是风险偏好。
+
 ## 政治、制度和规则视角
 
 - 涉及的制度：央行政策、财政发债、国债市场、信用评级、监管和信息披露。
@@ -210,6 +250,9 @@
 | Real Yield | 实际收益率 | 扣除通胀影响后的收益率 | 影响黄金和长期资产定价 |
 | Default | 违约 | 没按约定还钱 | 债券最大风险之一 |
 | Liquidity | 流动性 | 能否快速低成本买卖 | 债券流动性差异很大 |
+| Fed | 美联储 | 美国中央银行体系 | 对全球利率和美元流动性影响很大 |
+| FOMC | 联邦公开市场委员会 | 美联储制定货币政策的核心机构 | 利率决议来自这里 |
+| Federal Funds Rate | 联邦基金利率 | 美国银行间隔夜资金利率目标 | 美元短端利率的重要锚 |
 
 ## 回顾提示
 
@@ -284,6 +327,8 @@
 
 - U.S. Treasury，Daily Treasury Par Yield Curve Rates，数据日期 2026-05-27，https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
 - U.S. Treasury，Daily Treasury Real Yield Curve Rates，数据日期 2026-05-27，https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_real_yield_curve
+- Federal Reserve，FOMC statement，2022-03-16，https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm
+- Federal Reserve，FOMC statement，2022-12-14，https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm
 - SEC Investor.gov，Bonds and fixed income investor education，https://www.investor.gov/
 - FINRA，Bonds investor education，https://www.finra.org/investors/investing/investment-products/bonds
 - Vanguard，BND official materials / fact sheet，https://investor.vanguard.com/investment-products/etfs/profile/bnd
