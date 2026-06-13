@@ -21,6 +21,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-13 | 第九课：IPO 与上市入门：公司为什么上市、钱从哪里来、风险给了谁 | [2026-06-13-lesson-09-ipo-listing-basics.md](./2026-06-13-lesson-09-ipo-listing-basics.md) |
+| 2026-06-13 | 第八课：衍生工具直觉入门：远期、期货、期权、互换 | [2026-06-13-lesson-08-derivatives-basics.md](./2026-06-13-lesson-08-derivatives-basics.md) |
 | 2026-06-12 | 第七课：股票入门：所有权、公司利润、估值和风险 | [2026-06-12-lesson-07-stock-basics.md](./2026-06-12-lesson-07-stock-basics.md) |
 | 2026-06-12 | 第六课：黄金和原油入门：一个看信用与避险，一个看供需与通胀 | [2026-06-12-lesson-06-gold-oil-intro.md](./2026-06-12-lesson-06-gold-oil-intro.md) |
 | 2026-05-28 | 第五课：债券、利率和信用：为什么利率是金融市场的地基 | [2026-05-28-lesson-05-bonds-rates-credit.md](./2026-05-28-lesson-05-bonds-rates-credit.md) |
