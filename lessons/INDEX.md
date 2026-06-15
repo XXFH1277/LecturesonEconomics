@@ -1,14 +1,14 @@
 # 课程归档索引
 
-每次正式课程都保存为一个独立的 Markdown 文件，文件名格式为：
+每次正式课程都保存为一个独立 Markdown 文件，文件名格式：
 
 ```text
 lessons/YYYY-MM-DD-topic-slug.md
 ```
 
-每篇课程至少应包含：
+每篇课程至少包含：
 
-- 日期与数据截至时间
+- 日期与数据截止时间
 - 本节主题与学习目标
 - 已核验来源
 - 核心概念
@@ -21,6 +21,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-15 | 第十三课：资本配置入门：现金、分红、回购、流动性与为什么“有钱”不等于“随便花” | [2026-06-15-lesson-13-capital-allocation-liquidity.md](./2026-06-15-lesson-13-capital-allocation-liquidity.md) |
+| 2026-06-15 | 第十二课：财报深一层：MD&A、风险因素和前瞻性陈述 | [2026-06-15-lesson-12-mda-risk-factors.md](./2026-06-15-lesson-12-mda-risk-factors.md) |
 | 2026-06-14 | 第十一课：财报季披露链入门：8-K、10-Q 和为什么不能只看标题 | [2026-06-14-lesson-11-earnings-reporting-chain.md](./2026-06-14-lesson-11-earnings-reporting-chain.md) |
 | 2026-06-14 | 第十课：财报入门：利润表、资产负债表、现金流量表 | [2026-06-14-lesson-10-financial-statements-basics.md](./2026-06-14-lesson-10-financial-statements-basics.md) |
 | 2026-06-13 | 第九课：IPO 与上市入门：公司为什么上市、钱从哪里来、风险给了谁 | [2026-06-13-lesson-09-ipo-listing-basics.md](./2026-06-13-lesson-09-ipo-listing-basics.md) |
