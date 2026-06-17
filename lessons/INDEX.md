@@ -19,6 +19,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 ## 已归档课程
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-17 | 第十七课：Capex、经营现金流与自由现金流入门：为什么 AI 基础设施能让收入大涨，也能让现金先变紧 | [2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md](./2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md) |
+| 2026-06-17 | 第十六课：财报电话会、Prepared Remarks 与市场叙事：为什么同一份财报要分“先看公告，再听电话会” | [2026-06-17-lesson-16-earnings-calls-narrative.md](./2026-06-17-lesson-16-earnings-calls-narrative.md) |
 | 2026-06-16 | 第十五课：估值倍数、利率与重新定价入门：为什么同一份财报在不同利率环境下值的钱不一样 | [2026-06-16-lesson-15-multiples-rates-repricing.md](./2026-06-16-lesson-15-multiples-rates-repricing.md) |
 | 2026-06-16 | 第十四课：财报后的市场预期入门：Guidance、预期差与为什么“业绩不错股价也会跌” | [2026-06-16-lesson-14-guidance-expectation-gap.md](./2026-06-16-lesson-14-guidance-expectation-gap.md) |
 | 2026-06-15 | 第十三课：资本配置入门：现金、分红、回购、流动性与为什么“有钱”不等于“随便花” | [2026-06-15-lesson-13-capital-allocation-liquidity.md](./2026-06-15-lesson-13-capital-allocation-liquidity.md) |
