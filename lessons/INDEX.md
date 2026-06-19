@@ -6,19 +6,14 @@
 lessons/YYYY-MM-DD-topic-slug.md
 ```
 
-每篇课程至少包含：
-- 日期与数据截止时间
-- 本节主题与学习目标
-- 已核验来源
-- 核心概念
-- 实时背景或真实案例
-- 结论边界
-- 练习题
-- 学习交接与下节课安排
+每篇课程至少包含：日期与数据截止时间、主题与学习目标、已核验来源、核心概念、实时背景或真实案例、关键词解释、结论边界、练习题、学习交接与下节课安排。
 
 ## 已归档课程
+
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-19 | 第二十一课：营运资本与现金转换周期入门 | [2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md](./2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md) |
+| 2026-06-19 | 第二十课：应收账款、DSO、坏账准备与现金回收周期入门 | [2026-06-19-lesson-20-accounts-receivable-dso-bad-debt.md](./2026-06-19-lesson-20-accounts-receivable-dso-bad-debt.md) |
 | 2026-06-19 | 第十九课：递延收入、预付款与应收账款入门：为什么“钱到了”也不一定立刻算收入 | [2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md](./2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md) |
 | 2026-06-19 | 第十八课：RPO、Backlog 与收入确认入门：为什么“签了大单”不等于“本季立刻入账” | [2026-06-19-lesson-18-rpo-backlog-revenue-recognition.md](./2026-06-19-lesson-18-rpo-backlog-revenue-recognition.md) |
 | 2026-06-17 | 第十七课：Capex、经营现金流与自由现金流入门：为什么 AI 基础设施能让收入大涨，也能让现金先变紧 | [2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md](./2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md) |
@@ -30,7 +25,7 @@ lessons/YYYY-MM-DD-topic-slug.md
 | 2026-06-14 | 第十一课：财报季披露链入门：8-K、10-Q 和为什么不能只看标题 | [2026-06-14-lesson-11-earnings-reporting-chain.md](./2026-06-14-lesson-11-earnings-reporting-chain.md) |
 | 2026-06-14 | 第十课：财报入门：利润表、资产负债表、现金流量表 | [2026-06-14-lesson-10-financial-statements-basics.md](./2026-06-14-lesson-10-financial-statements-basics.md) |
 | 2026-06-13 | 第九课：IPO 与上市入门：公司为什么上市、钱从哪里来、风险给了谁 | [2026-06-13-lesson-09-ipo-listing-basics.md](./2026-06-13-lesson-09-ipo-listing-basics.md) |
-| 2026-06-13 | 第八课：衍生工具直觉入门：远期、期货、期权、互换 | [2026-06-13-lesson-08-derivatives-basics.md](./2026-06-13-lesson-08-derivatives-basics.md) |
+| 2026-06-13 | 第八课：衍生工具直观入门：远期、期货、期权、互换 | [2026-06-13-lesson-08-derivatives-basics.md](./2026-06-13-lesson-08-derivatives-basics.md) |
 | 2026-06-12 | 第七课：股票入门：所有权、公司利润、估值和风险 | [2026-06-12-lesson-07-stock-basics.md](./2026-06-12-lesson-07-stock-basics.md) |
 | 2026-06-12 | 第六课：黄金和原油入门：一个看信用与避险，一个看供需与通胀 | [2026-06-12-lesson-06-gold-oil-intro.md](./2026-06-12-lesson-06-gold-oil-intro.md) |
 | 2026-05-28 | 第五课：债券、利率和信用：为什么利率是金融市场的地基 | [2026-05-28-lesson-05-bonds-rates-credit.md](./2026-05-28-lesson-05-bonds-rates-credit.md) |
