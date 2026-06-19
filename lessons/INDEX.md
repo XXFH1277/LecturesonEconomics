@@ -19,6 +19,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 ## 已归档课程
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-19 | 第十九课：递延收入、预付款与应收账款入门：为什么“钱到了”也不一定立刻算收入 | [2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md](./2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md) |
+| 2026-06-19 | 第十八课：RPO、Backlog 与收入确认入门：为什么“签了大单”不等于“本季立刻入账” | [2026-06-19-lesson-18-rpo-backlog-revenue-recognition.md](./2026-06-19-lesson-18-rpo-backlog-revenue-recognition.md) |
 | 2026-06-17 | 第十七课：Capex、经营现金流与自由现金流入门：为什么 AI 基础设施能让收入大涨，也能让现金先变紧 | [2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md](./2026-06-17-lesson-17-capex-fcf-ai-infrastructure.md) |
 | 2026-06-17 | 第十六课：财报电话会、Prepared Remarks 与市场叙事：为什么同一份财报要分“先看公告，再听电话会” | [2026-06-17-lesson-16-earnings-calls-narrative.md](./2026-06-17-lesson-16-earnings-calls-narrative.md) |
 | 2026-06-16 | 第十五课：估值倍数、利率与重新定价入门：为什么同一份财报在不同利率环境下值的钱不一样 | [2026-06-16-lesson-15-multiples-rates-repricing.md](./2026-06-16-lesson-15-multiples-rates-repricing.md) |
