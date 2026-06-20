@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-20 | 第二十三课：营业费用、营业利润率与经营杠杆入门 | [2026-06-20-lesson-23-operating-expenses-operating-leverage.md](./2026-06-20-lesson-23-operating-expenses-operating-leverage.md) |
+| 2026-06-20 | 第二十二课：毛利率、库存减值与折扣周期入门 | [2026-06-20-lesson-22-gross-margin-inventory-markdowns.md](./2026-06-20-lesson-22-gross-margin-inventory-markdowns.md) |
 | 2026-06-19 | 第二十一课：营运资本与现金转换周期入门 | [2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md](./2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md) |
 | 2026-06-19 | 第二十课：应收账款、DSO、坏账准备与现金回收周期入门 | [2026-06-19-lesson-20-accounts-receivable-dso-bad-debt.md](./2026-06-19-lesson-20-accounts-receivable-dso-bad-debt.md) |
 | 2026-06-19 | 第十九课：递延收入、预付款与应收账款入门：为什么“钱到了”也不一定立刻算收入 | [2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md](./2026-06-19-lesson-19-deferred-revenue-prepayments-receivables.md) |
