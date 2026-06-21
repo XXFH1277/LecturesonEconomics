@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-21 | 第二十五课：EPS、稀释、回购与股本数量入门 | [2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md](./2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md) |
+| 2026-06-21 | 第二十四课：净利润、利息、税费与非经营项目入门 | [2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md](./2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md) |
 | 2026-06-20 | 第二十三课：营业费用、营业利润率与经营杠杆入门 | [2026-06-20-lesson-23-operating-expenses-operating-leverage.md](./2026-06-20-lesson-23-operating-expenses-operating-leverage.md) |
 | 2026-06-20 | 第二十二课：毛利率、库存减值与折扣周期入门 | [2026-06-20-lesson-22-gross-margin-inventory-markdowns.md](./2026-06-20-lesson-22-gross-margin-inventory-markdowns.md) |
 | 2026-06-19 | 第二十一课：营运资本与现金转换周期入门 | [2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md](./2026-06-19-lesson-21-working-capital-cash-conversion-cycle.md) |
