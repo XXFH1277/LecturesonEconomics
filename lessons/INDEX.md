@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-23 | 第二十七课：企业价值、净现金/净债务与 EV/EBITDA 入门 | [2026-06-23-lesson-27-enterprise-value-ev-ebitda.md](./2026-06-23-lesson-27-enterprise-value-ev-ebitda.md) |
+| 2026-06-23 | 第二十六课：P/E、市盈率、EPS 预期与估值倍数入门 | [2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md](./2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md) |
 | 2026-06-21 | 第二十五课：EPS、稀释、回购与股本数量入门 | [2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md](./2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md) |
 | 2026-06-21 | 第二十四课：净利润、利息、税费与非经营项目入门 | [2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md](./2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md) |
 | 2026-06-20 | 第二十三课：营业费用、营业利润率与经营杠杆入门 | [2026-06-20-lesson-23-operating-expenses-operating-leverage.md](./2026-06-20-lesson-23-operating-expenses-operating-leverage.md) |

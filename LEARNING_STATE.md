@@ -4,15 +4,15 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-06-21
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量”。
-- 已完成课程：第 25 课
+- 最近更新时间：2026-06-23
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA”。
+- 已完成课程：第 27 课
 - 最近课程：
+  - [第二十七课：企业价值、净现金/净债务与 EV/EBITDA 入门](./lessons/2026-06-23-lesson-27-enterprise-value-ev-ebitda.md)
+  - [第二十六课：P/E、市盈率、EPS 预期与估值倍数入门](./lessons/2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md)
   - [第二十五课：EPS、稀释、回购与股本数量入门](./lessons/2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md)
   - [第二十四课：净利润、利息、税费与非经营项目入门](./lessons/2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md)
-  - [第二十三课：营业费用、营业利润率与经营杠杆入门](./lessons/2026-06-20-lesson-23-operating-expenses-operating-leverage.md)
-  - [第二十二课：毛利率、库存减值与折扣周期入门](./lessons/2026-06-20-lesson-22-gross-margin-inventory-markdowns.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购和股权激励。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA 和 EV/EBITDA。
 
 ## 已完成内容摘要
 
@@ -99,6 +99,15 @@
 - 学会把股票回购、库存股、股权激励和流通股数量放在一起看，避免只看 EPS 单点变化。
 - 学会用 Adobe 2026-04-21 新 250 亿美元回购授权作为资本配置案例，但不把授权金额等同于已经完成的股东回报。
 
+### 第 26 课到第 27 课
+
+- 理解了 P/E 是价格除以每股收益，必须先分清 trailing P/E、forward P/E 和 consensus EPS 的分母口径。
+- 学会用 Microsoft 与 Adobe 的 SEC XBRL、Nasdaq last sale 和 Nasdaq analyst earnings forecast 做教学估算，同时把第三方 consensus 与公司官方 guidance 区分开。
+- 学会用 State Street SPY 页面观察 ETF 和指数估值口径，知道 fund FY1 P/E、index trailing P/E 和单一公司 P/E 不能机械比较。
+- 理解了企业价值把股权价值、债务、现金和短期投资放在一起，能弥补只看市值时忽略资本结构的问题。
+- 学会用 Microsoft 与 Adobe 的普通股数、现金、短期投资、债务、净利润、税费、利息、折旧和摊销做 EV/EBITDA 入门演示。
+- 明确了 EBITDA 不是 GAAP 净利润，也不等于自由现金流；后续必须继续学习资本开支、营运资本和现金流质量。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -109,25 +118,24 @@
 
 ## 下节课安排
 
-- 建议主题：第二十六课：P/E、市盈率、EPS 预期与估值倍数入门。
-- 学习目标：理解为什么市场常用价格除以每股收益来谈估值，知道 trailing P/E、forward P/E、consensus EPS 和估值倍数变化的区别。
+- 建议主题：第二十八课：PEG、增长率与估值陷阱入门。
+- 学习目标：理解为什么同样的 P/E 或 EV/EBITDA，在不同增长率、利润质量和利率环境下含义不同。
 - 建议案例：
-  - 继续使用 Microsoft 与 Adobe，把最新 EPS 与股价或市值连接起来。
-  - 可加入主要指数或 ETF 的 P/E 口径做对照，但必须核验指数公司、ETF 发行人、交易所或权威数据源。
+  - 继续使用 Microsoft、Adobe 和 SPY，把 P/E、forward P/E、EV/EBITDA 与增长率连接起来。
+  - 可加入一只低增长或周期性公司做对照，但必须重新核验 SEC、交易所、公司 IR、指数公司、基金公司或权威数据源。
 - 必须解释的关键词：
-  - Price（价格）
-  - Market Cap（市值）
-  - P/E（市盈率）
-  - Trailing P/E（过去十二个月市盈率）
-  - Forward P/E（预期市盈率）
-  - Consensus EPS（一致预期每股收益）
-  - Multiple Expansion（估值倍数扩张）
-  - Multiple Compression（估值倍数收缩）
+  - Growth Rate（增长率）
+  - PEG（市盈率相对增长率）
+  - Earnings Revision（盈利预期修正）
+  - Quality of Earnings（利润质量）
+  - Value Trap（价值陷阱）
+  - Duration（久期）
+  - Terminal Value（终值）
 - 下节课开始前必须联网核验：
-  - 目标公司的最新股价或市值、最新 EPS、最新 10-Q/10-K 和公司 IR 披露。
-  - 分析师一致预期来源口径，不能把网页聚合数据当成无条件事实。
-  - 指数或 ETF 的估值口径、样本日期和数据提供方。
-  - 最新 Fed/Treasury 利率背景是否变化。
+  - 目标公司的最新股价、市值、最新 EPS、最新 10-Q/10-K、公司 IR 披露和 guidance。
+  - 分析师一致预期、增长率和 earnings revision 的来源口径，不能把网页聚合数据当成无条件事实。
+  - 指数或 ETF 的估值口径、增长口径、样本日期和数据提供方。
+  - 最新 Fed/Treasury 利率背景是否变化，以及 10 年期收益率对成长股估值的影响。
   - 如涉及公司、监管、利率或市场价格，优先使用 SEC、公司 IR、监管、交易所、指数公司、基金公司或权威机构来源。
 
 ## 下次如何继续
