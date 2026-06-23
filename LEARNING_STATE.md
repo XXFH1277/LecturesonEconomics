@@ -5,14 +5,14 @@
 ## 当前状态
 
 - 最近更新时间：2026-06-23
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA”。
-- 已完成课程：第 27 课
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量”。
+- 已完成课程：第 29 课
 - 最近课程：
+  - [第二十九课：自由现金流收益率、现金转换与估值质量入门](./lessons/2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md)
+  - [第二十八课：PEG、增长率与估值陷阱入门](./lessons/2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md)
   - [第二十七课：企业价值、净现金/净债务与 EV/EBITDA 入门](./lessons/2026-06-23-lesson-27-enterprise-value-ev-ebitda.md)
   - [第二十六课：P/E、市盈率、EPS 预期与估值倍数入门](./lessons/2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md)
-  - [第二十五课：EPS、稀释、回购与股本数量入门](./lessons/2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md)
-  - [第二十四课：净利润、利息、税费与非经营项目入门](./lessons/2026-06-21-lesson-24-net-income-interest-taxes-nonoperating.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA 和 EV/EBITDA。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换和资本开支强度。
 
 ## 已完成内容摘要
 
@@ -108,6 +108,15 @@
 - 学会用 Microsoft 与 Adobe 的普通股数、现金、短期投资、债务、净利润、税费、利息、折旧和摊销做 EV/EBITDA 入门演示。
 - 明确了 EBITDA 不是 GAAP 净利润，也不等于自由现金流；后续必须继续学习资本开支、营运资本和现金流质量。
 
+### 第 28 课到第 29 课
+
+- 理解了 PEG 把 P/E 和 EPS 增长率放在一起，但它只是入门筛选工具，不是估值结论。
+- 学会用 Microsoft、Adobe 和 SPY 的 Nasdaq analyst forecast、State Street fund/index characteristics、SEC 8-K/10-Q 和 Fed/Treasury 利率背景观察增长率、forward P/E、earnings revision 和估值陷阱。
+- 明确了 Adobe 官方 GAAP/non-GAAP EPS target 与第三方 consensus EPS 口径可能不同，不能把聚合预期当成公司承诺。
+- 理解了自由现金流等于经营现金流减资本开支，自由现金流收益率能补充 P/E 和 EV/EBITDA。
+- 学会用 Microsoft 的高 AI/cloud 增长与高 Capex 强度、Adobe 的资产轻型现金转换和回购披露做现金流质量对照。
+- 明确了单季或半年自由现金流不能机械年化，后续必须学习 DCF、折现率、终值、安全边际和敏感性分析。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -118,24 +127,25 @@
 
 ## 下节课安排
 
-- 建议主题：第二十八课：PEG、增长率与估值陷阱入门。
-- 学习目标：理解为什么同样的 P/E 或 EV/EBITDA，在不同增长率、利润质量和利率环境下含义不同。
+- 建议主题：第三十课：DCF、折现率、终值与安全边际入门。
+- 学习目标：把自由现金流放进未来年份，理解为什么估值要折现，为什么终值和假设边界会强烈影响结论。
 - 建议案例：
-  - 继续使用 Microsoft、Adobe 和 SPY，把 P/E、forward P/E、EV/EBITDA 与增长率连接起来。
-  - 可加入一只低增长或周期性公司做对照，但必须重新核验 SEC、交易所、公司 IR、指数公司、基金公司或权威数据源。
+  - 继续使用 Microsoft 与 Adobe，把自由现金流、资本开支、增长率、利率和估值假设连起来。
+  - 可加入 SPY 或一只成熟低增长公司做对照，但必须重新核验 SEC、交易所、公司 IR、指数公司、基金公司或权威数据源。
 - 必须解释的关键词：
-  - Growth Rate（增长率）
-  - PEG（市盈率相对增长率）
-  - Earnings Revision（盈利预期修正）
-  - Quality of Earnings（利润质量）
-  - Value Trap（价值陷阱）
-  - Duration（久期）
+  - Discount Rate（折现率）
+  - Present Value（现值）
+  - DCF（折现现金流）
   - Terminal Value（终值）
+  - Margin of Safety（安全边际）
+  - Scenario Analysis（情景分析）
+  - Sensitivity Analysis（敏感性分析）
+  - Cost of Capital（资本成本）
 - 下节课开始前必须联网核验：
-  - 目标公司的最新股价、市值、最新 EPS、最新 10-Q/10-K、公司 IR 披露和 guidance。
+  - 目标公司的最新股价、市值、最新 10-Q/10-K、公司 IR 披露和 guidance。
+  - 最新自由现金流、资本开支、收入增速、利润率、股数、现金、债务和回购数据。
   - 分析师一致预期、增长率和 earnings revision 的来源口径，不能把网页聚合数据当成无条件事实。
-  - 指数或 ETF 的估值口径、增长口径、样本日期和数据提供方。
-  - 最新 Fed/Treasury 利率背景是否变化，以及 10 年期收益率对成长股估值的影响。
+  - 最新 Fed/Treasury 利率背景是否变化，尤其是 10 年期 Treasury yield 对折现率假设的影响。
   - 如涉及公司、监管、利率或市场价格，优先使用 SEC、公司 IR、监管、交易所、指数公司、基金公司或权威机构来源。
 
 ## 下次如何继续

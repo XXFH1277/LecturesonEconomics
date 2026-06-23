@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-23 | 第二十九课：自由现金流收益率、现金转换与估值质量入门 | [2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md](./2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md) |
+| 2026-06-23 | 第二十八课：PEG、增长率与估值陷阱入门 | [2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md](./2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md) |
 | 2026-06-23 | 第二十七课：企业价值、净现金/净债务与 EV/EBITDA 入门 | [2026-06-23-lesson-27-enterprise-value-ev-ebitda.md](./2026-06-23-lesson-27-enterprise-value-ev-ebitda.md) |
 | 2026-06-23 | 第二十六课：P/E、市盈率、EPS 预期与估值倍数入门 | [2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md](./2026-06-23-lesson-26-pe-eps-expectations-valuation-multiples.md) |
 | 2026-06-21 | 第二十五课：EPS、稀释、回购与股本数量入门 | [2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md](./2026-06-21-lesson-25-eps-dilution-buybacks-share-count.md) |
