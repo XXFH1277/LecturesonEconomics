@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-24 | 第三十一课：安全边际、情景分析与敏感性分析入门 | [2026-06-24-lesson-31-margin-of-safety-scenario-sensitivity.md](./2026-06-24-lesson-31-margin-of-safety-scenario-sensitivity.md) |
+| 2026-06-24 | 第三十课：DCF、折现率、终值与安全边际入门 | [2026-06-24-lesson-30-dcf-discount-rate-terminal-value.md](./2026-06-24-lesson-30-dcf-discount-rate-terminal-value.md) |
 | 2026-06-23 | 第二十九课：自由现金流收益率、现金转换与估值质量入门 | [2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md](./2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md) |
 | 2026-06-23 | 第二十八课：PEG、增长率与估值陷阱入门 | [2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md](./2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md) |
 | 2026-06-23 | 第二十七课：企业价值、净现金/净债务与 EV/EBITDA 入门 | [2026-06-23-lesson-27-enterprise-value-ev-ebitda.md](./2026-06-23-lesson-27-enterprise-value-ev-ebitda.md) |
