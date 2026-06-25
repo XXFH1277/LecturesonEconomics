@@ -4,15 +4,15 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-06-24
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析”。
-- 已完成课程：第 31 课
+- 最近更新时间：2026-06-25
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险”。
+- 已完成课程：第 33 课
 - 最近课程：
+  - [第三十三课：信用利差、税盾与债务风险入门](./lessons/2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md)
+  - [第三十二课：WACC、无风险利率、股权风险溢价与资本结构入门](./lessons/2026-06-25-lesson-32-wacc-risk-free-rate-capital-structure.md)
   - [第三十一课：安全边际、情景分析与敏感性分析入门](./lessons/2026-06-24-lesson-31-margin-of-safety-scenario-sensitivity.md)
   - [第三十课：DCF、折现率、终值与安全边际入门](./lessons/2026-06-24-lesson-30-dcf-discount-rate-terminal-value.md)
-  - [第二十九课：自由现金流收益率、现金转换与估值质量入门](./lessons/2026-06-23-lesson-29-free-cash-flow-yield-cash-conversion.md)
-  - [第二十八课：PEG、增长率与估值陷阱入门](./lessons/2026-06-23-lesson-28-peg-growth-rate-valuation-traps.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析和敏感性分析。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约和违约风险。
 
 ## 已完成内容摘要
 
@@ -125,6 +125,15 @@
 - 学会把估值从单点数字推进到安全边际、Base/Bull/Bear 情景、敏感性分析、估值区间和假设审计。
 - 明确了下一步必须学习 WACC、无风险利率、股权风险溢价、债务成本、资本结构和税盾，才能更系统地解释折现率从哪里来。
 
+### 第 32 课到第 33 课
+
+- 理解了 WACC 把股权成本和税后债务成本按资本结构权重合成，是 DCF 折现率的重要来源。
+- 学会把无风险利率、股权风险溢价、Beta、Cost of Equity、Cost of Debt、Tax Shield 和 Market Value Weights 连成最小折现率框架。
+- 学会用 Fed statement、FRED / H.15 Treasury yield、Nasdaq quote API、Microsoft SEC 披露和 Damodaran ERP 估计做 WACC 入门锚点。
+- 理解了债务有税盾但不是越多越好，信用利差、OAS、再融资风险、到期墙、债务契约和违约风险会把低成本债务变成压力来源。
+- 学会用 Adobe senior notes、commercial paper、interest expense、effective tax rate、FRED / ICE BofA corporate yield 和 BBB OAS 观察债务成本与信用市场背景。
+- 明确了下一步必须学习 ROIC、ROE、投入资本、NOPAT 和经济利润，才能判断公司投资回报是否高于资本成本。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -135,24 +144,26 @@
 
 ## 下节课安排
 
-- 建议主题：第三十二课：WACC、无风险利率、股权风险溢价与资本结构入门。
-- 学习目标：理解 DCF 中折现率从哪里来，为什么债务和股权的成本不同，为什么资本结构、税盾、利率和风险溢价会改变估值。
+- 建议主题：第三十四课：ROIC、ROE、投入资本与经济利润入门。
+- 学习目标：理解公司投资回报率如何和 WACC 比较，为什么增长只有在回报率超过资本成本时才更可能创造价值。
 - 建议案例：
-  - 继续使用 Microsoft 与 Adobe，把现金、债务、利息费用、自由现金流、股数、股价和 Treasury 曲线连起来。
-  - 可加入一只信用评级明确、债券收益率易核验的成熟公司做对照，但必须重新核验 SEC、交易所、公司 IR、信用评级、债券市场或权威数据源。
+  - 继续使用 Microsoft 与 Adobe，把经营利润、税率、现金、债务、商誉、股东权益、资本开支、经营现金流和 WACC 背景连起来。
+  - 可加入一只资本密集型公司做对照，但必须重新核验 SEC、公司 IR、交易所、监管或权威数据源。
 - 必须解释的关键词：
-  - WACC（加权平均资本成本）
-  - Risk-free Rate（无风险利率）
-  - Equity Risk Premium（股权风险溢价）
-  - Cost of Equity（股权成本）
-  - Cost of Debt（债务成本）
-  - Beta（贝塔）
-  - Capital Structure（资本结构）
-  - After-tax Cost of Debt（税后债务成本）
+  - ROIC（投入资本回报率）
+  - ROE（净资产收益率）
+  - Invested Capital（投入资本）
+  - NOPAT（税后净营业利润）
+  - Economic Profit（经济利润）
+  - Spread（回报率与资本成本差额）
+  - Goodwill（商誉）
+  - Operating Assets（经营资产）
+  - Capital Intensity（资本强度）
+  - Reinvestment（再投资）
 - 下节课开始前必须联网核验：
-  - 目标公司的最新股价、市值、最新 10-Q/10-K、公司 IR 披露、现金、债务、利息费用和 guidance。
-  - 最新 Treasury 曲线、Fed 声明或会议日程，尤其是 10 年期 Treasury yield 对无风险利率假设的影响。
-  - 如使用信用评级、债券收益率、beta 或股权风险溢价，必须标明来源和日期，不得把网页聚合数据当成公司官方事实。
+  - Microsoft 与 Adobe 的最新 SEC 披露、公司 IR 披露、经营利润、税率、现金、债务、商誉、股东权益、资本开支和经营现金流。
+  - 最新股价、市值、Treasury 曲线、Fed 声明或会议日程，以及用于 WACC 的 ERP、信用利差和债务成本背景。
+  - 如使用 ROIC、ROE、NOPAT 或投入资本的第三方估算，必须回到公司披露重算或清楚标注为教学估算。
   - 如涉及公司、监管、利率或市场价格，优先使用 SEC、公司 IR、监管、交易所、指数公司、基金公司或权威机构来源。
 
 ## 下次如何继续
