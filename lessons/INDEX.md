@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-26 | 第三十五课：再投资率、增量 ROIC 与增长质量入门 | [2026-06-26-lesson-35-reinvestment-growth-quality.md](./2026-06-26-lesson-35-reinvestment-growth-quality.md) |
+| 2026-06-26 | 第三十四课：ROIC、ROE、投入资本与经济利润入门 | [2026-06-26-lesson-34-roic-roe-economic-profit.md](./2026-06-26-lesson-34-roic-roe-economic-profit.md) |
 | 2026-06-25 | 第三十三课：信用利差、税盾与债务风险入门 | [2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md](./2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md) |
 | 2026-06-25 | 第三十二课：WACC、无风险利率、股权风险溢价与资本结构入门 | [2026-06-25-lesson-32-wacc-risk-free-rate-capital-structure.md](./2026-06-25-lesson-32-wacc-risk-free-rate-capital-structure.md) |
 | 2026-06-24 | 第三十一课：安全边际、情景分析与敏感性分析入门 | [2026-06-24-lesson-31-margin-of-safety-scenario-sensitivity.md](./2026-06-24-lesson-31-margin-of-safety-scenario-sensitivity.md) |
