@@ -4,15 +4,15 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-06-26
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量”。
-- 已完成课程：第 35 课
+- 最近更新时间：2026-06-29
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量”。
+- 已完成课程：第 37 课
 - 最近课程：
+  - [第三十七课：客户留存、流失率、NRR 与订阅收入质量入门](./lessons/2026-06-29-lesson-37-retention-churn-subscription-quality.md)
+  - [第三十六课：护城河、竞争优势与 ROIC 持续性入门](./lessons/2026-06-29-lesson-36-moat-competitive-advantage-roic-durability.md)
   - [第三十五课：再投资率、增量 ROIC 与增长质量入门](./lessons/2026-06-26-lesson-35-reinvestment-growth-quality.md)
   - [第三十四课：ROIC、ROE、投入资本与经济利润入门](./lessons/2026-06-26-lesson-34-roic-roe-economic-profit.md)
-  - [第三十三课：信用利差、税盾与债务风险入门](./lessons/2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md)
-  - [第三十二课：WACC、无风险利率、股权风险溢价与资本结构入门](./lessons/2026-06-25-lesson-32-wacc-risk-free-rate-capital-structure.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率和增长质量。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量。
 
 ## 已完成内容摘要
 
@@ -143,6 +143,15 @@
 - 学会用 Microsoft 的 AI/cloud 高资本开支和 Adobe 的订阅现金流、Semrush 并购、RPO、ARR 与回购对照增长质量。
 - 明确了下一步必须学习护城河、竞争优势和 ROIC 持续性，才能解释为什么有些公司能长期保持高回报，而多数公司会被竞争拉回平均水平。
 
+### 第 36 课到第 37 课
+
+- 理解了护城河不是好故事，而是保护高 ROIC 不被竞争快速打掉的证据链。
+- 学会把竞争优势拆成转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率和竞争衰减。
+- 学会用 Microsoft 的 cloud revenue、commercial RPO、Azure growth 和 Adobe 的 subscription revenue、ARR、RPO、AI-first ARR 对照护城河证据。
+- 明确了 ARR、RPO、cRPO、递延收入、订阅收入和客户留存不是同一个概念，不能把合同可见度直接等同于客户永不流失。
+- 理解了订阅收入质量要拆成新客户、老客户续费、扩容、降级、流失、折扣和价格变化。
+- 明确了下一步必须学习 CAC、LTV 与回本周期，才能把“客户质量”推进到“获客成本、客户生命周期价值和单位经济模型”。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -153,26 +162,26 @@
 
 ## 下节课安排
 
-- 建议主题：第三十六课：护城河、竞争优势与 ROIC 持续性入门。
-- 学习目标：理解为什么有些公司能长期保持高 ROIC，而多数公司会被竞争、替代品、价格压力和资本涌入拉回平均水平。
+- 建议主题：第三十八课：CAC、LTV 与回本周期入门。
+- 学习目标：理解为什么订阅公司不仅要留住客户，还要用合理成本获得客户，并在足够短时间内收回销售和营销投入。
 - 建议案例：
-  - 继续使用 Microsoft 与 Adobe，观察云、AI、订阅、RPO、ARR、品牌、生态和客户切换成本。
-  - 可加入一只资本密集或低毛利公司作对照，但必须重新核验 SEC、公司 IR、交易所、监管或权威数据源。
+  - 继续使用 Adobe 与 Microsoft，观察 sales and marketing、R&D、subscription revenue、gross margin、RPO、ARR 和 operating cash flow。
+  - 可加入一只明确披露 SaaS 指标、客户增长、sales efficiency 或 cohort 数据的公司作对照，但必须重新核验 SEC、公司 IR、交易所、监管或权威数据源。
 - 必须解释的关键词：
-  - Moat（护城河）
-  - Competitive Advantage（竞争优势）
-  - Switching Cost（转换成本）
-  - Network Effects（网络效应）
-  - Scale Economies（规模经济）
-  - Brand（品牌）
-  - Pricing Power（定价权）
-  - Customer Retention（客户留存）
-  - Churn（流失率）
-  - Competitive Fade（竞争导致的回报率衰减）
+  - CAC（客户获取成本）
+  - LTV（客户生命周期价值）
+  - Payback Period（回本周期）
+  - Sales Efficiency（销售效率）
+  - Magic Number（SaaS 销售效率粗略指标）
+  - Gross Margin（毛利率）
+  - Customer Lifetime（客户生命周期）
+  - Cohort Payback（客户队列回本）
+  - Unit Economics（单位经济模型）
+  - Rule of 40（40 法则）
 - 下节课开始前必须联网核验：
-  - Microsoft 与 Adobe 的最新 SEC 披露、公司 IR 披露、分部收入、毛利率、经营利润率、RPO/ARR、客户留存或相关披露、竞争风险因素、AI 投资进展、回购和资本开支。
-  - 最新股价、市值、Treasury 曲线、Fed 声明或会议日程，以及 WACC 背景所需的 ERP、信用利差和债务成本。
-  - 如果加入对照公司，必须核验其最新 SEC/IR 披露、收入、毛利率、经营利润率、资本开支、库存或营运资本指标。
+  - Adobe 与 Microsoft 最新 SEC 披露、公司 IR 披露、sales and marketing、R&D、subscription revenue、gross margin、RPO、ARR、operating cash flow、AI 投资进展和竞争风险因素。
+  - 最新 Treasury 曲线、Fed 声明或会议日程，以及 WACC 背景所需的 ERP、信用利差和债务成本。
+  - 如果加入对照公司，必须核验其最新 SEC/IR 披露、收入、毛利率、经营利润率、销售营销费用、客户增长、ARR、NRR 或相关 SaaS 指标。
   - 如涉及公司、监管、利率或市场价格，优先使用 SEC、公司 IR、监管、交易所、指数公司、基金公司或权威机构来源。
 
 ## 下次如何继续

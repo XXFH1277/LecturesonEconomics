@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-29 | 第三十七课：客户留存、流失率、NRR 与订阅收入质量入门 | [2026-06-29-lesson-37-retention-churn-subscription-quality.md](./2026-06-29-lesson-37-retention-churn-subscription-quality.md) |
+| 2026-06-29 | 第三十六课：护城河、竞争优势与 ROIC 持续性入门 | [2026-06-29-lesson-36-moat-competitive-advantage-roic-durability.md](./2026-06-29-lesson-36-moat-competitive-advantage-roic-durability.md) |
 | 2026-06-26 | 第三十五课：再投资率、增量 ROIC 与增长质量入门 | [2026-06-26-lesson-35-reinvestment-growth-quality.md](./2026-06-26-lesson-35-reinvestment-growth-quality.md) |
 | 2026-06-26 | 第三十四课：ROIC、ROE、投入资本与经济利润入门 | [2026-06-26-lesson-34-roic-roe-economic-profit.md](./2026-06-26-lesson-34-roic-roe-economic-profit.md) |
 | 2026-06-25 | 第三十三课：信用利差、税盾与债务风险入门 | [2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md](./2026-06-25-lesson-33-credit-spread-tax-shield-debt-risk.md) |
