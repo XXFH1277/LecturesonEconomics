@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-29 | 第三十九课：Sales Efficiency、Magic Number、Rule of 40 与单位经济模型入门 | [2026-06-29-lesson-39-sales-efficiency-rule-of-40-unit-economics.md](./2026-06-29-lesson-39-sales-efficiency-rule-of-40-unit-economics.md) |
+| 2026-06-29 | 第三十八课：CAC、LTV 与回本周期入门 | [2026-06-29-lesson-38-cac-ltv-payback-period.md](./2026-06-29-lesson-38-cac-ltv-payback-period.md) |
 | 2026-06-29 | 第三十七课：客户留存、流失率、NRR 与订阅收入质量入门 | [2026-06-29-lesson-37-retention-churn-subscription-quality.md](./2026-06-29-lesson-37-retention-churn-subscription-quality.md) |
 | 2026-06-29 | 第三十六课：护城河、竞争优势与 ROIC 持续性入门 | [2026-06-29-lesson-36-moat-competitive-advantage-roic-durability.md](./2026-06-29-lesson-36-moat-competitive-advantage-roic-durability.md) |
 | 2026-06-26 | 第三十五课：再投资率、增量 ROIC 与增长质量入门 | [2026-06-26-lesson-35-reinvestment-growth-quality.md](./2026-06-26-lesson-35-reinvestment-growth-quality.md) |
