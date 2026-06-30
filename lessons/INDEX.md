@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-06-30 | 第四十一课：股权激励、Non-GAAP、稀释与现金流质量入门 | [2026-06-30-lesson-41-sbc-non-gaap-dilution-cash-flow-quality.md](./2026-06-30-lesson-41-sbc-non-gaap-dilution-cash-flow-quality.md) |
+| 2026-06-30 | 第四十课：Bookings、Billings、递延佣金与 SaaS 现金流质量入门 | [2026-06-30-lesson-40-bookings-billings-deferred-revenue-saas-cash-quality.md](./2026-06-30-lesson-40-bookings-billings-deferred-revenue-saas-cash-quality.md) |
 | 2026-06-29 | 第三十九课：Sales Efficiency、Magic Number、Rule of 40 与单位经济模型入门 | [2026-06-29-lesson-39-sales-efficiency-rule-of-40-unit-economics.md](./2026-06-29-lesson-39-sales-efficiency-rule-of-40-unit-economics.md) |
 | 2026-06-29 | 第三十八课：CAC、LTV 与回本周期入门 | [2026-06-29-lesson-38-cac-ltv-payback-period.md](./2026-06-29-lesson-38-cac-ltv-payback-period.md) |
 | 2026-06-29 | 第三十七课：客户留存、流失率、NRR 与订阅收入质量入门 | [2026-06-29-lesson-37-retention-churn-subscription-quality.md](./2026-06-29-lesson-37-retention-churn-subscription-quality.md) |
