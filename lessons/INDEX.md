@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-07 | 第四十五课：从估值区间到安全边际、反证指标与学习型风控 | [2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md](./2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md) |
+| 2026-07-07 | 第四十四课：情景假设、敏感性表与估值输入入门 | [2026-07-07-lesson-44-scenario-sensitivity-valuation-inputs.md](./2026-07-07-lesson-44-scenario-sensitivity-valuation-inputs.md) |
 | 2026-07-07 | 第四十三课：三表预测入门：从收入驱动到利润、现金流和每股指标 | [2026-07-07-lesson-43-three-statement-forecast-revenue-to-cash-flow.md](./2026-07-07-lesson-43-three-statement-forecast-revenue-to-cash-flow.md) |
 | 2026-07-07 | 第四十二课：收入增长拆解、价格、用量、客户数与三表预测入门 | [2026-07-07-lesson-42-revenue-drivers-price-volume-fx.md](./2026-07-07-lesson-42-revenue-drivers-price-volume-fx.md) |
 | 2026-06-30 | 第四十一课：股权激励、Non-GAAP、稀释与现金流质量入门 | [2026-06-30-lesson-41-sbc-non-gaap-dilution-cash-flow-quality.md](./2026-06-30-lesson-41-sbc-non-gaap-dilution-cash-flow-quality.md) |
