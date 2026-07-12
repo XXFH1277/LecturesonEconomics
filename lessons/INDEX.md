@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-12 | 第四十七课：组合暴露、相关性与再平衡入门 | [2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md](./2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md) |
+| 2026-07-12 | 第四十六课：投资备忘录、观察清单与研究日志入门 | [2026-07-12-lesson-46-investment-memo-watchlist-research-log.md](./2026-07-12-lesson-46-investment-memo-watchlist-research-log.md) |
 | 2026-07-07 | 第四十五课：从估值区间到安全边际、反证指标与学习型风控 | [2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md](./2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md) |
 | 2026-07-07 | 第四十四课：情景假设、敏感性表与估值输入入门 | [2026-07-07-lesson-44-scenario-sensitivity-valuation-inputs.md](./2026-07-07-lesson-44-scenario-sensitivity-valuation-inputs.md) |
 | 2026-07-07 | 第四十三课：三表预测入门：从收入驱动到利润、现金流和每股指标 | [2026-07-07-lesson-43-three-statement-forecast-revenue-to-cash-flow.md](./2026-07-07-lesson-43-three-statement-forecast-revenue-to-cash-flow.md) |

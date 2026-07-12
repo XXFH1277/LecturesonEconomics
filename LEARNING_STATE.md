@@ -4,16 +4,16 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-07-07
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控”。
-- 已完成课程：第 45 课
+- 最近更新时间：2026-07-12
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡”。
+- 已完成课程：第 47 课
 - 最近课程：
+  - [第四十七课：组合暴露、相关性与再平衡入门](./lessons/2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md)
+  - [第四十六课：投资备忘录、观察清单与研究日志入门](./lessons/2026-07-12-lesson-46-investment-memo-watchlist-research-log.md)
   - [第四十五课：从估值区间到安全边际、反证指标与学习型风控](./lessons/2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md)
   - [第四十四课：情景假设、敏感性表与估值输入入门](./lessons/2026-07-07-lesson-44-scenario-sensitivity-valuation-inputs.md)
-  - [第四十三课：三表预测入门：从收入驱动到利润、现金流和每股指标](./lessons/2026-07-07-lesson-43-three-statement-forecast-revenue-to-cash-flow.md)
-  - [第四十二课：收入增长拆解、价格、用量、客户数与三表预测入门](./lessons/2026-07-07-lesson-42-revenue-drivers-price-volume-fx.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity。
-- 本次新增关键词：Base Case、Bull Case、Bear Case、Key Driver、Sensitivity Table、Valuation Input、Terminal Growth、Exit Multiple、Valuation Range、Probability Weighting、Reverse DCF、Thesis、Variant Perception、Kill Criteria、Review Trigger、Hurdle Rate、Watchlist、Investment Memo。
+- 本次新增关键词：Base Case、Bull Case、Bear Case、Key Driver、Sensitivity Table、Valuation Input、Terminal Growth、Exit Multiple、Valuation Range、Probability Weighting、Reverse DCF、Thesis、Variant Perception、Kill Criteria、Review Trigger、Hurdle Rate、Watchlist、Investment Memo、Research Log、Source Trail、Data Cutoff、Exposure、Correlation、Diversification、Concentration、Position Sizing、Rebalancing、Drawdown、Factor、Scenario Shock。
 
 ## 已完成内容摘要
 
@@ -188,6 +188,15 @@
 - 理解了估值区间、概率权重、Reverse DCF、安全边际、Thesis、Variant Perception、Kill Criteria 和 Review Trigger 的入门用法。
 - 明确了下一步必须学习投资备忘录、观察清单与复盘制度，才能把单次估值练习变成可持续的研究流程。
 
+### 第 46 课到第 47 课
+
+- 理解了 Investment Memo、Watchlist 和 Research Log 的区别：备忘录记录初始假设，观察清单记录待跟踪对象，研究日志记录每次新事实如何改变原假设。
+- 学会把 Microsoft 与 Adobe 的 SEC 披露和 Fed H.15 / FOMC 利率背景拆成“已确认事实、分析推理、反证指标、复盘触发”，不把 guidance 或估值输入当作确定结论。
+- 新增了 `templates/investment-memo.md`，用于后续公司、基金、ETF 或宏观变量研究时统一记录来源链、反证条件、观察清单标签和研究日志。
+- 理解了组合风险不是名字数量，而是风险来源：利率、AI 资本开支、订阅收入质量、回购与股数、汇率、行业预算和监管都可能形成共同暴露。
+- 学会用 Microsoft 与 Adobe 对照组合暴露：两者共同暴露于科技估值、AI 叙事、企业软件预算和利率背景，但 Microsoft 更偏 AI/cloud 资本开支与数据中心供给，Adobe 更偏 RPO/cRPO、订阅收入质量、回购和并购整合。
+- 明确了下一步适合学习基金与 ETF 持仓穿透、费用率和指数方法论，才能把组合暴露框架扩展到基金产品和指数化投资。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -198,26 +207,11 @@
 
 ## 下节课安排
 
-- 建议主题：第四十六课：投资备忘录、观察清单与复盘制度入门。
-- 学习目标：理解如何把单公司研究从一次性估值推进到持续记录：初始假设、数据表、反证指标、复盘日志、组合暴露和下一次更新计划。
-- 建议案例：
-  - 继续使用 Microsoft 与 Adobe，整理一页式投资备忘录和观察清单。
-  - 可加入 Salesforce、Snowflake 或 Datadog 作为软件/云公司对照，训练“同主题不同驱动”的研究记录。
-- 必须解释的关键词：
-  - Investment Memo（投资备忘录）
-  - Watchlist（观察清单）
-  - Research Log（研究日志）
-  - Exposure（风险暴露）
-  - Correlation（相关性）
-  - Rebalancing（再平衡）
-  - Checklist（检查清单）
-  - Post-mortem（事后复盘）
-  - Pre-mortem（事前预演）
-- 下节课开始前必须联网核验：
-  - Microsoft、Adobe、Salesforce、Snowflake、Datadog 最新 SEC/IR 披露、收入分部、客户指标、RPO、gross margin、operating expenses、cash flow、capex、SBC、repurchases 和 share count。
-  - 最新 Federal Reserve H.15 利率、FOMC statement 或 minutes、10 年期 Treasury、10 年期 TIPS、信用利差和债务成本。
-  - 如涉及基金或 ETF，必须核验基金公司官网、招募说明书、定期报告、持仓、费率和指数方法论。
-  - 如使用估值倍数、市场价格或组合权重，必须重新核验 Nasdaq、交易所、公司 IR、指数公司、基金公司或权威数据源，不能沿用旧价格。
+- 建议主题：第四十八课：基金与 ETF 持仓穿透、费用率和指数方法论入门。
+- 学习目标：理解基金不是一个黑箱，要从基金公司官网、招募说明书、定期报告、持仓、费用率、指数方法论和 premium/discount 拆解真实风险暴露。
+- 建议案例：可使用 SPY、QQQ 或其他主流 ETF 作为教学案例，但必须在开课前重新核验基金公司官网、招募说明书、持仓、费率、指数方法论和数据日期。
+- 必须解释的关键词：Holdings（持仓）、Expense Ratio（费用率）、Benchmark（基准）、Index Methodology（指数方法论）、Tracking Error（跟踪误差）、Turnover（换手率）、Sector Weight（行业权重）、Top Holdings（前十大持仓）、Creation/Redemption（申购赎回机制）、Premium/Discount（溢价/折价）。
+- 下节课开始前必须联网核验：基金公司官网的最新持仓、费率、资产规模、指数方法论、招募说明书或定期报告；如涉及市场价格、premium/discount 或收益率，必须使用交易所、基金公司或权威数据源，并注明数据日期；如继续使用公司案例，也要核验最新 SEC/IR 披露和 Fed H.15 / FOMC 利率背景。
 
 ## 下次如何继续
 
