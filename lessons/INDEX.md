@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-13 | 第四十九课：ETF 交易机制、NAV、申购赎回与溢价折价入门 | [2026-07-13-lesson-49-etf-trading-nav-premium-discount.md](./2026-07-13-lesson-49-etf-trading-nav-premium-discount.md) |
+| 2026-07-13 | 第四十八课：基金与 ETF 持仓穿透、费用率和指数方法论入门 | [2026-07-13-lesson-48-etf-holdings-expense-index-methodology.md](./2026-07-13-lesson-48-etf-holdings-expense-index-methodology.md) |
 | 2026-07-12 | 第四十七课：组合暴露、相关性与再平衡入门 | [2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md](./2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md) |
 | 2026-07-12 | 第四十六课：投资备忘录、观察清单与研究日志入门 | [2026-07-12-lesson-46-investment-memo-watchlist-research-log.md](./2026-07-12-lesson-46-investment-memo-watchlist-research-log.md) |
 | 2026-07-07 | 第四十五课：从估值区间到安全边际、反证指标与学习型风控 | [2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md](./2026-07-07-lesson-45-valuation-range-margin-of-safety-risk-checklist.md) |
