@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-16 | 第五十一课：基金风险指标、波动率、最大回撤与 Sharpe Ratio 入门 | [2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md](./2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md) |
+| 2026-07-16 | 第五十课：基金表现归因、基准偏离与主动/被动差异入门 | [2026-07-16-lesson-50-fund-performance-attribution-benchmark-deviation.md](./2026-07-16-lesson-50-fund-performance-attribution-benchmark-deviation.md) |
 | 2026-07-13 | 第四十九课：ETF 交易机制、NAV、申购赎回与溢价折价入门 | [2026-07-13-lesson-49-etf-trading-nav-premium-discount.md](./2026-07-13-lesson-49-etf-trading-nav-premium-discount.md) |
 | 2026-07-13 | 第四十八课：基金与 ETF 持仓穿透、费用率和指数方法论入门 | [2026-07-13-lesson-48-etf-holdings-expense-index-methodology.md](./2026-07-13-lesson-48-etf-holdings-expense-index-methodology.md) |
 | 2026-07-12 | 第四十七课：组合暴露、相关性与再平衡入门 | [2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md](./2026-07-12-lesson-47-portfolio-exposure-correlation-rebalancing.md) |
