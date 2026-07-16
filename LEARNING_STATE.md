@@ -5,16 +5,16 @@
 ## 当前状态
 
 - 最近更新时间：2026-07-16
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio”。
-- 已完成课程：第 51 课
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield”。
+- 已完成课程：第 53 课
 - 最近课程：
+  - [第五十三课：债券基金、久期、信用质量与 SEC Yield 入门](./lessons/2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md)
+  - [第五十二课：基金组合构建、核心/卫星配置与再平衡入门](./lessons/2026-07-16-lesson-52-fund-portfolio-core-satellite-rebalancing.md)
   - [第五十一课：基金风险指标、波动率、最大回撤与 Sharpe Ratio 入门](./lessons/2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md)
   - [第五十课：基金表现归因、基准偏离与主动/被动差异入门](./lessons/2026-07-16-lesson-50-fund-performance-attribution-benchmark-deviation.md)
-  - [第四十九课：ETF 交易机制、NAV、申购赎回与溢价折价入门](./lessons/2026-07-13-lesson-49-etf-trading-nav-premium-discount.md)
-  - [第四十八课：基金与 ETF 持仓穿透、费用率和指数方法论入门](./lessons/2026-07-13-lesson-48-etf-holdings-expense-index-methodology.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity。
-- 当前学习主线补充：第 48-51 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因和基金风险指标，新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown 和 Sharpe Ratio。
-- 本次新增关键词：Benchmark Return、Active Return、Attribution、Tracking Difference、Tracking Error、Expense Drag、Sector Allocation、Security Selection、Style Exposure、Cash Drag、Equal Weight、Passive Fund、Active Fund、Volatility、Standard Deviation、Drawdown、Maximum Drawdown、Risk-free Rate、Excess Return、Sharpe Ratio、Beta、Downside Risk、Liquidity Risk、Concentration Risk、Recovery Return。
+- 当前学习主线补充：第 48-53 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建和债券基金读表，新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS 和 prepayment risk。
+- 本次新增关键词：Asset Allocation、Diversification、Correlation、Core-Satellite、Risk Budget、Position Sizing、Liquidity Reserve、Rebalancing、Rebalancing Band、Overlap、Bond Fund、Fixed Income、Coupon、Yield、Yield to Maturity、30 Day SEC Yield、Duration、Effective Duration、Maturity、Credit Quality、OAS、Prepayment Risk、Interest Rate Risk、Distribution Yield。
 
 ## 已完成内容摘要
 
@@ -216,6 +216,15 @@
 - 学会用 U.S. Treasury Daily Treasury Rates 的短端利率作为 risk-free rate 背景，但明确它只是风险调整收益的教学输入，不是个人账户的保证收益。
 - 明确了下一步适合学习基金组合构建、核心/卫星配置与再平衡，才能把单个基金的收益和风险指标放进完整组合。
 
+### 第 52 课到第 53 课
+
+- 理解了基金组合不是基金名称数量清单，而是目标权重、工具选择、风险预算和再平衡规则的组合。
+- 学会用 SEC Investor.gov 的资产配置、分散化和再平衡说明，组织 asset allocation、core-satellite、risk budget、position sizing、liquidity reserve 和 rebalancing band。
+- 学会用 State Street SPY、Invesco QQQ 和 iShares AGG 的官方页面做组合工具对照：SPY 和 QQQ 可能共享大型科技/成长风险，AGG 引入债券暴露但不是现金。
+- 理解了债券基金不是存款，债券基金总回报来自收入和价格变化，duration 是读利率风险的核心入口。
+- 学会用 AGG 的 30 Day SEC Yield、effective duration、average yield to maturity、credit quality、OAS、Treasury/MBS 权重和历史年度回报做债券基金检查页。
+- 明确了下一步适合学习货币市场基金、T-Bill、短债 ETF 与现金管理，才能把“现金储备”和“债券基金”区别清楚。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -226,11 +235,11 @@
 
 ## 下节课安排
 
-- 建议主题：第五十二课：基金组合构建、核心/卫星配置与再平衡入门。
-- 学习目标：理解单个基金好坏不等于组合合理，学会用 asset allocation、core-satellite、risk budget、rebalancing band、correlation 和 liquidity reserve 组织基金组合。
-- 建议案例：使用 SPY、QQQ、一个等权指数或债券基金作教学对照，但必须重新核验基金官网、费用率、持仓、相关性、利率背景和风险披露。
-- 必须解释的关键词：Asset Allocation（资产配置）、Core-Satellite（核心/卫星）、Risk Budget（风险预算）、Rebalancing（再平衡）、Rebalancing Band（再平衡区间）、Correlation（相关性）、Diversification（分散化）、Liquidity Reserve（流动性储备）、Position Sizing（仓位规模）。
-- 下节课开始前必须联网核验：基金官网的最新持仓、行业权重、费用率、表现、风险披露；Treasury 最新收益率曲线；如涉及债券基金，还要核验 duration、credit quality、yield 和 SEC yield。
+- 建议主题：第五十四课：货币市场基金、T-Bill、短债 ETF 与现金管理入门。
+- 学习目标：理解现金不只是“放着不动”，学会区分 bank deposit、money market fund、Treasury bill、ultra-short bond ETF、7-day SEC yield、FDIC insurance、SIPC protection 和 liquidity gate/fees 的边界。
+- 建议案例：使用 SEC/Investor.gov 对货币市场基金和现金等价物的说明，结合 U.S. Treasury 最新短端利率、一个官方/发行人短债或国债 ETF 页面作教学对照。
+- 必须解释的关键词：Money Market Fund、Treasury Bill、Bank Deposit、FDIC Insurance、SIPC、7-Day SEC Yield、Liquidity、Settlement、Ultra-short Bond ETF、Reinvestment Risk。
+- 下节课开始前必须联网核验：Treasury 最新 1-month、3-month、6-month 和 1-year 利率；SEC/Investor.gov 对 money market funds 的最新说明；发行人页面的 7-day yield、duration、holdings、fees、liquidity 和风险披露。
 
 ## 下次如何继续
 

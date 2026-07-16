@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-16 | 第五十三课：债券基金、久期、信用质量与 SEC Yield 入门 | [2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md](./2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md) |
+| 2026-07-16 | 第五十二课：基金组合构建、核心/卫星配置与再平衡入门 | [2026-07-16-lesson-52-fund-portfolio-core-satellite-rebalancing.md](./2026-07-16-lesson-52-fund-portfolio-core-satellite-rebalancing.md) |
 | 2026-07-16 | 第五十一课：基金风险指标、波动率、最大回撤与 Sharpe Ratio 入门 | [2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md](./2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md) |
 | 2026-07-16 | 第五十课：基金表现归因、基准偏离与主动/被动差异入门 | [2026-07-16-lesson-50-fund-performance-attribution-benchmark-deviation.md](./2026-07-16-lesson-50-fund-performance-attribution-benchmark-deviation.md) |
 | 2026-07-13 | 第四十九课：ETF 交易机制、NAV、申购赎回与溢价折价入门 | [2026-07-13-lesson-49-etf-trading-nav-premium-discount.md](./2026-07-13-lesson-49-etf-trading-nav-premium-discount.md) |
