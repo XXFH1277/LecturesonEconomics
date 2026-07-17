@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-17 | 第五十五课：T-Bill 阶梯、拍卖口径与再投资风险入门 | [2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md](./2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md) |
+| 2026-07-17 | 第五十四课：货币市场基金、T-Bill、短债 ETF 与现金管理入门 | [2026-07-17-lesson-54-money-market-tbill-short-etf-cash-management.md](./2026-07-17-lesson-54-money-market-tbill-short-etf-cash-management.md) |
 | 2026-07-16 | 第五十三课：债券基金、久期、信用质量与 SEC Yield 入门 | [2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md](./2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md) |
 | 2026-07-16 | 第五十二课：基金组合构建、核心/卫星配置与再平衡入门 | [2026-07-16-lesson-52-fund-portfolio-core-satellite-rebalancing.md](./2026-07-16-lesson-52-fund-portfolio-core-satellite-rebalancing.md) |
 | 2026-07-16 | 第五十一课：基金风险指标、波动率、最大回撤与 Sharpe Ratio 入门 | [2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md](./2026-07-16-lesson-51-fund-risk-volatility-drawdown-sharpe.md) |
