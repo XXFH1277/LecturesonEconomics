@@ -3,7 +3,7 @@
 ## 基本信息
 
 - 日期：2026-07-17
-- 数据截至：2026-07-17 22:05（Asia/Shanghai）。T-Bill 已完成拍卖数据来自 U.S. Treasury FiscalData API，过滤 `security_type=Bill` 且 `auction_date <= 2026-07-17`；短端市场背景采用 Federal Reserve H.15 2026-07-16 发布、截至 2026-07-15 的数据；T-Bill 机制采用 TreasuryDirect 官方说明。
+- 数据截至：2026-07-17 21:50（Asia/Shanghai）。T-Bill 已完成拍卖数据来自 U.S. Treasury FiscalData API，过滤 `security_type=Bill` 且 `auction_date <= 2026-07-17`；短端市场背景采用 Federal Reserve H.15 2026-07-16 发布、截至 2026-07-15 的数据；T-Bill 机制采用 TreasuryDirect 官方说明。
 - 主题：T-Bill 为什么折价发行；如何读 auction date、issue date、maturity date、discount rate、investment rate、price per 100 和 bid-to-cover；如何用 T-Bill ladder 管理短期现金。
 - 学习目标：理解 T-Bill 的现金流、拍卖口径、价格公式、阶梯安排和再投资风险；能把官方拍卖结果转成一页现金管理笔记。
 - 相关资产：美国国库券、短端利率、现金管理、货币市场基金、短债 ETF。
