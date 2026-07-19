@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-19 | 第五十七课：收益率曲线形状、期限溢价与周期信号入门 | [2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md](./2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md) |
+| 2026-07-19 | 第五十六课：收益率曲线、FOMC、SOFR 与现金收益率传导入门 | [2026-07-19-lesson-56-yield-curve-fomc-sofr-cash-yield-pass-through.md](./2026-07-19-lesson-56-yield-curve-fomc-sofr-cash-yield-pass-through.md) |
 | 2026-07-17 | 第五十五课：T-Bill 阶梯、拍卖口径与再投资风险入门 | [2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md](./2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md) |
 | 2026-07-17 | 第五十四课：货币市场基金、T-Bill、短债 ETF 与现金管理入门 | [2026-07-17-lesson-54-money-market-tbill-short-etf-cash-management.md](./2026-07-17-lesson-54-money-market-tbill-short-etf-cash-management.md) |
 | 2026-07-16 | 第五十三课：债券基金、久期、信用质量与 SEC Yield 入门 | [2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md](./2026-07-16-lesson-53-bond-fund-duration-credit-sec-yield.md) |
