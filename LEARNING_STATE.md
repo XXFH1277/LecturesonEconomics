@@ -4,17 +4,17 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-07-19
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号”。
-- 已完成课程：第 57 课
+- 最近更新时间：2026-07-21
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好”。
+- 已完成课程：第 59 课
 - 最近课程：
+  - [第五十九课：美元、汇率、利差与跨资产风险偏好入门](./lessons/2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md)
+  - [第五十八课：实际利率、通胀补偿、黄金与股票估值传导入门](./lessons/2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md)
   - [第五十七课：收益率曲线形状、期限溢价与周期信号入门](./lessons/2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md)
   - [第五十六课：收益率曲线、FOMC、SOFR 与现金收益率传导入门](./lessons/2026-07-19-lesson-56-yield-curve-fomc-sofr-cash-yield-pass-through.md)
-  - [第五十五课：T-Bill 阶梯、拍卖口径与再投资风险入门](./lessons/2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md)
-  - [第五十四课：货币市场基金、T-Bill、短债 ETF 与现金管理入门](./lessons/2026-07-17-lesson-54-money-market-tbill-short-etf-cash-management.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity。
-- 当前学习主线补充：第 48-57 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导和收益率曲线形状，新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield 和 inflation compensation。
-- 本次新增关键词：Policy Rate、Target Range、IORB、ON RRP、Standing Repo Facility、Effective Federal Funds Rate、SOFR、Repo、T-Bill Rate、Basis、Lag、Pass-through、Yield Curve、Term Structure、Maturity、Constant Maturity、Term Spread、Normal Curve、Inverted Curve、Steepening、Flattening、Term Premium、Real Yield、TIPS、Inflation Compensation、Duration。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite。
+- 当前学习主线补充：第 48-59 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率和跨资产风险偏好，新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow 和 FX translation。
+- 本次新增关键词：Nominal Yield、Real Yield、TIPS、Breakeven Inflation、Opportunity Cost、Discount Rate、Equity Risk Premium、Gold ETF、Valuation Multiple、Gold Holding Cost、Central Bank Demand、Exchange Rate、Base Currency、Quote Currency、USD Index、Interest-rate Differential、Capital Flow、FX Translation、Reserve Currency、Hedging、Risk Appetite。
 
 ## 已完成内容摘要
 
@@ -246,6 +246,16 @@
 - 学会区分 nominal yield、real yield、TIPS yield、inflation compensation 和 term premium；明确期限溢价和实际利率都不是单点行情结论，必须结合模型边界、数据口径和后续验证指标。
 - 明确了下一步适合学习实际利率、通胀补偿、黄金与股票估值传导，才能把利率曲线从债券市场扩展到黄金、股票估值、美元和跨资产风险偏好。
 
+### 第 58 课到第 59 课
+
+- 理解了实际利率是连接债券、黄金和股票估值的一条核心线索：名义利率减通胀补偿可以作为实际利率入门观察，实际利率上升通常提高持有无息黄金的机会成本，也可能提高股票未来现金流折现率。
+- 学会用 Federal Reserve H.15 的 nominal CMT 与 TIPS yields 做 10Y inflation compensation 入门计算，并明确这个差值只是教学近似，不是完整通胀预期模型。
+- 学会用 World Gold Council 的 Gold Demand Trends 与 Gold ETF Flows 区分央行购金、实物投资、黄金 ETF 资金流和金价背景，不把单一 ETF 流出当成全部黄金需求。
+- 学会用 State Street SPY 官方页面核验 FY1 P/E、EPS growth、NAV、AUM、前十大持仓和行业权重，把股指估值放在实际利率和盈利增长之间理解。
+- 理解了跨境资产回报至少有两层：底层资产涨跌和汇率折算；学会用 Federal Reserve H.10 读取 USD/CNY、EUR/USD、USD/JPY、Broad dollar index、AFE dollar index 和 EME dollar index。
+- 学会用 IMF COFER 观察美元储备货币地位，知道储备货币份额变化会受到汇率估值效应、债券价格变化和主动管理共同影响。
+- 明确了下一步适合学习原油、能源通胀、美元与利率传导，才能把商品供需层、通胀层、政策层和跨资产风险偏好连接起来。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -256,11 +266,11 @@
 
 ## 下节课安排
 
-- 建议主题：第五十八课：实际利率、通胀补偿、黄金与股票估值传导入门。
-- 学习目标：理解 nominal yield、real yield、TIPS、breakeven inflation、opportunity cost、discount rate、equity risk premium 和 gold holding cost 如何把收益率曲线传导到黄金、股票估值和跨资产风险偏好。
-- 建议案例：使用 Federal Reserve H.15 nominal/TIPS yields、最新 FOMC statement、World Gold Council 或 LBMA 黄金数据、以及一个 ETF 或大型公司官方页面，解释实际利率变化为什么会影响黄金和股票估值叙事。
-- 必须解释的关键词：Nominal Yield、Real Yield、TIPS、Breakeven Inflation、Opportunity Cost、Discount Rate、Equity Risk Premium、Gold ETF、Valuation Multiple、Duration。
-- 下节课开始前必须联网核验：H.15 nominal/TIPS yields、最新 FOMC statement、World Gold Council 或 LBMA 黄金数据、一个 ETF 或公司官方估值/持仓页面。
+- 建议主题：第六十课：原油、能源通胀、美元与利率传导入门。
+- 学习目标：理解 crude oil、Brent、WTI、inventory、OPEC+、refining margin、energy inflation、real income 和 policy reaction function 如何把商品供需连接到通胀、利率、美元和股票行业表现。
+- 建议案例：使用 EIA Weekly Petroleum Status Report、EIA oil price data、OPEC monthly report、Federal Reserve FOMC statement 与 H.15，解释油价变化为什么会影响通胀预期、实际收入、央行政策和行业利润。
+- 必须解释的关键词：WTI、Brent、Inventory、OPEC+、Spare Capacity、Refining Margin、Energy Inflation、Real Income、Policy Reaction Function、Pass-through。
+- 下节课开始前必须联网核验：EIA weekly petroleum status、EIA spot prices、OPEC monthly report、最新 FOMC statement、H.15 利率和美元 H.10。
 
 ## 下次如何继续
 

@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-21 | 第五十九课：美元、汇率、利差与跨资产风险偏好入门 | [2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md](./2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md) |
+| 2026-07-21 | 第五十八课：实际利率、通胀补偿、黄金与股票估值传导入门 | [2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md](./2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md) |
 | 2026-07-19 | 第五十七课：收益率曲线形状、期限溢价与周期信号入门 | [2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md](./2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md) |
 | 2026-07-19 | 第五十六课：收益率曲线、FOMC、SOFR 与现金收益率传导入门 | [2026-07-19-lesson-56-yield-curve-fomc-sofr-cash-yield-pass-through.md](./2026-07-19-lesson-56-yield-curve-fomc-sofr-cash-yield-pass-through.md) |
 | 2026-07-17 | 第五十五课：T-Bill 阶梯、拍卖口径与再投资风险入门 | [2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md](./2026-07-17-lesson-55-tbill-ladder-auction-reinvestment-risk.md) |
