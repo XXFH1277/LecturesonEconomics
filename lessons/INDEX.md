@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-22 | 第六十一课：库存、期货曲线、炼化利润与风险溢价入门 | [2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md](./2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md) |
+| 2026-07-22 | 第六十课：原油、能源通胀、美元与利率传导入门 | [2026-07-22-lesson-60-crude-oil-energy-inflation-dollar-rates.md](./2026-07-22-lesson-60-crude-oil-energy-inflation-dollar-rates.md) |
 | 2026-07-21 | 第五十九课：美元、汇率、利差与跨资产风险偏好入门 | [2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md](./2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md) |
 | 2026-07-21 | 第五十八课：实际利率、通胀补偿、黄金与股票估值传导入门 | [2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md](./2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md) |
 | 2026-07-19 | 第五十七课：收益率曲线形状、期限溢价与周期信号入门 | [2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md](./2026-07-19-lesson-57-yield-curve-shape-term-premium-cycle-signals.md) |
