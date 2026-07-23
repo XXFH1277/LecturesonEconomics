@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-23 | 第六十三课：原油期货类 ETP、展期收益、杠杆产品与散户风险边界入门 | [2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md](./2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md) |
+| 2026-07-23 | 第六十二课：原油期货、套期保值、保证金与企业成本管理入门 | [2026-07-23-lesson-62-crude-oil-futures-hedging-margin-cost-management.md](./2026-07-23-lesson-62-crude-oil-futures-hedging-margin-cost-management.md) |
 | 2026-07-22 | 第六十一课：库存、期货曲线、炼化利润与风险溢价入门 | [2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md](./2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md) |
 | 2026-07-22 | 第六十课：原油、能源通胀、美元与利率传导入门 | [2026-07-22-lesson-60-crude-oil-energy-inflation-dollar-rates.md](./2026-07-22-lesson-60-crude-oil-energy-inflation-dollar-rates.md) |
 | 2026-07-21 | 第五十九课：美元、汇率、利差与跨资产风险偏好入门 | [2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md](./2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md) |

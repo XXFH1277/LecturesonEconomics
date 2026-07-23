@@ -4,17 +4,17 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-07-22
-- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价”。
-- 已完成课程：第 61 课
+- 最近更新时间：2026-07-23
+- 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界”。
+- 已完成课程：第 63 课
 - 最近课程：
+  - [第六十三课：原油期货类 ETP、展期收益、杠杆产品与散户风险边界入门](./lessons/2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md)
+  - [第六十二课：原油期货、套期保值、保证金与企业成本管理入门](./lessons/2026-07-23-lesson-62-crude-oil-futures-hedging-margin-cost-management.md)
   - [第六十一课：库存、期货曲线、炼化利润与风险溢价入门](./lessons/2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md)
   - [第六十课：原油、能源通胀、美元与利率传导入门](./lessons/2026-07-22-lesson-60-crude-oil-energy-inflation-dollar-rates.md)
-  - [第五十九课：美元、汇率、利差与跨资产风险偏好入门](./lessons/2026-07-21-lesson-59-dollar-fx-rate-differentials-cross-asset-risk.md)
-  - [第五十八课：实际利率、通胀补偿、黄金与股票估值传导入门](./lessons/2026-07-21-lesson-58-real-rates-inflation-compensation-gold-equity-valuation.md)
-- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness。
-- 当前学习主线补充：第 48-61 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润和风险溢价，新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin 和 risk premium。
-- 本次新增关键词：Crude Oil、WTI、Brent、Inventory、Refinery Utilization、Energy Inflation、Real Income、Policy Reaction Function、Dollar Pricing、Pass-through、Working Storage、Tank Bottoms、Cushing、Futures Curve、Contango、Backwardation、Crack Spread、Refining Margin、Risk Premium、Product Market Tightness。
+- 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset。
+- 当前学习主线补充：第 48-63 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品和散户风险边界。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield 和 daily reset。
+- 本次新增关键词：Futures Contract、Contract Size、Tick、Notional Value、Initial Margin、Maintenance Margin、Mark-to-market、Variation Margin、Hedging、Speculation、Basis Risk、Hedge Accounting、ETF、ETP、Commodity Pool、NAV、Market Price、Benchmark Futures Contract、Roll、Roll Yield、Contango Drag、Backwardation Benefit、Tracking Difference、Leverage Risk、Daily Reset。
 
 ## 已完成内容摘要
 
@@ -265,6 +265,15 @@
 - 学会把油价拆成四层观察：库存可用性、期货曲线、炼化利润和风险溢价；明确原油价格回落时，汽油、柴油和航煤 crack spreads 仍可能显示成品油市场偏紧。
 - 明确了下一步适合学习原油期货、套期保值、保证金与企业成本管理，才能把现货市场结构推进到衍生品、风险管理和企业财报披露。
 
+### 第 62 课到第 63 课
+
+- 理解了期货合约是交易所标准化的未来买卖协议，必须同时看合约规模、最小跳动、名义价值、保证金、每日盯市和交割地点。
+- 学会用 CME WTI 合约说明、CFTC 期货市场和保证金解释、EIA WPSR、EIA WTI spot、Fed H.15/H.10 与 SEC 公司披露，搭建原油期货风险管理的核验链。
+- 理解了企业套保的目标通常是降低预算不确定性，不是保证最低成本；Southwest Airlines 的燃油衍生品披露说明 WTI 和 jet fuel 不同步时会出现基差风险和套期会计边界。
+- 理解了原油期货类 ETP 不等于现货原油，很多产品持有的是期货、现金、货币市场工具、国债、互换或其他相关工具，产品 NAV 和市场价格都可能与现货油价偏离。
+- 学会用 USO 2025 Form 10-K、USCF 官方披露、CFTC 商品 ETP 风险提示和 FINRA futures/commodities 页面，区分 commodity pool、ETP、NAV、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit 和 daily reset。
+- 明确了下一步适合学习期权入门，才能把线性期货风险推进到权利金、不对称保护、时间价值和隐含波动率。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -275,11 +284,11 @@
 
 ## 下节课安排
 
-- 建议主题：第六十二课：原油期货、套期保值、保证金与企业成本管理入门。
-- 学习目标：理解 futures contract、notional value、margin、mark-to-market、hedging、speculation、basis risk、roll yield 和 hedge accounting 如何把原油现货市场结构连接到衍生品和企业成本管理。
-- 建议案例：使用 CME WTI 合约说明、EIA spot prices、最新 EIA WPSR，以及航空公司、炼厂或能源公司的 10-K/10-Q 衍生品披露，解释企业为什么用期货或互换锁定燃料成本，但套保不能消灭所有风险。
-- 必须解释的关键词：Futures Contract、Notional Value、Initial Margin、Maintenance Margin、Mark-to-market、Hedging、Speculation、Basis Risk、Roll Yield、Hedge Accounting。
-- 下节课开始前必须联网核验：CME WTI contract specs、EIA WTI/Brent spot prices、最新 EIA WPSR、公开公司 10-K/10-Q 风险因素和衍生品披露、最新 H.15 利率和美元 H.10。
+- 建议主题：第六十四课：期权入门：看涨、看跌、权利金、时间价值与保护性结构。
+- 学习目标：理解 call、put、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call 和 implied volatility 如何把线性期货风险扩展成不对称风险管理。
+- 建议案例：使用 CME WTI options 或 OCC/SEC/CFTC 投资者教育材料，解释期权为什么像支付权利金购买不对称风险暴露，以及企业和投资者如何用期权替代部分线性期货风险。
+- 必须解释的关键词：Call Option、Put Option、Premium、Strike Price、Expiration、Intrinsic Value、Time Value、Moneyness、Protective Put、Covered Call、Implied Volatility。
+- 下节课开始前必须联网核验：CME WTI option specs、CFTC/OCC/SEC 期权投资者教育材料、最新 EIA WPSR、WTI 期货曲线、CME CVOL 或其他官方波动率说明。
 
 ## 下次如何继续
 
