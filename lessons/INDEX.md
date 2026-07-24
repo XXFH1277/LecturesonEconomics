@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-24 | 第六十五课：隐含波动率、Greeks、Delta 对冲与期权风险边界入门 | [2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md](./2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md) |
+| 2026-07-24 | 第六十四课：期权入门：看涨、看跌、权利金、时间价值与保护性结构 | [2026-07-24-lesson-64-options-calls-puts-premium-protective-structures.md](./2026-07-24-lesson-64-options-calls-puts-premium-protective-structures.md) |
 | 2026-07-23 | 第六十三课：原油期货类 ETP、展期收益、杠杆产品与散户风险边界入门 | [2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md](./2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md) |
 | 2026-07-23 | 第六十二课：原油期货、套期保值、保证金与企业成本管理入门 | [2026-07-23-lesson-62-crude-oil-futures-hedging-margin-cost-management.md](./2026-07-23-lesson-62-crude-oil-futures-hedging-margin-cost-management.md) |
 | 2026-07-22 | 第六十一课：库存、期货曲线、炼化利润与风险溢价入门 | [2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md](./2026-07-22-lesson-61-inventories-futures-curve-refining-risk-premium.md) |
