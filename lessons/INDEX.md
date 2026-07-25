@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-25 | 第六十七课：期权收益型 ETF 读表入门：Distribution Yield、SEC Yield、NAV 与总回报边界 | [2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md](./2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md) |
+| 2026-07-25 | 第六十六课：期权策略产品化入门：备兑、保护性 Put、Collar、Buffer ETF 与收益边界 | [2026-07-25-lesson-66-option-strategy-products-covered-call-buffer-etf.md](./2026-07-25-lesson-66-option-strategy-products-covered-call-buffer-etf.md) |
 | 2026-07-24 | 第六十五课：隐含波动率、Greeks、Delta 对冲与期权风险边界入门 | [2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md](./2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md) |
 | 2026-07-24 | 第六十四课：期权入门：看涨、看跌、权利金、时间价值与保护性结构 | [2026-07-24-lesson-64-options-calls-puts-premium-protective-structures.md](./2026-07-24-lesson-64-options-calls-puts-premium-protective-structures.md) |
 | 2026-07-23 | 第六十三课：原油期货类 ETP、展期收益、杠杆产品与散户风险边界入门 | [2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md](./2026-07-23-lesson-63-oil-futures-etp-roll-yield-retail-risk.md) |
