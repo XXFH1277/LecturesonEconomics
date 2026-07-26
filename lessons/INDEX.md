@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-26 | 第六十九课：自动赎回票据读表入门：观察日、票息障碍、赎回条件与最坏情景 | [2026-07-26-lesson-69-autocallable-notes-barrier-coupon-liquidity-risk.md](./2026-07-26-lesson-69-autocallable-notes-barrier-coupon-liquidity-risk.md) |
+| 2026-07-26 | 第六十八课：结构化票据与 ELN 入门：收益增强、自动赎回、障碍条款与发行人信用风险 | [2026-07-26-lesson-68-structured-notes-eln-issuer-credit-risk.md](./2026-07-26-lesson-68-structured-notes-eln-issuer-credit-risk.md) |
 | 2026-07-25 | 第六十七课：期权收益型 ETF 读表入门：Distribution Yield、SEC Yield、NAV 与总回报边界 | [2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md](./2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md) |
 | 2026-07-25 | 第六十六课：期权策略产品化入门：备兑、保护性 Put、Collar、Buffer ETF 与收益边界 | [2026-07-25-lesson-66-option-strategy-products-covered-call-buffer-etf.md](./2026-07-25-lesson-66-option-strategy-products-covered-call-buffer-etf.md) |
 | 2026-07-24 | 第六十五课：隐含波动率、Greeks、Delta 对冲与期权风险边界入门 | [2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md](./2026-07-24-lesson-65-implied-volatility-greeks-option-risk-management.md) |
