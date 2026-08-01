@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-07-27 | 第七十一课：Decrement Index 与复杂指数挂钩票据入门：波动率目标、期货超额收益、费用拖累与回测边界 | [2026-07-27-lesson-71-decrement-index-volatility-target-structured-notes.md](./2026-07-27-lesson-71-decrement-index-volatility-target-structured-notes.md) |
+| 2026-07-27 | 第七十课：多标的结构化票据与最差表现风险入门：篮子、相关性、单一标的事件与分散化错觉 | [2026-07-27-lesson-70-multi-underlying-worst-performing-structured-notes.md](./2026-07-27-lesson-70-multi-underlying-worst-performing-structured-notes.md) |
 | 2026-07-26 | 第六十九课：自动赎回票据读表入门：观察日、票息障碍、赎回条件与最坏情景 | [2026-07-26-lesson-69-autocallable-notes-barrier-coupon-liquidity-risk.md](./2026-07-26-lesson-69-autocallable-notes-barrier-coupon-liquidity-risk.md) |
 | 2026-07-26 | 第六十八课：结构化票据与 ELN 入门：收益增强、自动赎回、障碍条款与发行人信用风险 | [2026-07-26-lesson-68-structured-notes-eln-issuer-credit-risk.md](./2026-07-26-lesson-68-structured-notes-eln-issuer-credit-risk.md) |
 | 2026-07-25 | 第六十七课：期权收益型 ETF 读表入门：Distribution Yield、SEC Yield、NAV 与总回报边界 | [2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md](./2026-07-25-lesson-67-option-income-etf-distribution-yield-nav-total-return.md) |
