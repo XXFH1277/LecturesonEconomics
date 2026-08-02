@@ -4,18 +4,19 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-08-01
+- 最近更新时间：2026-08-02
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
-- 已完成课程：第 71 课
+- 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
+- 已完成课程：第 73 课
 - 最近课程：
+  - [第七十三课：结构化产品持有期监控与适当性入门：观察日、账户估值、客户画像与退出决策](./lessons/2026-08-02-lesson-73-structured-product-monitoring-suitability-exit.md)
+  - [第七十二课：结构化产品发行人信用与二级市场估值入门：信用利差、估计价值、做市报价与退出成本](./lessons/2026-08-02-lesson-72-issuer-credit-secondary-market-valuation.md)
   - [第七十一课：Decrement Index 与复杂指数挂钩票据入门：波动率目标、期货超额收益、费用拖累与回测边界](./lessons/2026-07-27-lesson-71-decrement-index-volatility-target-structured-notes.md)
   - [第七十课：多标的结构化票据与最差表现风险入门：篮子、相关性、单一标的事件与分散化错觉](./lessons/2026-07-27-lesson-70-multi-underlying-worst-performing-structured-notes.md)
-  - [第六十九课：自动赎回票据读表入门：观察日、票息障碍、赎回条件与最坏情景](./lessons/2026-07-26-lesson-69-autocallable-notes-barrier-coupon-liquidity-risk.md)
-  - [第六十八课：结构化票据与 ELN 入门：收益增强、自动赎回、障碍条款与发行人信用风险](./lessons/2026-07-26-lesson-68-structured-notes-eln-issuer-credit-risk.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset、call option、put option、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call、implied volatility、historical volatility、CVOL、Delta、Gamma、Theta、Vega、Rho、delta hedge、gamma risk、time decay、volatility risk、covered call ETF、option overwrite、collar、buffer ETF、defined outcome、cap、buffer、outcome period、distribution rate、30-day SEC yield、return of capital、NAV erosion、19a notice、ELN、structured note、equity-linked note、issuer credit risk、embedded derivative、reference asset、participation rate、barrier、knock-in、autocallable、estimated value、secondary market liquidity、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、underwriting discount、no listing、worst-performing、memory coupon。
 - 当前学习主线补充：第 48-69 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品、散户风险边界、期权权利结构、保护性结构、隐含波动率、Greeks、Delta 对冲、卖方风险边界、期权策略产品化、备兑策略 ETF、保护性 put、collar、buffer ETF、defined outcome、cap/buffer/outcome period、期权收益型 ETF 分配率、SEC yield、NAV、market price、total return、return of capital、税务口径、结构化票据、ELN、发行人信用、嵌入式衍生品、自动赎回、票息障碍、阈值、估计价值和二级市场流动性。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield、daily reset、futures option、moneyness、time value、implied volatility、Greeks、Delta hedge、covered call ETF、option overwrite、buffer ETF、defined outcome、distribution rate、return of capital、NAV erosion、19a notice、ELN、structured note、issuer credit risk、embedded derivative、reference asset、barrier、knock-in、autocallable、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、estimated value、underwriting discount、no listing 和 secondary market liquidity。
-- 本次新增关键词：Worst-Performing、Basket Note、Basket Average、Correlation、Coupon Barrier、Call Value、Threshold Value、Non-Call Period、Memory Coupon、Single-Index Event Risk、Single-Stock Event Risk、Issuer Call Risk、Scenario Tree、Decrement Index、Excess Return、Volatility Target、Leverage Cap、TCA、Implicit Financing Cost、Decay Effect、Back-Tested Performance、Index Sponsor、Calculation Agent、Material Modification Event、Autocall Barrier。
+- 本次新增关键词：Issuer Credit Risk、Guarantor、Senior Unsecured Debt、Estimated Value、Issue Price、Underwriting Fee、Proceeds to Issuer、Secondary Market Bid、Market Making、Bid-Ask Spread、Credit Spread、Liquidity Discount、Conflict of Interest、Review Date、Observation Date、Interest Barrier、Trigger Value、Account Statement Value、Indicative Bid、Hold-to-Maturity Assumption、Suitability、Customer Investment Profile、Liquidity Need、Time Horizon、Alternative Product Check、Exit Decision。
 
 ## 已完成内容摘要
 
@@ -311,6 +312,15 @@
 - 学会用 Citigroup 2026-04-27 final pricing supplement、Citigroup index supplement、S&P DJI decrement index 页面和 Fed H.15 核验 decrement index、futures excess return、volatility target、TCA、6% decrement、estimated value、承销费、非上市交易和 FDIC 边界。
 - 明确了下一步适合学习结构化产品发行人信用与二级市场估值，重点看 estimated value、issue price、underwriting fee、secondary market bid、market making、conflict of interest、credit spread 和 liquidity discount。
 
+### 第 72 课到第 73 课
+
+- 理解了结构化票据的发行价、估计价值、发行成本和二级市场报价不是同一个价格口径；估计价值不是最低保护价，也不是未来回购价。
+- 学会用 SEC EDGAR 上 Jefferies 2026-07-10、JPMorgan 2026-06-02 和 Citigroup 2026-04-27 pricing supplements，对比 issue price、estimated value、fees、proceeds to issuer、listing、market making 和 issuer credit risk。
+- 学会用 Jefferies 2026-05-31 Form 10-Q、JPMorgan 2026-03-31 Form 10-Q filing detail、Fed H.15、SEC Investor.gov 和 FINRA 复杂产品材料建立发行人信用与利率背景。
+- 理解了结构化票据买入后不是“放着等”：需要按 review date / observation date 检查参考资产、障碍线、条件票息、自动赎回窗口、账户估值、实际 bid、发行人信用和个人现金需求。
+- 学会用 FINRA Suitability、FINRA Notice 12-03 和 SEC Regulation Best Interest FAQ，把产品理解、客户投资画像、流动性需求、投资期限、风险承受能力和替代产品检查放进同一张监控表。
+- 明确了下一步适合学习结构化产品税务、账户报表与基金持仓穿透，重点看 OID、1099、ordinary income、capital gain、fair value hierarchy、Level 2/Level 3、NAV、valuation policy、issuer concentration 和 ELN exposure。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -321,11 +331,11 @@
 
 ## 下节课安排
 
-- 建议主题：第七十二课：结构化产品发行人信用与二级市场估值入门：信用利差、估计价值、做市报价与退出成本。
-- 学习目标：理解 issuer credit risk、guarantor、senior unsecured debt、estimated value、issue price、underwriting fee、secondary market bid、market making、conflict of interest、credit spread 和 liquidity discount。
-- 建议案例：继续使用 Jefferies、Citigroup、BNS 或 JPMorgan 的 424B2 文件，对比公开发行价、估计价值、承销费、发行人信用和二级市场披露。
-- 必须解释的关键词：Issuer Credit Risk、Guarantor、Senior Unsecured Debt、Estimated Value、Issue Price、Underwriting Fee、Secondary Market Bid、Market Making、Conflict of Interest、Liquidity Discount。
-- 下节课开始前必须联网核验：至少两份 2026 年结构化票据 final pricing supplement、发行人 10-K/10-Q 或年度报告、最新 Fed H.15、FINRA/SEC 复杂产品材料和可获得的信用利差或债券收益率背景。
+- 建议主题：第七十四课：结构化产品税务、账户报表与基金持仓穿透入门：OID、1099、NAV 估值、Level 2/Level 3 和 ELN 暴露。
+- 学习目标：理解 original issue discount、1099、ordinary income、capital gain、fund NAV、fair value hierarchy、Level 2、Level 3、ELN exposure、issuer concentration 和 valuation policy。
+- 建议案例：使用结构化票据定价补充文件的税务讨论、基金年报或半年度报告中的 ELN/structured note 持仓披露、SEC/IRS/基金公司资料。
+- 必须解释的关键词：OID、1099、Ordinary Income、Capital Gain、Fair Value、Level 2、Level 3、NAV、Valuation Policy、Issuer Concentration、ELN Exposure。
+- 下节课开始前必须联网核验：至少一份 2026 年结构化票据税务讨论、IRS 或 SEC/Investor.gov 税务/披露材料、至少一份基金公司官方持仓或年报、最新 Fed H.15 和相关发行人披露。
 
 ## 下次如何继续
 
