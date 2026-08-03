@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-03 | 第七十五课：基金持仓穿透与 ELN 暴露入门：N-PORT、NAV、公允价值层级、发行人集中度与分配税性 | [2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md](./2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md) |
+| 2026-08-03 | 第七十四课：结构化产品税务与报表口径入门：OID、1099、开放交易、CPDI 与现金不等于税 | [2026-08-03-lesson-74-structured-product-tax-reporting-oid-1099.md](./2026-08-03-lesson-74-structured-product-tax-reporting-oid-1099.md) |
 | 2026-08-02 | 第七十三课：结构化产品持有期监控与适当性入门：观察日、账户估值、客户画像与退出决策 | [2026-08-02-lesson-73-structured-product-monitoring-suitability-exit.md](./2026-08-02-lesson-73-structured-product-monitoring-suitability-exit.md) |
 | 2026-08-02 | 第七十二课：结构化产品发行人信用与二级市场估值入门：信用利差、估计价值、做市报价与退出成本 | [2026-08-02-lesson-72-issuer-credit-secondary-market-valuation.md](./2026-08-02-lesson-72-issuer-credit-secondary-market-valuation.md) |
 | 2026-07-27 | 第七十一课：Decrement Index 与复杂指数挂钩票据入门：波动率目标、期货超额收益、费用拖累与回测边界 | [2026-07-27-lesson-71-decrement-index-volatility-target-structured-notes.md](./2026-07-27-lesson-71-decrement-index-volatility-target-structured-notes.md) |
