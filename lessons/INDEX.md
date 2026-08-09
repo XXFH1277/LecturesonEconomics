@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-09 | 第七十七课：收益型 ETF 的税务效率与再投资假设入门：税前回报、税后回报、分配再投、卖出税负与账户位置 | [2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md](./2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md) |
+| 2026-08-09 | 第七十六课：收益型 ETF 分配质量与税后总回报入门：19a notice、return of capital、NAV erosion、after-tax return 与再投资假设 | [2026-08-09-lesson-76-income-etf-distribution-quality-after-tax-return.md](./2026-08-09-lesson-76-income-etf-distribution-quality-after-tax-return.md) |
 | 2026-08-03 | 第七十五课：基金持仓穿透与 ELN 暴露入门：N-PORT、NAV、公允价值层级、发行人集中度与分配税性 | [2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md](./2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md) |
 | 2026-08-03 | 第七十四课：结构化产品税务与报表口径入门：OID、1099、开放交易、CPDI 与现金不等于税 | [2026-08-03-lesson-74-structured-product-tax-reporting-oid-1099.md](./2026-08-03-lesson-74-structured-product-tax-reporting-oid-1099.md) |
 | 2026-08-02 | 第七十三课：结构化产品持有期监控与适当性入门：观察日、账户估值、客户画像与退出决策 | [2026-08-02-lesson-73-structured-product-monitoring-suitability-exit.md](./2026-08-02-lesson-73-structured-product-monitoring-suitability-exit.md) |
