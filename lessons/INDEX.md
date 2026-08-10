@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-10 | 第八十一课：ETF 流动性与关闭风险入门：AUM、成交量、买卖价差、溢价折价、清算日和退出纪律 | [2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md](./2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md) |
+| 2026-08-10 | 第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律 | [2026-08-10-lesson-80-thematic-sector-etf-concentration.md](./2026-08-10-lesson-80-thematic-sector-etf-concentration.md) |
 | 2026-08-10 | 第七十九课：因子 ETF 与 Smart Beta 入门：质量、动量、价值、规模、低波动、指数规则与暴露风险 | [2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md](./2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md) |
 | 2026-08-10 | 第七十八课：主动 ETF 与指数 ETF 的选择入门：主动管理、透明持仓、费用率、换手率、税务效率与基准偏离 | [2026-08-10-lesson-78-active-vs-index-etf-selection.md](./2026-08-10-lesson-78-active-vs-index-etf-selection.md) |
 | 2026-08-09 | 第七十七课：收益型 ETF 的税务效率与再投资假设入门：税前回报、税后回报、分配再投、卖出税负与账户位置 | [2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md](./2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md) |
