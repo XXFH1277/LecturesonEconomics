@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-10 | 第七十九课：因子 ETF 与 Smart Beta 入门：质量、动量、价值、规模、低波动、指数规则与暴露风险 | [2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md](./2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md) |
+| 2026-08-10 | 第七十八课：主动 ETF 与指数 ETF 的选择入门：主动管理、透明持仓、费用率、换手率、税务效率与基准偏离 | [2026-08-10-lesson-78-active-vs-index-etf-selection.md](./2026-08-10-lesson-78-active-vs-index-etf-selection.md) |
 | 2026-08-09 | 第七十七课：收益型 ETF 的税务效率与再投资假设入门：税前回报、税后回报、分配再投、卖出税负与账户位置 | [2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md](./2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md) |
 | 2026-08-09 | 第七十六课：收益型 ETF 分配质量与税后总回报入门：19a notice、return of capital、NAV erosion、after-tax return 与再投资假设 | [2026-08-09-lesson-76-income-etf-distribution-quality-after-tax-return.md](./2026-08-09-lesson-76-income-etf-distribution-quality-after-tax-return.md) |
 | 2026-08-03 | 第七十五课：基金持仓穿透与 ELN 暴露入门：N-PORT、NAV、公允价值层级、发行人集中度与分配税性 | [2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md](./2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md) |

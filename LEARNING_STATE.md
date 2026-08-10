@@ -4,21 +4,24 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-08-09
+- 最近更新时间：2026-08-10
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
 - 当前阶段补充（2026-08-03）：第 74-75 课已把结构化产品继续推进到 OID、1099-OID、1099-B、CPDI、comparable yield、projected payment schedule、open transaction、adjusted basis、Form N-PORT、JEPI 持仓穿透、ELN 暴露、Rule 144A/Section 4(a)(2)、Level 1/Level 2/Level 3、公允价值估值治理、发行人集中度和基金分配税性。
 - 当前阶段补充（2026-08-09）：第 76-77 课已把收益型 ETF 从分配率推进到 19a notice、return of capital、NAV erosion、30-day SEC yield、total return、after-tax return、tax drag、tax deferral、cost basis、account location、JEPI/JEPQ、ROCY/ROCQ、JOYT 和期权收益处理路径。
-- 已完成课程：第 77 课
+- 当前阶段补充（2026-08-10）：第 78-79 课已把 ETF 选择从“主动/指数”推进到 benchmark、active share、active return、tracking difference、turnover、portfolio transparency、creation/redemption、capital gains distribution、tax efficiency、factor、smart beta、quality、momentum、value、size、minimum volatility、sector neutral、rebalance、factor crowding、active risk 和 valuation exposure。
+- 已完成课程：第 79 课
 - 最近课程：
+  - [第七十九课：因子 ETF 与 Smart Beta 入门：质量、动量、价值、规模、低波动、指数规则与暴露风险](./lessons/2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md)
+  - [第七十八课：主动 ETF 与指数 ETF 的选择入门：主动管理、透明持仓、费用率、换手率、税务效率与基准偏离](./lessons/2026-08-10-lesson-78-active-vs-index-etf-selection.md)
   - [第七十七课：收益型 ETF 的税务效率与再投资假设入门：税前回报、税后回报、分配再投、卖出税负与账户位置](./lessons/2026-08-09-lesson-77-income-etf-tax-aware-total-return-reinvestment.md)
   - [第七十六课：收益型 ETF 分配质量与税后总回报入门：19a notice、return of capital、NAV erosion、after-tax return 与再投资假设](./lessons/2026-08-09-lesson-76-income-etf-distribution-quality-after-tax-return.md)
   - [第七十五课：基金持仓穿透与 ELN 暴露入门：N-PORT、NAV、公允价值层级、发行人集中度与分配税性](./lessons/2026-08-03-lesson-75-fund-holdings-eln-fair-value-hierarchy.md)
   - [第七十四课：结构化产品税务与报表口径入门：OID、1099、开放交易、CPDI 与现金不等于税](./lessons/2026-08-03-lesson-74-structured-product-tax-reporting-oid-1099.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset、call option、put option、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call、implied volatility、historical volatility、CVOL、Delta、Gamma、Theta、Vega、Rho、delta hedge、gamma risk、time decay、volatility risk、covered call ETF、option overwrite、collar、buffer ETF、defined outcome、cap、buffer、outcome period、distribution rate、30-day SEC yield、return of capital、NAV erosion、19a notice、ELN、structured note、equity-linked note、issuer credit risk、embedded derivative、reference asset、participation rate、barrier、knock-in、autocallable、estimated value、secondary market liquidity、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、underwriting discount、no listing、worst-performing、memory coupon。
 - 当前学习主线补充：第 48-69 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品、散户风险边界、期权权利结构、保护性结构、隐含波动率、Greeks、Delta 对冲、卖方风险边界、期权策略产品化、备兑策略 ETF、保护性 put、collar、buffer ETF、defined outcome、cap/buffer/outcome period、期权收益型 ETF 分配率、SEC yield、NAV、market price、total return、return of capital、税务口径、结构化票据、ELN、发行人信用、嵌入式衍生品、自动赎回、票息障碍、阈值、估计价值和二级市场流动性。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield、daily reset、futures option、moneyness、time value、implied volatility、Greeks、Delta hedge、covered call ETF、option overwrite、buffer ETF、defined outcome、distribution rate、return of capital、NAV erosion、19a notice、ELN、structured note、issuer credit risk、embedded derivative、reference asset、barrier、knock-in、autocallable、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、estimated value、underwriting discount、no listing 和 secondary market liquidity。
-- 本次新增关键词：Distribution Rate、30-Day SEC Yield、Trailing 12-Month Distribution、Section 19(a) Notice、Rule 19a-1 Notice、Return of Capital、Qualified Dividend、Ordinary Dividend、Capital Gain Distribution、NAV Erosion、Total Return、After-Tax Return、Reinvestment Assumption、Tax Drag、Tax Deferral、Cost Basis、Account Location、Option Premium Treatment、Call Spread、Tax Character。
+- 本次新增关键词：Active ETF、Index ETF、Benchmark、Active Share、Active Return、Tracking Difference、Turnover、Expense Ratio、Portfolio Transparency、Creation/Redemption、Capital Gains Distribution、Tax Efficiency、Factor、Smart Beta、Quality、Momentum、Value、Size、Minimum Volatility、Parent Index、Factor Score、Sector Neutral、Rebalance、Factor Crowding、Active Risk、Valuation Exposure。
 
 ## 已完成内容摘要
 
@@ -341,6 +344,15 @@
 - 学会用 J.P. Morgan JEPI/JEPQ、ROCY/ROCQ 和 JOYT 案例，把收益型 ETF 分成当前现金流型、税务递延型和总回报复利型三种教学路径。
 - 明确了下一步适合学习主动 ETF 与指数 ETF 的选择，重点看 active ETF、index ETF、benchmark、active share、turnover、portfolio transparency、creation/redemption、capital gains distribution 和 tax efficiency。
 
+### 第 78 课到第 79 课
+
+- 理解了主动 ETF 和指数 ETF 的核心差异不是“好坏”，而是谁决定持仓：指数 ETF 主要按指数方法论，主动 ETF 主要按投资顾问判断。
+- 学会用 Investor.gov、State Street SPY、Vanguard VTI、J.P. Morgan JEPI/JAVA、ARKK 和 Fed H.15 对比 benchmark、expense ratio、turnover、holdings count、top holdings、premium/discount、tax efficiency 和 portfolio transparency。
+- 理解了指数 ETF 也可能因为市值加权而集中在大公司和行业；主动 ETF 也可能因为费用、换手、管理人判断、风格漂移、衍生品和税务结果而落后。
+- 学会把 Smart Beta / factor ETF 理解成“规则化偏离”：质量、动量、价值、规模和低波动因子不是预测器，而是把某类股票特征写进指数规则。
+- 学会用 iShares QUAL、MTUM、LRGF 和 MSCI USA Sector Neutral Quality Index 核验 factor definition、parent index、factor score、sector neutral、rebalance、turnover、valuation exposure 和 distributions。
+- 明确了下一步适合学习主题 ETF 与行业 ETF 的集中度，重点看 thematic ETF、sector ETF、concentration、overlap、narrative risk、AUM、bid-ask spread、closure risk 和 exit discipline。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -351,11 +363,11 @@
 
 ## 下节课安排
 
-- 建议主题：第七十八课：主动 ETF 与指数 ETF 的选择入门：主动管理、透明持仓、费用率、换手率、税务效率与基准偏离。
-- 学习目标：理解 active ETF、index ETF、benchmark、active share、turnover、portfolio transparency、creation/redemption、capital gains distribution 和 tax efficiency。
-- 建议案例：对比主动权益收益 ETF、传统指数 ETF 和主动透明 ETF，使用 SEC/Investor.gov ETF 材料、基金公司招募说明书、持仓披露和费用表。
-- 必须解释的关键词：Active ETF、Index ETF、Benchmark、Active Share、Turnover、Expense Ratio、Portfolio Transparency、Creation/Redemption、Tax Efficiency、Capital Gains Distribution。
-- 下节课开始前必须联网核验：SEC/Investor.gov ETF 教育材料、至少两只主动 ETF 和两只指数 ETF 官方页面、最新 prospectus、费用率、换手率、持仓披露频率和资本利得分配历史。
+- 建议主题：第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律。
+- 学习目标：理解 thematic ETF、sector ETF、industry exposure、concentration、overlap、narrative risk、liquidity、AUM、bid-ask spread、closure risk、rebalancing discipline 和 exit discipline。
+- 建议案例：对比半导体、AI、机器人、清洁能源或医疗创新类主题/行业 ETF，使用发行方官网、指数方法论、持仓下载、费用表、交易质量和分配历史。
+- 必须解释的关键词：Thematic ETF、Sector ETF、Industry Exposure、Concentration、Overlap、Narrative Risk、AUM、Bid-Ask Spread、Closure Risk、Rebalance、Exit Discipline。
+- 下节课开始前必须联网核验：SEC/Investor.gov 主题基金或非传统指数基金材料、至少两只主题 ETF 和两只行业 ETF 官方页面、最新 prospectus、指数方法论、费用率、AUM、成交量、bid-ask spread、前十大持仓、行业权重和资本利得分配历史。
 
 ## 下次如何继续
 
