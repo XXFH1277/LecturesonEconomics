@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-11 | 第八十三课：ETF 税务敏感再平衡与替代 ETF 入门：成本基础、资本利得、Wash Sale、费用和复查流程 | [2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md](./2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md) |
+| 2026-08-11 | 第八十二课：ETF 组合重叠、风险预算与再平衡入门：核心/卫星、穿透暴露、主题叠加和复查频率 | [2026-08-11-lesson-82-etf-portfolio-overlap-risk-budget-rebalancing.md](./2026-08-11-lesson-82-etf-portfolio-overlap-risk-budget-rebalancing.md) |
 | 2026-08-10 | 第八十一课：ETF 流动性与关闭风险入门：AUM、成交量、买卖价差、溢价折价、清算日和退出纪律 | [2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md](./2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md) |
 | 2026-08-10 | 第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律 | [2026-08-10-lesson-80-thematic-sector-etf-concentration.md](./2026-08-10-lesson-80-thematic-sector-etf-concentration.md) |
 | 2026-08-10 | 第七十九课：因子 ETF 与 Smart Beta 入门：质量、动量、价值、规模、低波动、指数规则与暴露风险 | [2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md](./2026-08-10-lesson-79-factor-smart-beta-etf-exposure-risk.md) |
