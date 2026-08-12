@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-12 | 第八十五课：ETF 决策日志、反证指标与复查节奏入门：把复盘写成可执行的研究流程 | [2026-08-12-lesson-85-etf-decision-journal-review-cadence.md](./2026-08-12-lesson-85-etf-decision-journal-review-cadence.md) |
+| 2026-08-12 | 第八十四课：ETF 绩效复盘和持仓归因入门：收益来源、再平衡贡献、费用拖累、税后结果和研究日志 | [2026-08-12-lesson-84-etf-performance-attribution-review-log.md](./2026-08-12-lesson-84-etf-performance-attribution-review-log.md) |
 | 2026-08-11 | 第八十三课：ETF 税务敏感再平衡与替代 ETF 入门：成本基础、资本利得、Wash Sale、费用和复查流程 | [2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md](./2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md) |
 | 2026-08-11 | 第八十二课：ETF 组合重叠、风险预算与再平衡入门：核心/卫星、穿透暴露、主题叠加和复查频率 | [2026-08-11-lesson-82-etf-portfolio-overlap-risk-budget-rebalancing.md](./2026-08-11-lesson-82-etf-portfolio-overlap-risk-budget-rebalancing.md) |
 | 2026-08-10 | 第八十一课：ETF 流动性与关闭风险入门：AUM、成交量、买卖价差、溢价折价、清算日和退出纪律 | [2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md](./2026-08-10-lesson-81-etf-liquidity-closure-risk-exit-discipline.md) |
