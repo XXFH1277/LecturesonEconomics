@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-13 | 第八十七课：公司样本地图入门：半导体、AI 基础设施与工业自动化公司怎样放回同一条价值链 | [2026-08-13-lesson-87-company-sample-semiconductor-ai-infrastructure-automation.md](./2026-08-13-lesson-87-company-sample-semiconductor-ai-infrastructure-automation.md) |
+| 2026-08-13 | 第八十六课：从 ETF 持仓穿透到行业研究入门：产业链、周期位置、利润池、政策风险和公司样本 | [2026-08-13-lesson-86-etf-look-through-industry-research-value-chain.md](./2026-08-13-lesson-86-etf-look-through-industry-research-value-chain.md) |
 | 2026-08-12 | 第八十五课：ETF 决策日志、反证指标与复查节奏入门：把复盘写成可执行的研究流程 | [2026-08-12-lesson-85-etf-decision-journal-review-cadence.md](./2026-08-12-lesson-85-etf-decision-journal-review-cadence.md) |
 | 2026-08-12 | 第八十四课：ETF 绩效复盘和持仓归因入门：收益来源、再平衡贡献、费用拖累、税后结果和研究日志 | [2026-08-12-lesson-84-etf-performance-attribution-review-log.md](./2026-08-12-lesson-84-etf-performance-attribution-review-log.md) |
 | 2026-08-11 | 第八十三课：ETF 税务敏感再平衡与替代 ETF 入门：成本基础、资本利得、Wash Sale、费用和复查流程 | [2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md](./2026-08-11-lesson-83-etf-tax-aware-rebalancing-replacement-review.md) |
