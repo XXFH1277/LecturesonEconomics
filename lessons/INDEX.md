@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-30 | 第九十一课：AI 基础设施投资回报复查入门：容量利用率、折旧、毛利率、自由现金流和回报周期 | [2026-08-30-lesson-91-ai-infrastructure-roi-utilization-depreciation-fcf.md](./2026-08-30-lesson-91-ai-infrastructure-roi-utilization-depreciation-fcf.md) |
+| 2026-08-30 | 第九十课：云厂商资本开支读表入门：数据中心、PPE additions、折旧、RPO、云收入和 AI 投资回报 | [2026-08-30-lesson-90-cloud-capex-ppe-rpo-ai-returns.md](./2026-08-30-lesson-90-cloud-capex-ppe-rpo-ai-returns.md) |
 | 2026-08-14 | 第八十九课：半导体公司风险因素与复查触发器入门：出口管制、客户集中、供应约束、库存风险和指引更新 | [2026-08-14-lesson-89-semiconductor-risk-factors-review-triggers.md](./2026-08-14-lesson-89-semiconductor-risk-factors-review-triggers.md) |
 | 2026-08-14 | 第八十八课：半导体公司财报读表入门：收入分部、毛利率、库存、应收账款、客户集中和出口限制 | [2026-08-14-lesson-88-semiconductor-financial-statement-reading.md](./2026-08-14-lesson-88-semiconductor-financial-statement-reading.md) |
 | 2026-08-13 | 第八十七课：公司样本地图入门：半导体、AI 基础设施与工业自动化公司怎样放回同一条价值链 | [2026-08-13-lesson-87-company-sample-semiconductor-ai-infrastructure-automation.md](./2026-08-13-lesson-87-company-sample-semiconductor-ai-infrastructure-automation.md) |
