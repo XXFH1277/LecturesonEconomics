@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-08-31 | 第九十三课：数据中心购电与电网成本入门：PPA、大负荷费率、共址发电、灵活用电和成本分摊 | [2026-08-31-lesson-93-data-center-power-procurement-tariffs-cost-allocation.md](./2026-08-31-lesson-93-data-center-power-procurement-tariffs-cost-allocation.md) |
+| 2026-08-31 | 第九十二课：AI 数据中心容量约束入门：电力、并网、冷却、芯片交付和建设周期 | [2026-08-31-lesson-92-ai-data-center-capacity-constraints-power-grid-cooling.md](./2026-08-31-lesson-92-ai-data-center-capacity-constraints-power-grid-cooling.md) |
 | 2026-08-30 | 第九十一课：AI 基础设施投资回报复查入门：容量利用率、折旧、毛利率、自由现金流和回报周期 | [2026-08-30-lesson-91-ai-infrastructure-roi-utilization-depreciation-fcf.md](./2026-08-30-lesson-91-ai-infrastructure-roi-utilization-depreciation-fcf.md) |
 | 2026-08-30 | 第九十课：云厂商资本开支读表入门：数据中心、PPE additions、折旧、RPO、云收入和 AI 投资回报 | [2026-08-30-lesson-90-cloud-capex-ppe-rpo-ai-returns.md](./2026-08-30-lesson-90-cloud-capex-ppe-rpo-ai-returns.md) |
 | 2026-08-14 | 第八十九课：半导体公司风险因素与复查触发器入门：出口管制、客户集中、供应约束、库存风险和指引更新 | [2026-08-14-lesson-89-semiconductor-risk-factors-review-triggers.md](./2026-08-14-lesson-89-semiconductor-risk-factors-review-triggers.md) |
