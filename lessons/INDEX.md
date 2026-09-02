@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-02 | 第九十七课：云服务合同与 AI 定价入门：Commitment、Consumption、RPO、最低承诺、成本转嫁与增量利润 | [2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md](./2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md) |
+| 2026-09-02 | 第九十六课：数据中心能源成本向云产品传导入门：电价、利用率、单位算力成本、客户定价和毛利率 | [2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md](./2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md) |
 | 2026-09-02 | 第九十五课：长期能源承诺风险复查入门：价格、数量、期限、基差、信用和现金流压力测试 | [2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md](./2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md) |
 | 2026-09-02 | 第九十四课：数据中心能源合同读表入门：Take-or-pay、NPNS、衍生品公允价值、担保和长期承诺 | [2026-09-02-lesson-94-data-center-energy-contract-accounting-npns-fair-value.md](./2026-09-02-lesson-94-data-center-energy-contract-accounting-npns-fair-value.md) |
 | 2026-08-31 | 第九十三课：数据中心购电与电网成本入门：PPA、大负荷费率、共址发电、灵活用电和成本分摊 | [2026-08-31-lesson-93-data-center-power-procurement-tariffs-cost-allocation.md](./2026-08-31-lesson-93-data-center-power-procurement-tariffs-cost-allocation.md) |

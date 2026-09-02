@@ -19,8 +19,11 @@
 - 当前阶段补充（2026-08-30 自动更新）：第 90-91 课已从芯片供应商转向云和数据中心买方，覆盖 capital expenditures、PPE additions、cash paid for PPE、finance lease、operating lease、assets not yet in service、depreciation、RPO、cloud backlog、capacity utilization、revenue ramp、gross margin、operating margin、free cash flow、payback period、incremental return 和 AI monetization。
 - 当前阶段补充（2026-08-31 自动更新）：第 92-93 课已把 AI 基础设施回报推进到数据中心物理约束和购电制度，覆盖 MW、MWh、power availability、grid interconnection、transmission、large load、cooling、commissioning、construction lead time、utility tariff、energy charge、demand charge、PPA、take-or-pay、cost recovery agreement、co-location、behind-the-meter、flexible load 和 cost allocation。
 - 当前阶段补充（2026-09-02 自动更新）：第 94-95 课已把数据中心长期购电推进到财报映射和风险压力测试，覆盖 derivative、NPNS、fair value、Level 3、notional quantity、unrealized gain/loss、financial guarantee、backstop、termination penalty、price risk、volume risk、basis risk、duration risk、counterparty risk、liquidity risk、scenario analysis 和 stress test。
-- 已完成课程：第 95 课
+- 当前阶段补充（2026-09-02 自动更新）：第 96-97 课已把数据中心能源成本连接到云产品单位经济和客户合同，覆盖 Unit Cost、Fixed Cost Absorption、Utilization、Pass-through、Pricing Power、Gross Margin、Incremental Margin、Consumption、Commitment、Minimum Commitment、RPO、Deferred Revenue、Billings、Discount、Price Elasticity、Switching Cost 和 Take-or-pay。
+- 已完成课程：第 97 课
 - 最近课程：
+  - [第九十七课：云服务合同与 AI 定价入门：Commitment、Consumption、RPO、最低承诺、成本转嫁与增量利润](./lessons/2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md)
+  - [第九十六课：数据中心能源成本向云产品传导入门：电价、利用率、单位算力成本、客户定价和毛利率](./lessons/2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md)
   - [第九十五课：长期能源承诺风险复查入门：价格、数量、期限、基差、信用和现金流压力测试](./lessons/2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md)
   - [第九十四课：数据中心能源合同读表入门：Take-or-pay、NPNS、衍生品公允价值、担保和长期承诺](./lessons/2026-09-02-lesson-94-data-center-energy-contract-accounting-npns-fair-value.md)
   - [第九十三课：数据中心购电与电网成本入门：PPA、大负荷费率、共址发电、灵活用电和成本分摊](./lessons/2026-08-31-lesson-93-data-center-power-procurement-tariffs-cost-allocation.md)
@@ -440,6 +443,14 @@
 - 建立了 price、volume、basis、duration、counterparty、liquidity 和 regulatory risk 七类压力测试，不用虚假精确值代替未知合同条款。
 - 明确了下一步要把能源成本连接到云产品单位成本、利用率、客户定价、毛利率和增量利润率。
 
+### 第 96 课到第 97 课
+
+- 理解了电价不会机械地等于利润变化，必须经过能源成本、固定成本吸收、利用率、单位成本和定价权的传导。
+- 学会区分平均毛利率和增量利润率，并用 Microsoft、Amazon、Alphabet 的官方披露观察收入增长、云成本、资本开支和自由现金流可能不同步。
+- 理解了 Consumption、Commitment、Minimum Commitment、RPO、Deferred Revenue、Billings 和 Cash Collection 处在合同、履约、开票、收款和收入确认的不同阶段。
+- 学会把长期合同同时放入需求、价格、会计、成本和现金五层分析，不能把合同总额直接当成当期收入或利润。
+- 明确了下一步要把云客户合同、资本开支、折旧、递延收入和自由现金流放进同一张三表桥接图。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -450,11 +461,11 @@
 
 ## 下节课安排
 
-- 建议主题：第九十六课：数据中心能源成本向云产品传导入门：电价、利用率、单位算力成本、客户定价和毛利率。
-- 学习目标：把能源合同和数据中心成本连接到云收入、单位经济模型与客户合同。
-- 建议案例：Microsoft、Alphabet、Amazon 最新云收入、毛利率或分部利润披露，并结合 EIA 区域电价机制。
-- 必须解释的关键词：Unit Cost、Fixed Cost Absorption、Utilization、Pass-through、Pricing Power、Gross Margin、Incremental Margin。
-- 下节课开始前必须联网核验：最新云业务业绩、能源成本披露、区域电价和客户合同定价说明。
+- 建议主题：第九十八课：云基础设施合同到现金流入门：RPO、递延收入、资本开支、折旧、自由现金流和估值边界。
+- 学习目标：把客户合同、收入确认、资本开支和现金回收放在同一张三表桥接图里。
+- 建议案例：Microsoft Commercial RPO 与 Microsoft Cloud 毛利率、Amazon AWS 资本开支和自由现金流、Alphabet Google Cloud 增长。
+- 必须解释的关键词：Revenue Recognition、Contract Liability、Cash Conversion、Capex Intensity、Depreciation、FCF Conversion、Backlog Quality。
+- 下节课开始前必须联网核验：最新 10-Q/10-K、RPO 或 backlog 口径、资本开支、折旧、递延收入和经营现金流。
 
 ## 下次如何继续
 
