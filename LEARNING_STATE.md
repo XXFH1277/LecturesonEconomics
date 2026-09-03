@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-09-02
+- 最近更新时间：2026-09-03
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
@@ -20,8 +20,11 @@
 - 当前阶段补充（2026-08-31 自动更新）：第 92-93 课已把 AI 基础设施回报推进到数据中心物理约束和购电制度，覆盖 MW、MWh、power availability、grid interconnection、transmission、large load、cooling、commissioning、construction lead time、utility tariff、energy charge、demand charge、PPA、take-or-pay、cost recovery agreement、co-location、behind-the-meter、flexible load 和 cost allocation。
 - 当前阶段补充（2026-09-02 自动更新）：第 94-95 课已把数据中心长期购电推进到财报映射和风险压力测试，覆盖 derivative、NPNS、fair value、Level 3、notional quantity、unrealized gain/loss、financial guarantee、backstop、termination penalty、price risk、volume risk、basis risk、duration risk、counterparty risk、liquidity risk、scenario analysis 和 stress test。
 - 当前阶段补充（2026-09-02 自动更新）：第 96-97 课已把数据中心能源成本连接到云产品单位经济和客户合同，覆盖 Unit Cost、Fixed Cost Absorption、Utilization、Pass-through、Pricing Power、Gross Margin、Incremental Margin、Consumption、Commitment、Minimum Commitment、RPO、Deferred Revenue、Billings、Discount、Price Elasticity、Switching Cost 和 Take-or-pay。
-- 已完成课程：第 97 课
+- 当前阶段补充（2026-09-03 自动更新）：第 98-99 课已把云合同与成本推进到三表桥接及现金流可比性，覆盖 Revenue Recognition、Contract Liability、Contract Asset、Cash Conversion、Capex Intensity、FCF Conversion、Backlog Quality、Finance Lease Principal、Non-cash Addition、Working Capital Timing、Maintenance Capex、Growth Capex、Normalization 和 Comparability。同步澄清第 97 课按期与按量收入案例，防止把 1,200 万收入与 200 万毛利错配。
+- 已完成课程：第 99 课
 - 最近课程：
+  - [第九十九课：云厂商现金流可比性入门：租赁本金、预收款、维护性投资、订单质量和估值复查](./lessons/2026-09-03-lesson-99-cloud-fcf-comparability-quality-review.md)
+  - [第九十八课：云基础设施合同到现金流入门：RPO、递延收入、资本开支、折旧、自由现金流和估值边界](./lessons/2026-09-03-lesson-98-cloud-contracts-to-cash-flow-bridge.md)
   - [第九十七课：云服务合同与 AI 定价入门：Commitment、Consumption、RPO、最低承诺、成本转嫁与增量利润](./lessons/2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md)
   - [第九十六课：数据中心能源成本向云产品传导入门：电价、利用率、单位算力成本、客户定价和毛利率](./lessons/2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md)
   - [第九十五课：长期能源承诺风险复查入门：价格、数量、期限、基差、信用和现金流压力测试](./lessons/2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md)
@@ -42,7 +45,7 @@
   - [第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律](./lessons/2026-08-10-lesson-80-thematic-sector-etf-concentration.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset、call option、put option、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call、implied volatility、historical volatility、CVOL、Delta、Gamma、Theta、Vega、Rho、delta hedge、gamma risk、time decay、volatility risk、covered call ETF、option overwrite、collar、buffer ETF、defined outcome、cap、buffer、outcome period、distribution rate、30-day SEC yield、return of capital、NAV erosion、19a notice、ELN、structured note、equity-linked note、issuer credit risk、embedded derivative、reference asset、participation rate、barrier、knock-in、autocallable、estimated value、secondary market liquidity、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、underwriting discount、no listing、worst-performing、memory coupon。
 - 当前学习主线补充：第 48-69 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品、散户风险边界、期权权利结构、保护性结构、隐含波动率、Greeks、Delta 对冲、卖方风险边界、期权策略产品化、备兑策略 ETF、保护性 put、collar、buffer ETF、defined outcome、cap/buffer/outcome period、期权收益型 ETF 分配率、SEC yield、NAV、market price、total return、return of capital、税务口径、结构化票据、ELN、发行人信用、嵌入式衍生品、自动赎回、票息障碍、阈值、估计价值和二级市场流动性。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield、daily reset、futures option、moneyness、time value、implied volatility、Greeks、Delta hedge、covered call ETF、option overwrite、buffer ETF、defined outcome、distribution rate、return of capital、NAV erosion、19a notice、ELN、structured note、issuer credit risk、embedded derivative、reference asset、barrier、knock-in、autocallable、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、estimated value、underwriting discount、no listing 和 secondary market liquidity。
-- 本次新增关键词：Derivative、NPNS、Fair Value、Level 3、Notional Quantity、Unrealized Gain/Loss、Financial Guarantee、Backstop、Termination Penalty、Price Risk、Volume Risk、Basis Risk、Duration Risk、Counterparty Risk、Liquidity Risk、Regulatory Risk、Scenario Analysis、Stress Test、Review Trigger。
+- 本次新增关键词：Revenue Recognition、Contract Liability、Contract Asset、Cash Conversion、Capex Intensity、FCF Conversion、Backlog Quality、GAAP、Comparability、Finance Lease Principal、Non-cash Addition、Working Capital Timing、Accrued Capex、Maintenance Capex、Growth Capex、Normalization、Sensitivity Analysis、TTM、Review Trigger。
 
 ## 已完成内容摘要
 
@@ -451,6 +454,16 @@
 - 学会把长期合同同时放入需求、价格、会计、成本和现金五层分析，不能把合同总额直接当成当期收入或利润。
 - 明确了下一步要把云客户合同、资本开支、折旧、递延收入和自由现金流放进同一张三表桥接图。
 
+### 第 98 课到第 99 课
+
+- 建立了合同、履约、收款、设备采购、折旧在三张报表中的对应关系，并完成利润、经营现金流、FCF 和资产负债表可勾稽的教学例子。
+- 学会区分 Microsoft 全口径 RPO、商业 RPO 与未实现收入，不能相加或全部视为 Azure 现金。
+- 用 Amazon 滚动十二个月和 Alphabet 半年度现金流原数复算，明确期间、集团/分部、单位和现金资本开支定义必须一致。
+- 建立了公司 FCF 与补充现金观察值的分层记录，识别融资租赁本金、预收款、设备应付款和重复扣除风险。
+- 理解了维护性与增长性投入不总能精确拆分，订单质量需要结合履约期限、价格、成本和信用核验。
+- 同步修正第 97 课案例的收入及毛利口径，并补充对应收入确认原理来源。
+- 下一步为第 100 课综合复盘：把第 86-99 课整理成一页研究备忘录，连接事实、假设、未知与反证清单。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -461,11 +474,11 @@
 
 ## 下节课安排
 
-- 建议主题：第九十八课：云基础设施合同到现金流入门：RPO、递延收入、资本开支、折旧、自由现金流和估值边界。
-- 学习目标：把客户合同、收入确认、资本开支和现金回收放在同一张三表桥接图里。
-- 建议案例：Microsoft Commercial RPO 与 Microsoft Cloud 毛利率、Amazon AWS 资本开支和自由现金流、Alphabet Google Cloud 增长。
-- 必须解释的关键词：Revenue Recognition、Contract Liability、Cash Conversion、Capex Intensity、Depreciation、FCF Conversion、Backlog Quality。
-- 下节课开始前必须联网核验：最新 10-Q/10-K、RPO 或 backlog 口径、资本开支、折旧、递延收入和经营现金流。
+- 建议主题：第一百课：AI 基础设施研究综合复盘：从客户需求到合同、产能、现金回报与反证清单。
+- 学习目标：把第 86-99 课汇成一页研究备忘录，区分事实、假设、未知和复查触发器，不再靠单个指标下结论。
+- 建议案例：选择 Microsoft、Amazon、Alphabet 中一家作为主案例，另外两家只做口径对照。
+- 必须解释的关键词：Thesis、Evidence、Unit Economics、Capital Cycle、Scenario、Disconfirming Evidence、Research Memo。
+- 下节课开始前必须联网核验：最新公司财报和指引、订单及资本开支、产能启用与现金付款、新发生的重大风险。
 
 ## 下次如何继续
 

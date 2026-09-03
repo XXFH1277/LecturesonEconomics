@@ -216,20 +216,16 @@ Alphabet 2026 年第二季度业绩公告披露，Google Cloud 收入为 248 亿
 
 ## 案例拆解
 
-假设客户签订 3 年云服务承诺，合同总额 3,600 万美元，按月平均履约，客户第一年实际消费 900 万美元，合同折扣为公开价的 10%。假设厂商按履约确认收入，暂不考虑税费和合同变更。
+2026-09-03 澄清：原例把按期履约收入与按量消费收入混用，以下分为两个独立的教学情景。金额均为假设，不对应实际公司。
 
-入门级读法：
+| 情景 | 明确的合同假设 | 第一年收入 | 假设对应销售成本 700 万美元时的毛利 |
+| --- | --- | --- | --- |
+| A：持续提供可用服务 | 三年固定对价 3,600 万美元，每月均匀履约且满足按时间确认条件，无按量附加费 | 1,200 万美元 | 500 万美元 |
+| B：按实际消费履约 | 三年预计使用预算 3,600 万美元，不是不可撤销最低承诺；第一年实际消费对应已履约对价 900 万美元，无最低收费或其他履约义务 | 900 万美元 | 200 万美元 |
 
-```text
-合同总额：3,600 万美元
-理论月度履约金额：3,600 万 / 36 = 100 万美元
-第一年理论确认收入：1,200 万美元
-第一年实际消费：900 万美元
-```
+A 中的实际资源使用量较低，不自动减少按期服务的收入；B 中尚未消费的预算不能自动计入收入或 RPO。若真实合同另有最低承诺、未使用权利、结转或终止条款，需要单独判断，不能直接套这两个情景。
 
-这并不能自动说明客户一定要补足 300 万美元，因为要继续查看合同是否有最低承诺、结转权、终止费或未使用额度处理条款。也不能把 3,600 万美元直接写成当期收入。
-
-如果厂商为履约新增成本为 700 万美元，则第一年收入对应的增量毛利粗略为 200 万美元；如果为了满足合同提前购买 GPU 和电力，现金支出可能在收入确认前发生。
+这里计算的是收入减对应销售成本的教学毛利，不是完整经营利润或现金流。提前购买设备的现金支出也不能不经资本化与折旧判断，直接全部归入当期销售成本。收入确认的原理可参考 IFRS 15 第 31、46 段，但本课美国公司以其美国 GAAP 会计政策为准；详见第 98 课三表桥接。
 
 ## 个人情境连接
 
@@ -250,7 +246,7 @@ Alphabet 2026 年第二季度业绩公告披露，Google Cloud 收入为 248 亿
 ### 不能确定
 
 - 不能仅凭 RPO 或合同总额计算公司真实利润。
-- 不能把 Google Cloud 的合并经营利润率当成云分部利润率。
+- 不能把 Alphabet 的合并经营利润率当成 Google Cloud 分部利润率。
 - 不能从公开总收入还原每个客户的折扣、使用率和合同违约风险。
 - 本课的合同案例为教学假设，不构成法律、会计或投资建议。
 
@@ -264,7 +260,7 @@ Alphabet 2026 年第二季度业绩公告披露，Google Cloud 收入为 248 亿
 
 ## 学习交接
 
-- 本课已经完成：建立云合同的“签约、开票、收款、履约、确认收入、产生利润”六步框架。
+- 本课已经完成：建立云合同的“签约、开票、收款、履约、确认收入、产生利润”六项对照框架；实际先后顺序取决于合同，不是固定流水线。
 - 最重要的一句话：合同规模决定未来关系的可见度，但使用量、价格、成本和履约时间决定利润质量。
 - 需要复习：Consumption、Commitment、RPO、Deferred Revenue、Minimum Commitment、Incremental Margin。
 - 还需继续：把合同和基础设施投资放进跨公司的现金流、资本开支和估值比较。
@@ -284,4 +280,4 @@ Alphabet 2026 年第二季度业绩公告披露，Google Cloud 收入为 248 亿
 - Amazon Q2 2026 Form 10-Q: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm
 - Amazon Q2 2026 results: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm
 - Alphabet Q2 2026 results: https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm
-- FASB derivative and contract guidance archive: https://www.fasb.org/page/PageContent?isStaticPage=true&pageId=%2FArchive%2Fsuperseded-standards%2Fderivatives-statement-implementation%2Ffasb-definition-of-a-derivative-determination-of-an-underlyingwhen-a-commodity-contract-includes-a-fixed-element-and-a-variableelement.html
+- IFRS Foundation，IFRS 15 第 31、46 段，2024 issued edition；2026-09-03 核验，仅作收入确认原理参考：https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2024/issued/part-a/ifrs-15-revenue-from-contracts-with-customers.pdf?bypass=on

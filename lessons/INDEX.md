@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-03 | 第九十九课：云厂商现金流可比性入门：租赁本金、预收款、维护性投资、订单质量和估值复查 | [2026-09-03-lesson-99-cloud-fcf-comparability-quality-review.md](./2026-09-03-lesson-99-cloud-fcf-comparability-quality-review.md) |
+| 2026-09-03 | 第九十八课：云基础设施合同到现金流入门：RPO、递延收入、资本开支、折旧、自由现金流和估值边界 | [2026-09-03-lesson-98-cloud-contracts-to-cash-flow-bridge.md](./2026-09-03-lesson-98-cloud-contracts-to-cash-flow-bridge.md) |
 | 2026-09-02 | 第九十七课：云服务合同与 AI 定价入门：Commitment、Consumption、RPO、最低承诺、成本转嫁与增量利润 | [2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md](./2026-09-02-lesson-97-cloud-contracts-ai-pricing-rpo-margin.md) |
 | 2026-09-02 | 第九十六课：数据中心能源成本向云产品传导入门：电价、利用率、单位算力成本、客户定价和毛利率 | [2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md](./2026-09-02-lesson-96-data-center-energy-cost-cloud-unit-economics.md) |
 | 2026-09-02 | 第九十五课：长期能源承诺风险复查入门：价格、数量、期限、基差、信用和现金流压力测试 | [2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md](./2026-09-02-lesson-95-long-term-energy-commitment-risk-stress-test.md) |
