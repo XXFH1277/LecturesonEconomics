@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-09 | 第一百零三课：AI 基础设施需求质量与循环融资识别入门：投资、采购、云合同、收入确认和反证 | [2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md](./2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md) |
+| 2026-09-09 | 第一百零二课：AI 基础设施融资链与交易对手风险入门：预付款、担保、延长账期、投资与客户集中 | [2026-09-09-lesson-102-ai-infrastructure-financing-chain-counterparty-risk.md](./2026-09-09-lesson-102-ai-infrastructure-financing-chain-counterparty-risk.md) |
 | 2026-09-09 | 第一百零一课：AI 基础设施季度复查工作台入门：指标树、来源日志、变动解释、阈值和无行动结论 | [2026-09-09-lesson-101-ai-infrastructure-quarterly-review-dashboard.md](./2026-09-09-lesson-101-ai-infrastructure-quarterly-review-dashboard.md) |
 | 2026-09-09 | 第一百课：AI 基础设施研究综合复盘：从客户需求到合同、产能、现金回报与反证清单 | [2026-09-09-lesson-100-ai-infrastructure-research-memo-demand-capacity-cash.md](./2026-09-09-lesson-100-ai-infrastructure-research-memo-demand-capacity-cash.md) |
 | 2026-09-03 | 第九十九课：云厂商现金流可比性入门：租赁本金、预收款、维护性投资、订单质量和估值复查 | [2026-09-03-lesson-99-cloud-fcf-comparability-quality-review.md](./2026-09-03-lesson-99-cloud-fcf-comparability-quality-review.md) |
