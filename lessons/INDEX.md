@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-10 | 第一百零五课：AI 数据中心债务契约与偿债压力测试入门：DSCR、SOFR、储备账户和违约触发 | [2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md](./2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md) |
+| 2026-09-10 | 第一百零四课：AI 数据中心项目融资入门：SPV、追索权、抵押品、债务契约和现金瀑布 | [2026-09-10-lesson-104-ai-data-center-project-finance-spv-recourse-collateral.md](./2026-09-10-lesson-104-ai-data-center-project-finance-spv-recourse-collateral.md) |
 | 2026-09-09 | 第一百零三课：AI 基础设施需求质量与循环融资识别入门：投资、采购、云合同、收入确认和反证 | [2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md](./2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md) |
 | 2026-09-09 | 第一百零二课：AI 基础设施融资链与交易对手风险入门：预付款、担保、延长账期、投资与客户集中 | [2026-09-09-lesson-102-ai-infrastructure-financing-chain-counterparty-risk.md](./2026-09-09-lesson-102-ai-infrastructure-financing-chain-counterparty-risk.md) |
 | 2026-09-09 | 第一百零一课：AI 基础设施季度复查工作台入门：指标树、来源日志、变动解释、阈值和无行动结论 | [2026-09-09-lesson-101-ai-infrastructure-quarterly-review-dashboard.md](./2026-09-09-lesson-101-ai-infrastructure-quarterly-review-dashboard.md) |

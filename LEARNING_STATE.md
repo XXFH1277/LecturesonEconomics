@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-09-09
+- 最近更新时间：2026-09-10
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
@@ -23,8 +23,11 @@
 - 当前阶段补充（2026-09-03 自动更新）：第 98-99 课已把云合同与成本推进到三表桥接及现金流可比性，覆盖 Revenue Recognition、Contract Liability、Contract Asset、Cash Conversion、Capex Intensity、FCF Conversion、Backlog Quality、Finance Lease Principal、Non-cash Addition、Working Capital Timing、Maintenance Capex、Growth Capex、Normalization 和 Comparability。同步澄清第 97 课按期与按量收入案例，防止把 1,200 万收入与 200 万毛利错配。
 - 当前阶段补充（2026-09-09 自动更新）：第 100-101 课已把第 86-99 课的 AI 基础设施研究整理为可复查的研究备忘录和季度工作台，覆盖 Thesis、Evidence、Evidence Hierarchy、Capital Cycle、Unit Economics、Scenario、Disconfirming Evidence、Research Memo、Metric Tree、Leading Indicator、Lagging Indicator、Data Provenance、Baseline、Threshold、Trigger、Version Break 和 No-action Decision，并用 NVIDIA FY2027 Q2、Microsoft FY2026 Q4、Alphabet Q2 2026 官方披露完成同链条案例。
 - 当前阶段补充（2026-09-09 晚间自动更新）：第 102-103 课已把 AI 基础设施研究推进到融资链、交易对手风险与需求质量，覆盖 Counterparty、Credit Risk、Customer Concentration、Prepayment、Extended Payment Terms、Guarantee、Equity Investment、Letter of Credit、Circular Financing、Round-trip Transaction、Economic Substance、Independent Demand、Funding Source、Related Party、Double Counting 和 Cash Collection，并用 NVIDIA、CoreWeave、Microsoft 最新官方披露区分多重商业关系、循环融资风险和未经证实的强定性。
-- 已完成课程：第 103 课
+- 当前阶段补充（2026-09-10 自动更新）：第 104-105 课已把 AI 数据中心融资推进到项目结构和偿债压力测试，覆盖 Project Finance、SPV、Recourse、Non-recourse、Collateral、DDTL、Covenant、Cash Waterfall、DSCR、SOFR、Credit Spread、Debt Service Reserve、Cash Sweep、Mandatory Prepayment、Event of Default 和 Cross-default，并用 CoreWeave DDTL 4.0/5.5 对比非追索、母公司担保、抵押包、利率对冲、受限现金和 1.35x 契约。
+- 已完成课程：第 105 课
 - 最近课程：
+  - [第一百零五课：AI 数据中心债务契约与偿债压力测试入门：DSCR、SOFR、储备账户和违约触发](./lessons/2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md)
+  - [第一百零四课：AI 数据中心项目融资入门：SPV、追索权、抵押品、债务契约和现金瀑布](./lessons/2026-09-10-lesson-104-ai-data-center-project-finance-spv-recourse-collateral.md)
   - [第一百零三课：AI 基础设施需求质量与循环融资识别入门：投资、采购、云合同、收入确认和反证](./lessons/2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md)
   - [第一百零二课：AI 基础设施融资链与交易对手风险入门：预付款、担保、延长账期、投资与客户集中](./lessons/2026-09-09-lesson-102-ai-infrastructure-financing-chain-counterparty-risk.md)
   - [第一百零一课：AI 基础设施季度复查工作台入门：指标树、来源日志、变动解释、阈值和无行动结论](./lessons/2026-09-09-lesson-101-ai-infrastructure-quarterly-review-dashboard.md)
@@ -51,7 +54,7 @@
   - [第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律](./lessons/2026-08-10-lesson-80-thematic-sector-etf-concentration.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset、call option、put option、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call、implied volatility、historical volatility、CVOL、Delta、Gamma、Theta、Vega、Rho、delta hedge、gamma risk、time decay、volatility risk、covered call ETF、option overwrite、collar、buffer ETF、defined outcome、cap、buffer、outcome period、distribution rate、30-day SEC yield、return of capital、NAV erosion、19a notice、ELN、structured note、equity-linked note、issuer credit risk、embedded derivative、reference asset、participation rate、barrier、knock-in、autocallable、estimated value、secondary market liquidity、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、underwriting discount、no listing、worst-performing、memory coupon。
 - 当前学习主线补充：第 48-69 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品、散户风险边界、期权权利结构、保护性结构、隐含波动率、Greeks、Delta 对冲、卖方风险边界、期权策略产品化、备兑策略 ETF、保护性 put、collar、buffer ETF、defined outcome、cap/buffer/outcome period、期权收益型 ETF 分配率、SEC yield、NAV、market price、total return、return of capital、税务口径、结构化票据、ELN、发行人信用、嵌入式衍生品、自动赎回、票息障碍、阈值、估计价值和二级市场流动性。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield、daily reset、futures option、moneyness、time value、implied volatility、Greeks、Delta hedge、covered call ETF、option overwrite、buffer ETF、defined outcome、distribution rate、return of capital、NAV erosion、19a notice、ELN、structured note、issuer credit risk、embedded derivative、reference asset、barrier、knock-in、autocallable、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、estimated value、underwriting discount、no listing 和 secondary market liquidity。
-- 本次新增关键词：Counterparty、Credit Risk、Customer Concentration、Prepayment、Extended Payment Terms、Guarantee、Equity Investment、Letter of Credit、Circular Financing、Round-trip Transaction、Economic Substance、Independent Demand、Funding Source、Related Party、Double Counting、Cash Collection、Maximum Gross Exposure、Revenue Share。
+- 本次新增关键词：Project Finance、SPV、Recourse、Limited Recourse、Non-recourse、Collateral、DDTL、Covenant、Cash Waterfall、DSCR、SOFR、Credit Spread、Debt Service Reserve、Cash Sweep、Mandatory Prepayment、Event of Default、Cross-default、Restricted Cash、Undrawn Fee。
 
 ## 已完成内容摘要
 
@@ -490,6 +493,16 @@
 - 区分多重商业关系、循环融资风险和往返交易，不因相互投资就作欺诈指控，也不把同一链条的收入、资本开支和 RPO 重复计算。
 - 下一步进入第 104 课：读懂 AI 数据中心 SPV、追索权、抵押品、债务契约和偿债瀑布。
 
+### 第 104 课到第 105 课
+
+- 区分公司融资与项目融资，理解 SPV 如何单独持有项目资产、合同、账户和债务。
+- 区分追索、有限追索与非追索，明确非追索仍可能有抵押、契约和特定例外担保。
+- 学会把 DDTL 承诺额度、已提款本金、可用额度、现金、受限现金和未提款费用分栏。
+- 用 CoreWeave DDTL 4.0 与 5.5 对比非追索结构和母公司无条件担保，避免按贷款名称推断风险范围。
+- 理解 DSCR、SOFR 加点、债务服务储备、现金清扫、强制提前还款、违约事件和交叉违约。
+- 完成教学版 DSCR 压力测试，并明确合并经营现金流不能直接替代项目契约分子。
+- 下一步进入第 106 课：研究 GPU 设备寿命、折旧、残值、抵押回收和债务期限错配。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -500,11 +513,11 @@
 
 ## 下节课安排
 
-- 建议主题：第一百零四课：AI 数据中心项目融资入门。
-- 学习目标：理解 SPV、recourse/non-recourse debt、collateral、covenant、debt service 和 cash waterfall 如何分配项目风险。
-- 建议案例：CoreWeave 的追索与非追索债务、延迟提款贷款、设备融资、担保和本金到期表。
-- 必须解释的关键词：SPV、Recourse、Non-recourse、Collateral、Covenant、Interest Coverage、Debt Service、Cash Waterfall。
-- 下节课开始前必须联网核验：最新债务余额、利率、到期表、抵押品、担保、契约和经营现金流。
+- 建议主题：第一百零六课：AI 设备寿命与债务期限错配入门。
+- 学习目标：把 GPU 技术迭代、折旧年限、残值、再部署成本与贷款期限放进同一张表。
+- 建议案例：CoreWeave 的设备折旧、抵押资产和长期债务，对照 NVIDIA 架构更新与库存风险披露。
+- 必须解释的关键词：Useful Life、Depreciation、Residual Value、Obsolescence、Loan-to-Value、Asset-Liability Mismatch、Refinancing Risk。
+- 下节课开始前必须联网核验：最新折旧政策、设备资产、减值、技术更新、抵押条款和债务到期结构。
 
 ## 下次如何继续
 
