@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-12 | 第一百零九课：AI 数据中心未开始租约与固定承诺压力测试入门：起租、可变付款、电力交付和合同尾部 | [2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md](./2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md) |
+| 2026-09-12 | 第一百零八课：AI 数据中心租赁与自有资产比较入门：使用权、租赁负债、期限和现金流 | [2026-09-12-lesson-108-ai-data-center-lease-versus-own-accounting.md](./2026-09-12-lesson-108-ai-data-center-lease-versus-own-accounting.md) |
 | 2026-09-12 | 第一百零七课：AI 设备减值与抵押回收压力测试入门：触发事件、可收回金额、迁移成本和损失缺口 | [2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md](./2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md) |
 | 2026-09-12 | 第一百零六课：AI 设备寿命与债务期限错配入门：折旧、残值、技术迭代、LTV 和再融资风险 | [2026-09-12-lesson-106-ai-equipment-useful-life-depreciation-debt-mismatch.md](./2026-09-12-lesson-106-ai-equipment-useful-life-depreciation-debt-mismatch.md) |
 | 2026-09-10 | 第一百零五课：AI 数据中心债务契约与偿债压力测试入门：DSCR、SOFR、储备账户和违约触发 | [2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md](./2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md) |
