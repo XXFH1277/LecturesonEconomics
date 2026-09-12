@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-12 | 第一百零七课：AI 设备减值与抵押回收压力测试入门：触发事件、可收回金额、迁移成本和损失缺口 | [2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md](./2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md) |
+| 2026-09-12 | 第一百零六课：AI 设备寿命与债务期限错配入门：折旧、残值、技术迭代、LTV 和再融资风险 | [2026-09-12-lesson-106-ai-equipment-useful-life-depreciation-debt-mismatch.md](./2026-09-12-lesson-106-ai-equipment-useful-life-depreciation-debt-mismatch.md) |
 | 2026-09-10 | 第一百零五课：AI 数据中心债务契约与偿债压力测试入门：DSCR、SOFR、储备账户和违约触发 | [2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md](./2026-09-10-lesson-105-ai-data-center-debt-covenant-dscr-stress-test.md) |
 | 2026-09-10 | 第一百零四课：AI 数据中心项目融资入门：SPV、追索权、抵押品、债务契约和现金瀑布 | [2026-09-10-lesson-104-ai-data-center-project-finance-spv-recourse-collateral.md](./2026-09-10-lesson-104-ai-data-center-project-finance-spv-recourse-collateral.md) |
 | 2026-09-09 | 第一百零三课：AI 基础设施需求质量与循环融资识别入门：投资、采购、云合同、收入确认和反证 | [2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md](./2026-09-09-lesson-103-ai-infrastructure-demand-quality-circular-financing.md) |
