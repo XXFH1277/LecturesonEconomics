@@ -27,8 +27,11 @@
 - 当前阶段补充（2026-09-12 自动更新）：第 106-107 课已把 AI 设备融资推进到资产寿命、折旧、LTV、期限错配、长期资产减值和抵押净回收，覆盖 Useful Life、Depreciation、Carrying Value、Residual Value、Obsolescence、LTV、Asset-Liability Mismatch、Refinancing Risk、Impairment、Trigger Event、Asset Group、Undiscounted Cash Flow、Fair Value、Inventory Provision、Recovery Rate 和 Deficiency，并用 CoreWeave 与 NVIDIA 最新 SEC 披露区分会计寿命、产品节奏、库存准备和设备回收风险。
 - 当前阶段补充（2026-09-12 晚间自动更新）：第 108-109 课已把 AI 数据中心资产研究推进到 Lease-versus-buy、ROU Asset、Lease Liability、Operating Lease、Finance Lease、Incremental Borrowing Rate、Renewal Option、Lease Commencement、Uncommenced Lease、Undiscounted Payment、Imputed Interest、Variable Lease Cost、Committed Capacity、Fixed-Charge Coverage 和 Contract Tail，并用 CoreWeave 最新租赁负债、未开始租约、电力交付和设备安装承诺建立三层固定承诺时间表。
 - 当前阶段补充（2026-09-15 自动更新）：第 110-111 课已把 AI 数据中心长期承诺推进到 Renewal Option、Termination Option、Sublease、Lease Modification、Remeasurement、Abandonment、ARO、Restructuring、Liquidity、Solvency、Cash Runway、Cash Burn、Committed Facility、Undrawn Availability、Substantial Doubt 和 Going Concern，并用 CoreWeave 最新租约、资产退休义务、流动性来源、三类现金流和管理层一年期判断建立退出与现金跑道框架。
-- 已完成课程：第 111 课
+- 当前阶段补充（2026-09-15 晚间自动更新）：第 112-113 课已把 AI 数据中心融资推进到资本结构综合面板和融资选择，覆盖 Capital Structure、Net Debt、Lease-adjusted Debt、Funding Gap、Maturity Ladder、Coverage、Trigger、Version Control、Debt Financing、Lease Financing、Equity Financing、Dilution、Marginal Cost of Capital、Incremental ROIC、Per-share Value 和 Funding Mix，并用 CoreWeave 最新债务、租赁、RPO、客户集中、股本、股权激励、现金流与 DDTL 5.5 披露完成事实、计算、推理和未知分层。
+- 已完成课程：第 113 课
 - 最近课程：
+  - [第一百一十三课：AI 数据中心融资选择与股东稀释入门：债务、租赁、股权、资本成本和每股价值](./lessons/2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md)
+  - [第一百一十二课：AI 数据中心资本结构综合复盘与预警面板：债务、租赁、设备、合同和资金缺口](./lessons/2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md)
   - [第一百一十一课：AI 数据中心流动性跑道与持续经营判断入门：现金、额度、烧钱速度和管理层计划](./lessons/2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md)
   - [第一百一十课：AI 数据中心租约退出、续租与重组入门：终止、转租、重新计量和恢复义务](./lessons/2026-09-15-lesson-110-ai-data-center-lease-exit-renewal-restructuring.md)
   - [第一百零九课：AI 数据中心未开始租约与固定承诺压力测试入门：起租、可变付款、电力交付和合同尾部](./lessons/2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md)
@@ -539,6 +542,15 @@
 - 把现金、可用融资、经营现金流、资本开支、偿债、租赁与未开始承诺按确定性分层。
 - 下一步进入第 112 课：把第 104-111 课压缩成 AI 数据中心资本结构综合复盘与预警面板。
 
+### 第 112 课到第 113 课
+
+- 把债务、租赁、设备、合同和现金流压缩成资本结构预警面板，先按法律主体、期间、单位和计量口径分层。
+- 区分净债务、租赁调整后净债务与期间资金缺口，并建立债务到期、客户合同、设备价值和租约退出四条时间轴。
+- 用基线、阈值、触发器和版本控制管理季度更新，明确颜色必须对应复查行动，期后融资不能倒填期末现金。
+- 比较内部现金、债务、租赁与股权融资的到账时间、固定付款、抵押、契约、控制权和稀释代价。
+- 理解基本股数、稀释股数和完全摊薄口径，用增量 ROIC、边际资本成本和每股价值桥判断新增资本的作用。
+- 下一步进入第 114 课：研究增长投资、维护投资、偿债、安全垫与股东回报之间的资本配置优先级。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -549,11 +561,11 @@
 
 ## 下节课安排
 
-- 建议主题：第一百一十二课：AI 数据中心资本结构综合复盘与预警面板。
-- 学习目标：把债务、租赁、设备寿命、客户合同、资本开支和流动性压缩成可季度更新的一页表。
-- 建议案例：CoreWeave 第 104-111 课公开数据，按主体、期间和现值/未折现口径重新勾稽。
-- 必须解释的关键词：Capital Structure、Net Debt、Lease-adjusted Debt、Funding Gap、Maturity Ladder、Coverage、Trigger、Version Control。
-- 下节课开始前必须联网核验：最新现金、债务、租赁、客户集中、RPO、资本开支、资产寿命、契约和期后融资。
+- 建议主题：第一百一十四课：AI 数据中心资本配置复盘入门：增长投资、维护投资、偿债、安全垫和股东回报。
+- 学习目标：建立资本配置优先级，区分维护性与增长性资本开支，并检查增量回报、债务约束和每股价值。
+- 建议案例：从 CoreWeave 的投资现金流和融资结构出发，与成熟云厂商的资本开支、现金流和股东回报作口径一致的比较。
+- 必须解释的关键词：Capital Allocation、Maintenance Capex、Growth Capex、Deleveraging、Liquidity Buffer、Buyback、Dividend、Opportunity Cost。
+- 下节课开始前必须联网核验：最新财报、资本开支、自由现金流、债务、股本变动、回购或分红授权及管理层资本配置说明。
 
 ## 下次如何继续
 

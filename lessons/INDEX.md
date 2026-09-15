@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-15 | 第一百一十三课：AI 数据中心融资选择与股东稀释入门：债务、租赁、股权、资本成本和每股价值 | [2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md](./2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md) |
+| 2026-09-15 | 第一百一十二课：AI 数据中心资本结构综合复盘与预警面板：债务、租赁、设备、合同和资金缺口 | [2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md](./2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md) |
 | 2026-09-15 | 第一百一十一课：AI 数据中心流动性跑道与持续经营判断入门：现金、额度、烧钱速度和管理层计划 | [2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md](./2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md) |
 | 2026-09-15 | 第一百一十课：AI 数据中心租约退出、续租与重组入门：终止、转租、重新计量和恢复义务 | [2026-09-15-lesson-110-ai-data-center-lease-exit-renewal-restructuring.md](./2026-09-15-lesson-110-ai-data-center-lease-exit-renewal-restructuring.md) |
 | 2026-09-12 | 第一百零九课：AI 数据中心未开始租约与固定承诺压力测试入门：起租、可变付款、电力交付和合同尾部 | [2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md](./2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md) |
