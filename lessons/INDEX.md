@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-15 | 第一百一十一课：AI 数据中心流动性跑道与持续经营判断入门：现金、额度、烧钱速度和管理层计划 | [2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md](./2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md) |
+| 2026-09-15 | 第一百一十课：AI 数据中心租约退出、续租与重组入门：终止、转租、重新计量和恢复义务 | [2026-09-15-lesson-110-ai-data-center-lease-exit-renewal-restructuring.md](./2026-09-15-lesson-110-ai-data-center-lease-exit-renewal-restructuring.md) |
 | 2026-09-12 | 第一百零九课：AI 数据中心未开始租约与固定承诺压力测试入门：起租、可变付款、电力交付和合同尾部 | [2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md](./2026-09-12-lesson-109-ai-data-center-uncommenced-leases-fixed-commitment-stress-test.md) |
 | 2026-09-12 | 第一百零八课：AI 数据中心租赁与自有资产比较入门：使用权、租赁负债、期限和现金流 | [2026-09-12-lesson-108-ai-data-center-lease-versus-own-accounting.md](./2026-09-12-lesson-108-ai-data-center-lease-versus-own-accounting.md) |
 | 2026-09-12 | 第一百零七课：AI 设备减值与抵押回收压力测试入门：触发事件、可收回金额、迁移成本和损失缺口 | [2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md](./2026-09-12-lesson-107-ai-equipment-impairment-collateral-recovery-stress-test.md) |
