@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-09-16 | 第一百一十五课：AI 资本开支周期中的回购与净稀释入门：授权、执行、股权激励和每股价值 | [2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md](./2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md) |
+| 2026-09-16 | 第一百一十四课：AI 数据中心资本配置复盘入门：增长投资、维护投资、偿债、安全垫和股东回报 | [2026-09-16-lesson-114-ai-data-center-capital-allocation-priority.md](./2026-09-16-lesson-114-ai-data-center-capital-allocation-priority.md) |
 | 2026-09-15 | 第一百一十三课：AI 数据中心融资选择与股东稀释入门：债务、租赁、股权、资本成本和每股价值 | [2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md](./2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md) |
 | 2026-09-15 | 第一百一十二课：AI 数据中心资本结构综合复盘与预警面板：债务、租赁、设备、合同和资金缺口 | [2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md](./2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md) |
 | 2026-09-15 | 第一百一十一课：AI 数据中心流动性跑道与持续经营判断入门：现金、额度、烧钱速度和管理层计划 | [2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md](./2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md) |

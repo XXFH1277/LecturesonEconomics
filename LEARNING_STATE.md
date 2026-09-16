@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-09-15
+- 最近更新时间：2026-09-16
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
@@ -28,8 +28,11 @@
 - 当前阶段补充（2026-09-12 晚间自动更新）：第 108-109 课已把 AI 数据中心资产研究推进到 Lease-versus-buy、ROU Asset、Lease Liability、Operating Lease、Finance Lease、Incremental Borrowing Rate、Renewal Option、Lease Commencement、Uncommenced Lease、Undiscounted Payment、Imputed Interest、Variable Lease Cost、Committed Capacity、Fixed-Charge Coverage 和 Contract Tail，并用 CoreWeave 最新租赁负债、未开始租约、电力交付和设备安装承诺建立三层固定承诺时间表。
 - 当前阶段补充（2026-09-15 自动更新）：第 110-111 课已把 AI 数据中心长期承诺推进到 Renewal Option、Termination Option、Sublease、Lease Modification、Remeasurement、Abandonment、ARO、Restructuring、Liquidity、Solvency、Cash Runway、Cash Burn、Committed Facility、Undrawn Availability、Substantial Doubt 和 Going Concern，并用 CoreWeave 最新租约、资产退休义务、流动性来源、三类现金流和管理层一年期判断建立退出与现金跑道框架。
 - 当前阶段补充（2026-09-15 晚间自动更新）：第 112-113 课已把 AI 数据中心融资推进到资本结构综合面板和融资选择，覆盖 Capital Structure、Net Debt、Lease-adjusted Debt、Funding Gap、Maturity Ladder、Coverage、Trigger、Version Control、Debt Financing、Lease Financing、Equity Financing、Dilution、Marginal Cost of Capital、Incremental ROIC、Per-share Value 和 Funding Mix，并用 CoreWeave 最新债务、租赁、RPO、客户集中、股本、股权激励、现金流与 DDTL 5.5 披露完成事实、计算、推理和未知分层。
-- 已完成课程：第 113 课
+- 当前阶段补充（2026-09-16 自动更新）：第 114-115 课已把融资选择推进到资本配置优先级和回购净稀释，覆盖 Capital Allocation、Maintenance Capex、Growth Capex、Deleveraging、Liquidity Buffer、Buyback、Dividend、Opportunity Cost、Repurchase Authorization、Gross Buyback、Net Buyback、Share Count、SBC、Treasury Stock、Rule 10b-18 和 Rule 10b5-1，并用 CoreWeave、Microsoft、Alphabet 和 Amazon 最新官方披露比较不同生命周期的资本来源、用途与每股结果。
+- 已完成课程：第 115 课
 - 最近课程：
+  - [第一百一十五课：AI 资本开支周期中的回购与净稀释入门：授权、执行、股权激励和每股价值](./lessons/2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md)
+  - [第一百一十四课：AI 数据中心资本配置复盘入门：增长投资、维护投资、偿债、安全垫和股东回报](./lessons/2026-09-16-lesson-114-ai-data-center-capital-allocation-priority.md)
   - [第一百一十三课：AI 数据中心融资选择与股东稀释入门：债务、租赁、股权、资本成本和每股价值](./lessons/2026-09-15-lesson-113-ai-data-center-financing-choice-dilution-per-share-value.md)
   - [第一百一十二课：AI 数据中心资本结构综合复盘与预警面板：债务、租赁、设备、合同和资金缺口](./lessons/2026-09-15-lesson-112-ai-data-center-capital-structure-warning-dashboard.md)
   - [第一百一十一课：AI 数据中心流动性跑道与持续经营判断入门：现金、额度、烧钱速度和管理层计划](./lessons/2026-09-15-lesson-111-ai-data-center-liquidity-runway-going-concern.md)
@@ -551,6 +554,15 @@
 - 理解基本股数、稀释股数和完全摊薄口径，用增量 ROIC、边际资本成本和每股价值桥判断新增资本的作用。
 - 下一步进入第 114 课：研究增长投资、维护投资、偿债、安全垫与股东回报之间的资本配置优先级。
 
+### 第 114 课到第 115 课
+
+- 建立必要维护、契约义务、流动性缓冲、增长投资、偿债、并购与股东回报的资本配置优先级。
+- 明确维护性与增长性资本开支是分析口径，不能用总资本开支减折旧制造虚假精确值。
+- 用 CoreWeave、Microsoft、Alphabet 和 Amazon 的经营现金、资本开支、融资与股东回报观察不同生命周期的资金安排。
+- 区分回购授权、实际现金回购、总回购、净回购和净缩股率，把员工奖励、税款股份回收、新股融资和可转换证券放进股数桥。
+- 理解 Rule 10b-18 与 Rule 10b5-1 管理交易和法律风险，不替代回购价格、机会成本和每股价值判断。
+- 下一步进入第 116 课：把资本预算推进到投后全周期回报验证，跟踪投运、利用率、现金回收和退出价值。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -561,11 +573,11 @@
 
 ## 下节课安排
 
-- 建议主题：第一百一十四课：AI 数据中心资本配置复盘入门：增长投资、维护投资、偿债、安全垫和股东回报。
-- 学习目标：建立资本配置优先级，区分维护性与增长性资本开支，并检查增量回报、债务约束和每股价值。
-- 建议案例：从 CoreWeave 的投资现金流和融资结构出发，与成熟云厂商的资本开支、现金流和股东回报作口径一致的比较。
-- 必须解释的关键词：Capital Allocation、Maintenance Capex、Growth Capex、Deleveraging、Liquidity Buffer、Buyback、Dividend、Opportunity Cost。
-- 下节课开始前必须联网核验：最新财报、资本开支、自由现金流、债务、股本变动、回购或分红授权及管理层资本配置说明。
+- 建议主题：第一百一十六课：AI 基础设施全周期回报验证入门：投运、利用率、单位经济、现金回收和退出价值。
+- 学习目标：从资本预算走到投后复盘，区分建设完成、投入使用、收入爬坡、现金回收和最终退出。
+- 建议案例：选择一组云平台与基础设施公司，用官方财报建立项目时间轴和反证指标。
+- 必须解释的关键词：Post-investment Review、Commissioning、Utilization Ramp、Cash Payback、Residual Value、Exit Value、Write-down、Sunk Cost。
+- 下节课开始前必须联网核验：资产投运、资本开支、折旧、云收入和利润率、利用率替代指标、减值、资产出售与管理层回报说明。
 
 ## 下次如何继续
 
