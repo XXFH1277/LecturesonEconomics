@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-09-17
+- 最近更新时间：2026-10-08
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
@@ -30,8 +30,11 @@
 - 当前阶段补充（2026-09-15 晚间自动更新）：第 112-113 课已把 AI 数据中心融资推进到资本结构综合面板和融资选择，覆盖 Capital Structure、Net Debt、Lease-adjusted Debt、Funding Gap、Maturity Ladder、Coverage、Trigger、Version Control、Debt Financing、Lease Financing、Equity Financing、Dilution、Marginal Cost of Capital、Incremental ROIC、Per-share Value 和 Funding Mix，并用 CoreWeave 最新债务、租赁、RPO、客户集中、股本、股权激励、现金流与 DDTL 5.5 披露完成事实、计算、推理和未知分层。
 - 当前阶段补充（2026-09-16 自动更新）：第 114-115 课已把融资选择推进到资本配置优先级和回购净稀释，覆盖 Capital Allocation、Maintenance Capex、Growth Capex、Deleveraging、Liquidity Buffer、Buyback、Dividend、Opportunity Cost、Repurchase Authorization、Gross Buyback、Net Buyback、Share Count、SBC、Treasury Stock、Rule 10b-18 和 Rule 10b5-1，并用 CoreWeave、Microsoft、Alphabet 和 Amazon 最新官方披露比较不同生命周期的资本来源、用途与每股结果。
 - 当前阶段补充（2026-09-17 自动更新）：第 116-117 课已把资本配置推进到投后全周期回报验证和纠偏退出，覆盖 Post-investment Review、Commissioning、Assets Not Yet in Service、Utilization Ramp、Unit Economics、Cash Payback、Residual Value、Exit Value、Sunk Cost、Impairment Trigger、Asset Group、Undiscounted Cash Flow、Fair Value、Redeployment、Abandonment 和 Exit Cost，并用 Alphabet、Microsoft、CoreWeave 与 FASB 官方披露区分投运、利用率、现金回收、经济价值和会计减值。
-- 已完成课程：第 117 课
+- 当前阶段补充（2026-10-08 自动更新）：第 118-119 课已把投后分析推进到项目工作台和研究数据治理，覆盖 Dashboard、Baseline、Budget Variance、Milestone、Owner、Threshold、Trigger、Corrective Action、Scenario Update、No-action Decision、Audit Trail、Data Governance、Data Lineage、Source of Truth、Metric Dictionary、As Reported、Normalization、Inline XBRL、Version Control、Restatement、Review Evidence、Material Weakness 和 Materiality，并用 Alphabet、Microsoft、CoreWeave 与 SEC 官方披露建立从原始文件到决策结论的证据链。
+- 已完成课程：第 119 课
 - 最近课程：
+  - [第一百一十九课：AI 基础设施研究数据治理入门：来源链、口径字典、版本控制、重述和复核](./lessons/2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md)
+  - [第一百一十八课：AI 基础设施投后复盘工作台入门：预算差异、里程碑、反证和无行动结论](./lessons/2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md)
   - [第一百一十七课：AI 基础设施投后纠偏与退出决策入门：沉没成本、减值、再部署、缩减和退出](./lessons/2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md)
   - [第一百一十六课：AI 基础设施全周期回报验证入门：投运、利用率、单位经济、现金回收和退出价值](./lessons/2026-09-17-lesson-116-ai-infrastructure-post-investment-return-review.md)
   - [第一百一十五课：AI 资本开支周期中的回购与净稀释入门：授权、执行、股权激励和每股价值](./lessons/2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md)
@@ -72,7 +75,7 @@
   - [第八十课：主题 ETF 与行业 ETF 的集中度入门：叙事、持仓重叠、估值、流动性、监管和退出纪律](./lessons/2026-08-10-lesson-80-thematic-sector-etf-concentration.md)
 - 当前学习主线：已经建立市场地图、基金 ETF、债券利率、黄金原油、股票、衍生工具、IPO、三张报表、财报披露链、MD&A、风险因素、资本配置、guidance、预期差、估值倍数、电话会叙事、Capex、自由现金流、RPO、收入确认、递延收入、客户预付款、应收账款、坏账准备、营运资本、现金转换周期、毛利率、库存减值、折扣周期、营业费用、营业利润率、经营杠杆、净利润、利息费用、所得税、非经营项目、EPS、稀释股数、股票回购、股权激励、P/E、trailing P/E、forward P/E、consensus EPS、企业价值、净现金、净债务、EBITDA、EV/EBITDA、PEG、增长率、盈利预期修正、价值陷阱、经营现金流、资本开支、自由现金流收益率、现金转换、资本开支强度、DCF、现值、折现率、终值、安全边际、情景分析、敏感性分析、WACC、无风险利率、股权风险溢价、Beta、股权成本、债务成本、资本结构、税盾、信用利差、OAS、再融资风险、到期墙、债务契约、违约风险、ROIC、ROE、投入资本、NOPAT、经济利润、商誉、经营资产、资本强度、再投资率、增量 ROIC、维持性资本开支、增长性资本开支、内生增长、并购增长、回购收益率、增长质量、护城河、竞争优势、转换成本、网络效应、规模经济、品牌、定价权、客户留存、流失率、竞争衰减、总收入留存、净收入留存、扩容收入、客户队列、ARR、cRPO、订阅收入质量、CAC、LTV、回本周期、客户生命周期、单位经济模型、销售效率、Magic Number、Rule of 40、自由现金流率、高效增长、bookings、billings、deferred revenue、unearned revenue、deferred commissions、capitalized contract costs、SaaS 现金流质量、stock-based compensation、RSU、GAAP、Non-GAAP、dilution、diluted EPS、share repurchase、owner earnings、revenue driver、price、volume、usage、customer count、product mix、FX、constant currency、organic growth、acquired growth、forecast、three-statement model、gross margin、operating expense ratio、operating leverage、working capital schedule、capex schedule、free cash flow、share count forecast、scenario、sensitivity、real yield、breakeven inflation、opportunity cost、gold holding cost、equity risk premium、exchange rate、base currency、quote currency、dollar index、interest-rate differential、capital flow、FX translation、reserve currency、hedging、risk appetite、crude oil、WTI、Brent、inventory、refinery utilization、energy inflation、real income、policy reaction function、working storage、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、product market tightness、futures contract、notional value、tick、initial margin、maintenance margin、mark-to-market、variation margin、basis risk、hedge accounting、commodity pool、ETP、benchmark futures contract、roll、roll yield、contango drag、backwardation benefit、tracking difference、leverage risk、daily reset、call option、put option、premium、strike price、expiration、intrinsic value、time value、moneyness、protective put、covered call、implied volatility、historical volatility、CVOL、Delta、Gamma、Theta、Vega、Rho、delta hedge、gamma risk、time decay、volatility risk、covered call ETF、option overwrite、collar、buffer ETF、defined outcome、cap、buffer、outcome period、distribution rate、30-day SEC yield、return of capital、NAV erosion、19a notice、ELN、structured note、equity-linked note、issuer credit risk、embedded derivative、reference asset、participation rate、barrier、knock-in、autocallable、estimated value、secondary market liquidity、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、underwriting discount、no listing、worst-performing、memory coupon。
 - 当前学习主线补充：第 48-69 课已把组合暴露框架扩展到 ETF 基金穿透、ETF 交易机制、基金表现归因、基金风险指标、基金组合构建、债券基金读表、现金管理工具、T-Bill 阶梯、短端利率传导、收益率曲线形状、实际利率、通胀补偿、黄金与股票估值传导、美元汇率、跨资产风险偏好、原油能源通胀、库存可用性、期货曲线、炼化利润、风险溢价、原油期货、企业套保、保证金、每日盯市、基差风险、套期会计、原油期货类 ETP、商品池结构、展期收益、杠杆产品、散户风险边界、期权权利结构、保护性结构、隐含波动率、Greeks、Delta 对冲、卖方风险边界、期权策略产品化、备兑策略 ETF、保护性 put、collar、buffer ETF、defined outcome、cap/buffer/outcome period、期权收益型 ETF 分配率、SEC yield、NAV、market price、total return、return of capital、税务口径、结构化票据、ELN、发行人信用、嵌入式衍生品、自动赎回、票息障碍、阈值、估计价值和二级市场流动性。新增基金持仓、费用率、指数方法论、NAV、market price、premium/discount、authorized participant、creation/redemption、benchmark return、active return、tracking difference、attribution、volatility、maximum drawdown、Sharpe Ratio、asset allocation、core-satellite、risk budget、rebalancing band、duration、30 Day SEC Yield、credit quality、OAS、prepayment risk、money market fund、7-Day SEC Yield、FDIC insurance、SIPC protection、Treasury Bill、discount rate、investment rate、price per 100、bid-to-cover、reinvestment risk、policy rate、target range、IORB、ON RRP、EFFR、SOFR、repo、basis、lag、pass-through、yield curve、term spread、steepening、flattening、inversion、term premium、real yield、inflation compensation、breakeven inflation、opportunity cost、discount rate、equity risk premium、gold ETF、exchange rate、dollar index、capital flow、FX translation、WTI、Brent、inventory、refinery utilization、energy inflation、policy reaction function、tank bottoms、Cushing、futures curve、contango、backwardation、crack spread、refining margin、risk premium、futures contract、margin、mark-to-market、basis risk、commodity pool、roll yield、daily reset、futures option、moneyness、time value、implied volatility、Greeks、Delta hedge、covered call ETF、option overwrite、buffer ETF、defined outcome、distribution rate、return of capital、NAV erosion、19a notice、ELN、structured note、issuer credit risk、embedded derivative、reference asset、barrier、knock-in、autocallable、observation date、contingent coupon、coupon barrier、call value、threshold value、principal at risk、estimated value、underwriting discount、no listing 和 secondary market liquidity。
-- 本次新增关键词：Post-investment Review、Commissioning、Assets Not Yet in Service、Utilization Ramp、Unit Economics、Cash Payback、Residual Value、Exit Value、Sunk Cost、Impairment Trigger、Asset Group、Undiscounted Cash Flow、Fair Value、Redeployment、Abandonment、Exit Cost。
+- 本次新增关键词：Dashboard、Baseline、Budget Variance、Milestone、Owner、Threshold、Trigger、Corrective Action、Scenario Update、No-action Decision、Audit Trail、Data Governance、Data Lineage、Source of Truth、Metric Dictionary、As Reported、Normalization、Inline XBRL、Version Control、Restatement、Review Evidence、Material Weakness、Materiality。
 
 ## 已完成内容摘要
 
@@ -575,6 +578,15 @@
 - 建立继续、延期、缩减、再部署、转租、出售和弃用的纠偏菜单，并把拆除、迁移、恢复、罚金和等待成本纳入净退出价值。
 - 下一步进入第 118 课：把第 90-117 课压缩成项目级投后复盘工作台，跟踪预算差异、里程碑、反证、纠偏动作和无行动结论。
 
+### 第 118 课到第 119 课
+
+- 建立项目身份、预算、建设投运、需求、单位经济、现金融资和退出治理七栏投后工作台。
+- 保留原始 Baseline 与更新预测，用数量、价格、时间、范围和口径拆解 Budget Variance。
+- 把 Threshold 连接到 Trigger、Owner、Corrective Action、关闭条件和复查日期，并记录 No-action Decision。
+- 建立 Source of Truth、Data Lineage 和 Metric Dictionary，让每个指标追溯到表单、期间、单位、范围与原始标签。
+- 区分 As Reported 与 Normalization，理解 Inline XBRL、Version Control、Restatement、Review Evidence、Material Weakness 和 Materiality 的研究用途与边界。
+- 下一步进入第 120 课：把工作台和数据治理带入投后决策会议，练习红队提问、条件批准、暂停和复查闭环。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -585,11 +597,11 @@
 
 ## 下节课安排
 
-- 建议主题：第一百一十八课：AI 基础设施投后复盘工作台入门：预算差异、里程碑、反证和无行动结论。
-- 学习目标：把建设、投运、需求、单位经济、现金、融资和退出放进一张可季度更新的项目级表格。
-- 建议案例：选择一个云平台和一个专用基础设施公司，建立预算、实际、差异、原因、动作、责任人与复查日期七栏日志。
-- 必须解释的关键词：Budget Variance、Milestone、Owner、Trigger、Corrective Action、Scenario Update、No-action Decision、Audit Trail。
-- 下节课开始前必须联网核验：最新资本开支、尚未投运资产、折旧、收入、利润、RPO、现金流、债务和管理层项目进度说明。
+- 建议主题：第一百二十课：AI 基础设施投后决策会议入门：红队提问、条件批准、暂停和复查闭环。
+- 学习目标：把数据工作台转成会议议程、决策选项、反对意见、批准条件和后续责任。
+- 建议案例：围绕一个投运延迟且追加融资的项目，分别形成继续、条件继续、暂停、缩减和退出方案。
+- 必须解释的关键词：Decision Memo、Red Team、Conditional Approval、Decision Right、Escalation、Action Log、Closed-loop Review、Post-mortem。
+- 下节课开始前必须联网核验：最新公司项目进度、资本承诺、融资、风险因素、控制程序和重大事件披露。
 
 ## 下次如何继续
 

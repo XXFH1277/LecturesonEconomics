@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-10-08 | 第一百一十九课：AI 基础设施研究数据治理入门：来源链、口径字典、版本控制、重述和复核 | [2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md](./2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md) |
+| 2026-10-08 | 第一百一十八课：AI 基础设施投后复盘工作台入门：预算差异、里程碑、反证和无行动结论 | [2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md](./2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md) |
 | 2026-09-17 | 第一百一十七课：AI 基础设施投后纠偏与退出决策入门：沉没成本、减值、再部署、缩减和退出 | [2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md](./2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md) |
 | 2026-09-17 | 第一百一十六课：AI 基础设施全周期回报验证入门：投运、利用率、单位经济、现金回收和退出价值 | [2026-09-17-lesson-116-ai-infrastructure-post-investment-return-review.md](./2026-09-17-lesson-116-ai-infrastructure-post-investment-return-review.md) |
 | 2026-09-16 | 第一百一十五课：AI 资本开支周期中的回购与净稀释入门：授权、执行、股权激励和每股价值 | [2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md](./2026-09-16-lesson-115-share-repurchase-net-dilution-per-share-value.md) |
