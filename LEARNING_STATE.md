@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-- 最近更新时间：2026-10-08
+- 最近更新时间：2026-10-10
 - 当前阶段：零基础入门已经推进到“收入确认 -> 应收账款 -> 营运资本 -> 现金转换周期 -> 毛利率 -> 库存减值与折扣 -> 营业费用 -> 经营杠杆 -> 净利润 -> 利息和税费 -> EPS -> 稀释、回购与股本数量 -> P/E 与 EPS 预期 -> 企业价值与 EV/EBITDA -> PEG 与增长率 -> 自由现金流收益率与估值质量 -> DCF、折现率、终值、安全边际、情景分析与敏感性分析 -> WACC、无风险利率、股权风险溢价、资本结构 -> 信用利差、税盾与债务风险 -> ROIC、ROE、投入资本、经济利润 -> 再投资率、增量 ROIC 与增长质量 -> 护城河、竞争优势与 ROIC 持续性 -> 客户留存、流失率、NRR 与订阅收入质量 -> CAC、LTV 与回本周期 -> Sales Efficiency、Magic Number、Rule of 40 与单位经济模型 -> Bookings、Billings、递延收入、递延佣金与 SaaS 现金流质量 -> 股权激励、Non-GAAP、稀释与现金流质量 -> 收入增长拆解、价格、用量、客户数、产品组合、汇率与并购 -> 三表预测、毛利率、费用率、资本开支、自由现金流与每股指标 -> 情景假设、敏感性表、估值输入 -> 估值区间、安全边际、反证指标与学习型风控 -> 投资备忘录、观察清单与研究日志 -> 组合暴露、相关性与再平衡 -> 基金与 ETF 持仓穿透、费用率和指数方法论 -> ETF 交易机制、NAV、申购赎回与溢价折价 -> 基金表现归因、基准偏离与主动/被动差异 -> 基金风险指标、波动率、最大回撤与 Sharpe Ratio -> 基金组合构建、核心/卫星配置与再平衡 -> 债券基金、久期、信用质量与 SEC Yield -> 货币市场基金、T-Bill、短债 ETF 与现金管理 -> T-Bill 阶梯、拍卖口径与再投资风险 -> 收益率曲线、FOMC、SOFR 与现金收益率传导 -> 收益率曲线形状、期限溢价与周期信号 -> 实际利率、通胀补偿、黄金与股票估值传导 -> 美元、汇率、利差与跨资产风险偏好 -> 原油、能源通胀、美元与利率传导 -> 库存、期货曲线、炼化利润与风险溢价 -> 原油期货、套期保值、保证金与企业成本管理 -> 原油期货类 ETP、展期收益、杠杆产品与散户风险边界 -> 期权入门：看涨、看跌、权利金、时间价值与保护性结构 -> 隐含波动率、Greeks、Delta 对冲与期权风险边界 -> 期权策略产品化、备兑、保护性 Put、Collar、Buffer ETF 与收益边界 -> 期权收益型 ETF 读表、Distribution Yield、SEC Yield、NAV 与总回报边界 -> 结构化票据与 ELN、收益增强、自动赎回、障碍条款与发行人信用风险 -> 自动赎回票据读表、观察日、票息障碍、赎回条件与最坏情景 -> 结构化产品税务与报表口径 -> 基金持仓穿透、ELN 暴露、公允价值层级与分配税性 -> 收益型 ETF 分配质量、税后总回报、税务效率与再投资假设”。
 - 当前阶段补充（2026-08-01）：第 70-71 课已把结构化票据从单一标的自动赎回推进到多标的 worst-performing、相关性、memory coupon、复杂指数、decrement、volatility target、TCA、回测边界与指数方法论风险。
 - 当前阶段补充（2026-08-02）：第 72-73 课已把结构化产品继续推进到发行人信用、担保人、高级无担保债、估计价值、发行价、承销费、发行人所得、二级市场报价、做市、流动性折价、账户估值、持有期观察日、适当性、客户投资画像和退出决策。
@@ -31,8 +31,11 @@
 - 当前阶段补充（2026-09-16 自动更新）：第 114-115 课已把融资选择推进到资本配置优先级和回购净稀释，覆盖 Capital Allocation、Maintenance Capex、Growth Capex、Deleveraging、Liquidity Buffer、Buyback、Dividend、Opportunity Cost、Repurchase Authorization、Gross Buyback、Net Buyback、Share Count、SBC、Treasury Stock、Rule 10b-18 和 Rule 10b5-1，并用 CoreWeave、Microsoft、Alphabet 和 Amazon 最新官方披露比较不同生命周期的资本来源、用途与每股结果。
 - 当前阶段补充（2026-09-17 自动更新）：第 116-117 课已把资本配置推进到投后全周期回报验证和纠偏退出，覆盖 Post-investment Review、Commissioning、Assets Not Yet in Service、Utilization Ramp、Unit Economics、Cash Payback、Residual Value、Exit Value、Sunk Cost、Impairment Trigger、Asset Group、Undiscounted Cash Flow、Fair Value、Redeployment、Abandonment 和 Exit Cost，并用 Alphabet、Microsoft、CoreWeave 与 FASB 官方披露区分投运、利用率、现金回收、经济价值和会计减值。
 - 当前阶段补充（2026-10-08 自动更新）：第 118-119 课已把投后分析推进到项目工作台和研究数据治理，覆盖 Dashboard、Baseline、Budget Variance、Milestone、Owner、Threshold、Trigger、Corrective Action、Scenario Update、No-action Decision、Audit Trail、Data Governance、Data Lineage、Source of Truth、Metric Dictionary、As Reported、Normalization、Inline XBRL、Version Control、Restatement、Review Evidence、Material Weakness 和 Materiality，并用 Alphabet、Microsoft、CoreWeave 与 SEC 官方披露建立从原始文件到决策结论的证据链。
-- 已完成课程：第 119 课
+- 当前阶段补充（2026-10-10 自动更新）：第 120-121 课已把投后工作台推进到决策会议与事后复盘，覆盖 Decision Memo、Red Team、Conditional Approval、Decision Right、Escalation、Action Log、Closed-loop Review、Post-mortem、Forecast Error、Counterfactual、Hindsight Bias、Outcome Bias、Root Cause、Lessons Learned 和 Control Owner。用 CoreWeave 2026 Q2 10-Q、2026-09-22 8-K、OECD 和 GAO 原始来源区分公司级披露与虚构项目演练，强调融资不能倒填期末现金、RPO 不等于项目收款，复盘必须保留原始预测版本并分别评价过程与结果。
+- 已完成课程：第 121 课
 - 最近课程：
+  - [第一百二十一课：AI 基础设施投后决策事后复盘入门：预测与结果、反事实、责任和经验回灌](./lessons/2026-10-10-lesson-121-ai-infrastructure-decision-postmortem-learning-loop.md)
+  - [第一百二十课：AI 基础设施投后决策会议入门：红队提问、条件批准、暂停和复查闭环](./lessons/2026-10-10-lesson-120-ai-infrastructure-investment-decision-meeting.md)
   - [第一百一十九课：AI 基础设施研究数据治理入门：来源链、口径字典、版本控制、重述和复核](./lessons/2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md)
   - [第一百一十八课：AI 基础设施投后复盘工作台入门：预算差异、里程碑、反证和无行动结论](./lessons/2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md)
   - [第一百一十七课：AI 基础设施投后纠偏与退出决策入门：沉没成本、减值、再部署、缩减和退出](./lessons/2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md)
@@ -587,6 +590,15 @@
 - 区分 As Reported 与 Normalization，理解 Inline XBRL、Version Control、Restatement、Review Evidence、Material Weakness 和 Materiality 的研究用途与边界。
 - 下一步进入第 120 课：把工作台和数据治理带入投后决策会议，练习红队提问、条件批准、暂停和复查闭环。
 
+### 第 120 课到第 121 课
+
+- 把投后工作台转成决策备忘录，比较继续、条件继续、暂停、缩减和退出五项选择的未来增量现金。
+- 用红队问题、金额上限、独立证据、权限矩阵、行动日志和明确复查日形成条件批准闭环。
+- 对照 CoreWeave 2026 Q2 10-Q 与 9 月融资 8-K，区分公司级 RPO、后续融资事件与项目级可用现金。
+- 事后复盘保留原预测版本，分别评价过程质量和结果质量，用预测误差、反事实和根因分析改进规则。
+- 明确控制缺陷不等于已发生重大错报；虚构项目数字不能被写成公司真实经营事实。
+- 下一步进入第 122 课：比较多个项目之间的资本、电力、人才和风险容量分配。
+
 ## 用户素材与长期参考
 
 - 用户提供的视频字幕素材已整理为 [2026-05-27 财经视频字幕提炼](./references/source-materials/2026-05-27-finance-video-subtitle-notes.md)。
@@ -597,11 +609,11 @@
 
 ## 下节课安排
 
-- 建议主题：第一百二十课：AI 基础设施投后决策会议入门：红队提问、条件批准、暂停和复查闭环。
-- 学习目标：把数据工作台转成会议议程、决策选项、反对意见、批准条件和后续责任。
-- 建议案例：围绕一个投运延迟且追加融资的项目，分别形成继续、条件继续、暂停、缩减和退出方案。
-- 必须解释的关键词：Decision Memo、Red Team、Conditional Approval、Decision Right、Escalation、Action Log、Closed-loop Review、Post-mortem。
-- 下节课开始前必须联网核验：最新公司项目进度、资本承诺、融资、风险因素、控制程序和重大事件披露。
+- 建议主题：第一百二十二课：AI 基础设施项目组合治理入门：资源排序、共同风险和资本上限。
+- 学习目标：从单项目决策走向多个项目争夺同一笔现金、电力、人才与债务容量时的排序和阶段闸门。
+- 建议案例：两个虚构数据中心项目，一个需求强但电力晚到，一个交付快但客户集中；公开公司披露只作为风险背景。
+- 必须解释的关键词：Portfolio Governance、Capital Rationing、Correlated Risk、Stage Gate、Opportunity Cost、Concentration Limit。
+- 下节课开始前必须联网核验：最新 10-Q/8-K、债务和租赁承诺、RPO、现金流、资本开支及电力和项目进展披露。
 
 ## 下次如何继续
 

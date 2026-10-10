@@ -12,6 +12,8 @@ lessons/YYYY-MM-DD-topic-slug.md
 
 | 日期 | 主题 | 文件 |
 | --- | --- | --- |
+| 2026-10-10 | 第一百二十一课：AI 基础设施投后决策事后复盘入门：预测与结果、反事实、责任和经验回灌 | [2026-10-10-lesson-121-ai-infrastructure-decision-postmortem-learning-loop.md](./2026-10-10-lesson-121-ai-infrastructure-decision-postmortem-learning-loop.md) |
+| 2026-10-10 | 第一百二十课：AI 基础设施投后决策会议入门：红队提问、条件批准、暂停和复查闭环 | [2026-10-10-lesson-120-ai-infrastructure-investment-decision-meeting.md](./2026-10-10-lesson-120-ai-infrastructure-investment-decision-meeting.md) |
 | 2026-10-08 | 第一百一十九课：AI 基础设施研究数据治理入门：来源链、口径字典、版本控制、重述和复核 | [2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md](./2026-10-08-lesson-119-ai-infrastructure-data-governance-lineage.md) |
 | 2026-10-08 | 第一百一十八课：AI 基础设施投后复盘工作台入门：预算差异、里程碑、反证和无行动结论 | [2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md](./2026-10-08-lesson-118-ai-infrastructure-post-investment-dashboard.md) |
 | 2026-09-17 | 第一百一十七课：AI 基础设施投后纠偏与退出决策入门：沉没成本、减值、再部署、缩减和退出 | [2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md](./2026-09-17-lesson-117-ai-infrastructure-correction-exit-sunk-cost.md) |
